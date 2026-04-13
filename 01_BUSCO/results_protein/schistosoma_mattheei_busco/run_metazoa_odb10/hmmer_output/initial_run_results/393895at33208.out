@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_78110.1        -            501 393895at33208        -            430  6.8e-193  641.1   7.4   1   2   2.1e-14     3e-11   42.7   0.0     4    58    35    89    32   109 0.89 transcript=SMTH1_78110.1 gene=SMTH1_78110
+SMTH1_78110.1        -            501 393895at33208        -            430  6.8e-193  641.1   7.4   2   2  1.5e-182  2.2e-179  596.6   7.2    68   429   124   496   121   497 0.96 transcript=SMTH1_78110.1 gene=SMTH1_78110
+SMTH1_78110.3        -            499 393895at33208        -            430  3.1e-183  609.3   7.1   1   2   2.1e-14   2.9e-11   42.7   0.0     4    58    35    89    32   109 0.89 transcript=SMTH1_78110.3 gene=SMTH1_78110
+SMTH1_78110.3        -            499 393895at33208        -            430  3.1e-183  609.3   7.1   2   2  7.5e-173  1.1e-169  564.7   6.8    68   410   124   477   121   486 0.96 transcript=SMTH1_78110.3 gene=SMTH1_78110
+SMTH1_78110.2        -            416 393895at33208        -            430  4.8e-142  473.6   5.9   1   2   1.6e-14   2.3e-11   43.0   0.0     4    58    35    89    32   109 0.89 transcript=SMTH1_78110.2 gene=SMTH1_78110
+SMTH1_78110.2        -            416 393895at33208        -            430  4.8e-142  473.6   5.9   2   2  1.5e-131  2.2e-128  428.6   5.6    68   340   124   407   121   410 0.95 transcript=SMTH1_78110.2 gene=SMTH1_78110
+SMTH1_11000.1        -            422 393895at33208        -            430   4.3e-09   35.5   0.2   1   1   4.5e-12   6.4e-09   35.0   0.2   257   389   258   390   220   395 0.94 transcript=SMTH1_11000.1 gene=SMTH1_11000
+SMTH1_11000.2        -            422 393895at33208        -            430   4.3e-09   35.5   0.2   1   1   4.5e-12   6.4e-09   35.0   0.2   257   389   258   390   220   395 0.94 transcript=SMTH1_11000.2 gene=SMTH1_11000
+SMTH1_11000.3        -            422 393895at33208        -            430   4.3e-09   35.5   0.2   1   1   4.5e-12   6.4e-09   35.0   0.2   257   389   258   390   220   395 0.94 transcript=SMTH1_11000.3 gene=SMTH1_11000
+SMTH1_58890.2        -            377 393895at33208        -            430   2.4e-07   29.8   0.3   1   1   2.2e-10   3.2e-07   29.4   0.3   177   356   174   355   122   363 0.76 transcript=SMTH1_58890.2 gene=SMTH1_58890
+SMTH1_58890.1        -            406 393895at33208        -            430   2.9e-07   29.5   0.3   1   1   2.7e-10   3.9e-07   29.1   0.3   177   356   203   384   152   392 0.76 transcript=SMTH1_58890.1 gene=SMTH1_58890
+SMTH1_58890.4        -            302 393895at33208        -            430     2e-05   23.4   0.3   1   1   1.7e-08   2.4e-05   23.2   0.3   176   305   173   297   118   302 0.80 transcript=SMTH1_58890.4 gene=SMTH1_58890
+SMTH1_58890.3        -            331 393895at33208        -            430   2.5e-05   23.1   0.3   1   1   2.1e-08     3e-05   22.9   0.3   177   305   203   326   148   331 0.80 transcript=SMTH1_58890.3 gene=SMTH1_58890
+SMTH1_11000.4        -            348 393895at33208        -            430    0.0001   21.1   0.0   1   1   1.1e-07   0.00015   20.5   0.0   257   335   258   336   217   344 0.92 transcript=SMTH1_11000.4 gene=SMTH1_11000
+SMTH1_16430.1        -            544 393895at33208        -            430    0.0001   21.1   0.5   1   1   1.2e-07   0.00018   20.3   0.5   256   359   182   295   147   327 0.76 transcript=SMTH1_16430.1 gene=SMTH1_16430
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/393895at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/393895at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/393895at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:22 2026
+# [ok]

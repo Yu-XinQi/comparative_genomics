@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EWB00_006429.1       -            180 570646at33208        -            147   3.1e-57  192.5   4.0   1   1   1.8e-60   7.7e-57  191.2   4.0     1   147    17   178    17   178 0.91 transcript=EWB00_006429.1 gene=EWB00_006429
+EWB00_006429.2       -            180 570646at33208        -            147   3.1e-57  192.5   4.0   1   1   1.8e-60   7.7e-57  191.2   4.0     1   147    17   178    17   178 0.91 transcript=EWB00_006429.2 gene=EWB00_006429
+EWB00_007764.2       -            771 570646at33208        -            147       2.2    8.0   5.9   1   2   8.7e-05      0.37   10.5   1.1    27    65   384   422   374   431 0.76 transcript=EWB00_007764.2 gene=EWB00_007764
+EWB00_007764.2       -            771 570646at33208        -            147       2.2    8.0   5.9   2   2      0.91   3.8e+03   -2.5   0.3    33    57   628   652   624   657 0.71 transcript=EWB00_007764.2 gene=EWB00_007764
+EWB00_007764.1       -            740 570646at33208        -            147       2.4    7.9   6.0   1   2   8.3e-05      0.35   10.6   1.1    27    65   469   507   459   516 0.76 transcript=EWB00_007764.1 gene=EWB00_007764
+EWB00_007764.1       -            740 570646at33208        -            147       2.4    7.9   6.0   2   2       1.1   4.7e+03   -2.8   0.3    33    57   713   737   709   739 0.72 transcript=EWB00_007764.1 gene=EWB00_007764
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570646at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_japonicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_japonicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/570646at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570646at33208.hmm /users/40483456/protein/schistosoma_japonicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:53:26 2026
+# [ok]

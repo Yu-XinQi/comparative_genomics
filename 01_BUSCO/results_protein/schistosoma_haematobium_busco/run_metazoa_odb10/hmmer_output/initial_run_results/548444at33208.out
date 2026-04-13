@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SHAE2_46680.1        -            426 548444at33208        -            252   4.4e-16   59.2   5.2   1   2    0.0042        92    2.5   4.7    49   107   139   200   103   217 0.73 transcript=SHAE2_46680.1 gene=SHAE2_46680
+SHAE2_46680.1        -            426 548444at33208        -            252   4.4e-16   59.2   5.2   2   2     2e-20   4.4e-16   59.2   5.2   117   230   242   360   220   381 0.85 transcript=SHAE2_46680.1 gene=SHAE2_46680
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/548444at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_haematobium.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_haematobium_busco/run_metazoa_odb10/hmmer_output/initial_run_results/548444at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/548444at33208.hmm /users/40483456/protein/schistosoma_haematobium.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:50:51 2026
+# [ok]

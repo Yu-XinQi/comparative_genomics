@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_54730.1        -            269 561054at33208        -            141     2e-35  121.5   0.0   1   1   5.9e-39     5e-35  120.2   0.0     2   130    42   201    41   211 0.79 transcript=SSPN1_54730.1 gene=SSPN1_54730
+SSPN1_44300.1        -            192 561054at33208        -            141   4.5e-31  107.4   0.0   1   1   1.3e-34   1.1e-30  106.1   0.0     1   124     7   160     7   179 0.78 transcript=SSPN1_44300.1 gene=SSPN1_44300
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561054at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/561054at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561054at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:36 2026
+# [ok]

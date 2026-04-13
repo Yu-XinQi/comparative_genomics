@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAK4468034.1         -            193 631811at33208        -            140   1.4e-40  137.9   1.7   1   2   2.4e-11   2.2e-07   30.3   0.1     2    46     8    51     7    59 0.82 hypothetical protein MN116_008211 [Schistosoma mekongi]
+KAK4468034.1         -            193 631811at33208        -            140   1.4e-40  137.9   1.7   2   2   3.6e-35   3.3e-31  107.5   0.3    33   140    57   177    51   177 0.85 hypothetical protein MN116_008211 [Schistosoma mekongi]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/631811at33208.hmm
+# Target file:     /users/40483456/protein/s.mekongi.faa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/s.mekongi_busco/run_metazoa_odb10/hmmer_output/initial_run_results/631811at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/631811at33208.hmm /users/40483456/protein/s.mekongi.faa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:04:34 2026
+# [ok]

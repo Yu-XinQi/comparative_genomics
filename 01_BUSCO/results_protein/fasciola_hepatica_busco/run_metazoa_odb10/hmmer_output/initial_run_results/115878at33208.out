@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g1876.t1     -            290 115878at33208        -            444   2.8e-91  306.9   0.1   1   1     1e-94   3.1e-91  306.7   0.1   188   442     4   268     1   270 0.93 transcript=FhHiC23_g1876.t1 gene=FhHiC23_g1876
+FhHiC23_g10065.t1    -           1834 115878at33208        -            444    0.0025   17.0   0.8   1   2   4.3e-05      0.13   11.4   0.1   204   246   593   635   550   648 0.80 transcript=FhHiC23_g10065.t1 gene=FhHiC23_g10065
+FhHiC23_g10065.t1    -           1834 115878at33208        -            444    0.0025   17.0   0.8   2   2     0.011        33    3.4   0.0   227   246  1527  1546  1517  1554 0.90 transcript=FhHiC23_g10065.t1 gene=FhHiC23_g10065
+FhHiC23_g16861.t1    -            225 115878at33208        -            444      0.03   13.4   0.4   1   2   2.9e-05     0.088   11.9   0.1   229   255     9    35     3    45 0.81 transcript=FhHiC23_g16861.t1 gene=FhHiC23_g16861
+FhHiC23_g16861.t1    -            225 115878at33208        -            444      0.03   13.4   0.4   2   2      0.21   6.5e+02   -0.8   0.0    65   130    98   167    80   220 0.56 transcript=FhHiC23_g16861.t1 gene=FhHiC23_g16861
+FhHiC23_g9511.t1     -            256 115878at33208        -            444     0.035   13.3   0.2   1   2   2.8e-05     0.084   12.0   0.1   225   255    37    66    29    75 0.81 transcript=FhHiC23_g9511.t1 gene=FhHiC23_g9511
+FhHiC23_g9511.t1     -            256 115878at33208        -            444     0.035   13.3   0.2   2   2      0.38   1.1e+03   -1.6   0.0    66   109   130   175   112   249 0.60 transcript=FhHiC23_g9511.t1 gene=FhHiC23_g9511
+FhHiC23_g5345.t2     -           1281 115878at33208        -            444       0.1   11.7   0.0   1   1     6e-05      0.18   10.9   0.0   225   255   390   420   376   424 0.87 transcript=FhHiC23_g5345.t2 gene=FhHiC23_g5345
+FhHiC23_g5345.t1     -           1477 115878at33208        -            444      0.12   11.4   0.0   1   1   7.1e-05      0.21   10.7   0.0   225   255   579   609   565   613 0.87 transcript=FhHiC23_g5345.t1 gene=FhHiC23_g5345
+FhHiC23_g5211.t1     -           1349 115878at33208        -            444      0.22   10.6   0.0   1   1   0.00016      0.48    9.5   0.0   216   255   255   295   241   305 0.82 transcript=FhHiC23_g5211.t1 gene=FhHiC23_g5211
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/115878at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/115878at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/115878at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:42:09 2026
+# [ok]

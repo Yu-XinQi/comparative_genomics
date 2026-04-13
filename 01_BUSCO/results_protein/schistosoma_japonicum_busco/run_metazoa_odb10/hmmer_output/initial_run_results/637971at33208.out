@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EWB00_011261.1       -            124 637971at33208        -             88   1.1e-25   89.8   8.8   1   2   7.9e-06     0.013   15.8   7.3     1    22    13    37    13    58 0.79 transcript=EWB00_011261.1 gene=EWB00_011261
+EWB00_011261.1       -            124 637971at33208        -             88   1.1e-25   89.8   8.8   2   2     4e-24   6.8e-21   74.4   0.0    20    86    55   122    41   124 0.89 transcript=EWB00_011261.1 gene=EWB00_011261
+EWB00_011261.2       -            124 637971at33208        -             88   1.1e-25   89.8   8.8   1   2   7.9e-06     0.013   15.8   7.3     1    22    13    37    13    58 0.79 transcript=EWB00_011261.2 gene=EWB00_011261
+EWB00_011261.2       -            124 637971at33208        -             88   1.1e-25   89.8   8.8   2   2     4e-24   6.8e-21   74.4   0.0    20    86    55   122    41   124 0.89 transcript=EWB00_011261.2 gene=EWB00_011261
+EWB00_001301.2       -            113 637971at33208        -             88     0.023   15.0   0.0   1   1     2e-05     0.035   14.5   0.0    31    68    69   106    48   108 0.83 transcript=EWB00_001301.2 gene=EWB00_001301
+EWB00_006231.2       -            494 637971at33208        -             88     0.027   14.8   0.1   1   1     5e-05     0.084   13.2   0.1     8    65    20    78    15    86 0.84 transcript=EWB00_006231.2 gene=EWB00_006231
+EWB00_001301.1       -            163 637971at33208        -             88     0.036   14.4   0.0   1   1   4.3e-05     0.073   13.4   0.0    31    68   119   156    96   158 0.83 transcript=EWB00_001301.1 gene=EWB00_001301
+EWB00_001301.3       -            172 637971at33208        -             88      0.04   14.3   0.0   1   1   4.9e-05     0.083   13.3   0.0    31    68   128   165   106   167 0.83 transcript=EWB00_001301.3 gene=EWB00_001301
+EWB00_001301.5       -            172 637971at33208        -             88      0.04   14.3   0.0   1   1   4.9e-05     0.083   13.3   0.0    31    68   128   165   106   167 0.83 transcript=EWB00_001301.5 gene=EWB00_001301
+EWB00_006231.1       -            431 637971at33208        -             88     0.069   13.5   0.1   1   2   4.1e-05     0.069   13.5   0.1     8    65    20    78    15    86 0.84 transcript=EWB00_006231.1 gene=EWB00_006231
+EWB00_006231.1       -            431 637971at33208        -             88     0.069   13.5   0.1   2   2        10   1.7e+04   -4.4   0.6     5    17   330   342   329   348 0.74 transcript=EWB00_006231.1 gene=EWB00_006231
+EWB00_001301.6       -             80 637971at33208        -             88      0.11   12.8   0.0   1   1   7.5e-05      0.13   12.7   0.0    31    61    31    61    10    77 0.78 transcript=EWB00_001301.6 gene=EWB00_001301
+EWB00_007294         -            626 637971at33208        -             88      0.24   11.8   2.8   1   2       7.7   1.3e+04   -3.4   0.0    12    29   220   237   219   239 0.81 transcript=EWB00_007294 gene=EWB00_007294
+EWB00_007294         -            626 637971at33208        -             88      0.24   11.8   2.8   2   2   0.00016      0.28   11.6   1.3    19    69   559   608   551   613 0.91 transcript=EWB00_007294 gene=EWB00_007294
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/637971at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_japonicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_japonicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/637971at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/637971at33208.hmm /users/40483456/protein/schistosoma_japonicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:53:34 2026
+# [ok]

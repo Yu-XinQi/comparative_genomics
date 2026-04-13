@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_34660.1        -            382 498535at33208        -            223   7.5e-91  303.7   4.0   1   2   7.9e-88   3.2e-84  282.0   1.9     1   176     1   181     1   200 0.94 transcript=SBOV2_34660.1 gene=SBOV2_34660
+SBOV2_34660.1        -            382 498535at33208        -            223   7.5e-91  303.7   4.0   2   2     3e-08   0.00012   21.8   0.0   180   218   289   327   270   332 0.86 transcript=SBOV2_34660.1 gene=SBOV2_34660
+SBOV2_56160.1        -            870 498535at33208        -            223    0.0024   17.6   0.5   1   2   1.9e-06    0.0079   15.8   0.3   139   190   294   346   275   356 0.77 transcript=SBOV2_56160.1 gene=SBOV2_56160
+SBOV2_56160.1        -            870 498535at33208        -            223    0.0024   17.6   0.5   2   2       0.7   2.8e+03   -2.3   0.0    98   117   496   515   485   517 0.85 transcript=SBOV2_56160.1 gene=SBOV2_56160
+SBOV2_56170.3        -            655 498535at33208        -            223      0.12   11.9   0.2   1   3       1.6   6.5e+03   -3.5   0.0    71   102   196   228   195   232 0.75 transcript=SBOV2_56170.3 gene=SBOV2_56170
+SBOV2_56170.3        -            655 498535at33208        -            223      0.12   11.9   0.2   2   3   0.00021      0.85    9.2   0.2   138   190   293   345   275   355 0.74 transcript=SBOV2_56170.3 gene=SBOV2_56170
+SBOV2_56170.3        -            655 498535at33208        -            223      0.12   11.9   0.2   3   3      0.48   1.9e+03   -1.8   0.0    98   117   495   514   483   517 0.84 transcript=SBOV2_56170.3 gene=SBOV2_56170
+SBOV2_56170.4        -            707 498535at33208        -            223      0.13   11.8   0.2   1   3       1.9   7.7e+03   -3.8   0.0    71   102   196   228   195   231 0.75 transcript=SBOV2_56170.4 gene=SBOV2_56170
+SBOV2_56170.4        -            707 498535at33208        -            223      0.13   11.8   0.2   2   3   0.00023      0.94    9.1   0.2   138   190   293   345   275   355 0.74 transcript=SBOV2_56170.4 gene=SBOV2_56170
+SBOV2_56170.4        -            707 498535at33208        -            223      0.13   11.8   0.2   3   3      0.53   2.1e+03   -1.9   0.0    98   117   495   514   483   517 0.84 transcript=SBOV2_56170.4 gene=SBOV2_56170
+SBOV2_56170.7        -            694 498535at33208        -            223      0.14   11.7   0.2   1   3       1.9   7.6e+03   -3.7   0.0    71   102   196   228   195   231 0.75 transcript=SBOV2_56170.7 gene=SBOV2_56170
+SBOV2_56170.7        -            694 498535at33208        -            223      0.14   11.7   0.2   2   3   0.00023      0.92    9.1   0.2   138   190   293   345   275   355 0.74 transcript=SBOV2_56170.7 gene=SBOV2_56170
+SBOV2_56170.7        -            694 498535at33208        -            223      0.14   11.7   0.2   3   3      0.51   2.1e+03   -1.9   0.0    98   117   495   514   483   517 0.84 transcript=SBOV2_56170.7 gene=SBOV2_56170
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/498535at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/498535at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/498535at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:46:10 2026
+# [ok]

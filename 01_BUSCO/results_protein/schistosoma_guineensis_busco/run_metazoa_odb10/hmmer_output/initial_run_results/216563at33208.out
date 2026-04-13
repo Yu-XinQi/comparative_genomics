@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SGUI1_92160.1        -            643 216563at33208        -            298   4.1e-29  101.6   4.4   1   3     2e-16   3.9e-13   49.1   0.1     3    82    32   118    31   130 0.83 transcript=SGUI1_92160.1 gene=SGUI1_92160
+SGUI1_92160.1        -            643 216563at33208        -            298   4.1e-29  101.6   4.4   2   3   0.00057       1.1    8.2   0.0   144   169   389   419   381   427 0.80 transcript=SGUI1_92160.1 gene=SGUI1_92160
+SGUI1_92160.1        -            643 216563at33208        -            298   4.1e-29  101.6   4.4   3   3   4.5e-13     9e-10   38.1   0.5   170   292   442   617   427   623 0.65 transcript=SGUI1_92160.1 gene=SGUI1_92160
+SGUI1_70630.1        -            305 216563at33208        -            298   8.1e-17   61.2   0.0   1   2   0.00013      0.26   10.3   0.0   125   172    45   103    31   140 0.70 transcript=SGUI1_70630.1 gene=SGUI1_70630
+SGUI1_70630.1        -            305 216563at33208        -            298   8.1e-17   61.2   0.0   2   2   2.3e-16   4.6e-13   48.9   0.0   202   293   174   281   165   287 0.82 transcript=SGUI1_70630.1 gene=SGUI1_70630
+SGUI1_70630.2        -            271 216563at33208        -            298   5.7e-12   45.3   0.0   1   2    0.0001       0.2   10.7   0.0   125   172    45   103    30   140 0.70 transcript=SGUI1_70630.2 gene=SGUI1_70630
+SGUI1_70630.2        -            271 216563at33208        -            298   5.7e-12   45.3   0.0   2   2   2.2e-11   4.3e-08   32.6   0.0   202   266   174   248   164   259 0.81 transcript=SGUI1_70630.2 gene=SGUI1_70630
+SGUI1_11370.1        -            129 216563at33208        -            298   8.6e-12   44.7   0.0   1   1   4.7e-15   9.4e-12   44.6   0.0    20   123     5   111     1   124 0.86 transcript=SGUI1_11370.1 gene=SGUI1_11370
+SGUI1_35860.1        -            444 216563at33208        -            298   4.3e-07   29.3   0.1   1   1   3.9e-10   7.7e-07   28.4   0.1    25    92     8    81     4    99 0.88 transcript=SGUI1_35860.1 gene=SGUI1_35860
+SGUI1_39550.1        -            576 216563at33208        -            298   7.5e-07   28.5   0.0   1   1   6.4e-10   1.3e-06   27.7   0.0    19   106    62   155    57   172 0.79 transcript=SGUI1_39550.1 gene=SGUI1_39550
+SGUI1_39550.2        -            576 216563at33208        -            298   7.5e-07   28.5   0.0   1   1   6.4e-10   1.3e-06   27.7   0.0    19   106    62   155    57   172 0.79 transcript=SGUI1_39550.2 gene=SGUI1_39550
+SGUI1_39550.3        -            576 216563at33208        -            298   7.5e-07   28.5   0.0   1   1   6.4e-10   1.3e-06   27.7   0.0    19   106    62   155    57   172 0.79 transcript=SGUI1_39550.3 gene=SGUI1_39550
+SGUI1_39550.4        -            576 216563at33208        -            298   7.5e-07   28.5   0.0   1   1   6.4e-10   1.3e-06   27.7   0.0    19   106    62   155    57   172 0.79 transcript=SGUI1_39550.4 gene=SGUI1_39550
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/216563at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_guineensis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_guineensis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/216563at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/216563at33208.hmm /users/40483456/protein/schistosoma_guineensis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:48:42 2026
+# [ok]

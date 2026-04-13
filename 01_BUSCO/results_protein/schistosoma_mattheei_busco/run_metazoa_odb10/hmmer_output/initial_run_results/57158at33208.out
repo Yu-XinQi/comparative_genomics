@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_4060.1         -            813 57158at33208         -           1057    8e-288  957.4   0.0   1   2  9.7e-207  4.2e-203  676.9   0.0   408   812     6   462     3   475 0.91 transcript=SMTH1_4060.1 gene=SMTH1_4060
+SMTH1_4060.1         -            813 57158at33208         -           1057    8e-288  957.4   0.0   2   2   2.5e-85   1.1e-81  274.9   0.0   832  1057   530   813   517   813 0.86 transcript=SMTH1_4060.1 gene=SMTH1_4060
+SMTH1_4050.1         -            341 57158at33208         -           1057  3.2e-201  670.6   0.1   1   1  8.5e-205  3.6e-201  670.5   0.1     1   331     1   341     1   341 0.98 transcript=SMTH1_4050.1 gene=SMTH1_4050
+SMTH1_87810.1        -           1161 57158at33208         -           1057   0.00023   18.9   0.1   1   3      0.15   6.5e+02   -2.5   0.0   541   624    64   145    62   169 0.72 transcript=SMTH1_87810.1 gene=SMTH1_87810
+SMTH1_87810.1        -           1161 57158at33208         -           1057   0.00023   18.9   0.1   2   3     2e-06    0.0085   13.7   0.0   391   577   199   415   185   442 0.61 transcript=SMTH1_87810.1 gene=SMTH1_87810
+SMTH1_87810.1        -           1161 57158at33208         -           1057   0.00023   18.9   0.1   3   3     0.039   1.7e+02   -0.5   0.0   840   875   778   813   764   834 0.78 transcript=SMTH1_87810.1 gene=SMTH1_87810
+SMTH1_4260.1         -            198 57158at33208         -           1057    0.0076   13.8   0.1   1   1   2.2e-06    0.0096   13.5   0.1   673   762    14   101     4   115 0.79 transcript=SMTH1_4260.1 gene=SMTH1_4260
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/57158at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/57158at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/57158at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:49 2026
+# [ok]

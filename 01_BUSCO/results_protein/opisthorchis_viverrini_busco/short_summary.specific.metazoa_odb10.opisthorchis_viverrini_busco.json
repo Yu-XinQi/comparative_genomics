@@ -1,0 +1,64 @@
+{
+    "parameters": {
+        "out_path": "/users/40483456/busco/results_pro",
+        "cpu": "8",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/users/40483456/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "True",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "plot_percentages": "False",
+        "in": "/users/40483456/protein/opisthorchis_viverrini.fa",
+        "out": "opisthorchis_viverrini_busco",
+        "mode": "proteins",
+        "lineage_dataset": "/users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10",
+        "main_out": "/users/40483456/busco/results_pro/opisthorchis_viverrini_busco",
+        "lineage_results_dir": "run_metazoa_odb10",
+        "domain": "eukaryota",
+        "orthodb_version": "10.1"
+    },
+    "lineage_dataset": {
+        "name": "metazoa_odb10",
+        "creation_date": "2024-01-08",
+        "number_of_buscos": "954",
+        "number_of_species": "65"
+    },
+    "versions": {
+        "python": [
+            3,
+            10,
+            12,
+            "final",
+            0
+        ],
+        "busco": "6.0.0",
+        "hmmsearch": 3.4
+    },
+    "results": {
+        "one_line_summary": "C:64.6%[S:63.7%,D:0.8%],F:8.4%,M:27.0%,n:954",
+        "Complete percentage": 64.6,
+        "Complete BUSCOs": 616,
+        "Single copy percentage": 63.7,
+        "Single copy BUSCOs": 608,
+        "Multi copy percentage": 0.8,
+        "Multi copy BUSCOs": 8,
+        "Fragmented percentage": 8.4,
+        "Fragmented BUSCOs": 80,
+        "Missing percentage": 27.0,
+        "Missing BUSCOs": 258,
+        "n_markers": 954,
+        "domain": "eukaryota"
+    }
+}

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SHAE2_36440.1        -            211 501546at33208        -            146   1.4e-16   61.3   0.0   1   2   1.7e-19   1.3e-15   58.2   0.0    12   117    41   156    33   171 0.76 transcript=SHAE2_36440.1 gene=SHAE2_36440
+SHAE2_36440.1        -            211 501546at33208        -            146   1.4e-16   61.3   0.0   2   2     0.091   6.7e+02    0.7   0.0   127   146   191   210   173   210 0.82 transcript=SHAE2_36440.1 gene=SHAE2_36440
+SHAE2_78420.1        -           1715 501546at33208        -            146     0.081   13.4   0.0   1   1   2.8e-05       0.2   12.1   0.0    48   118   598   670   584   679 0.82 transcript=SHAE2_78420.1 gene=SHAE2_78420
+SHAE2_91440.1        -            381 501546at33208        -            146     0.093   13.2   0.0   1   2   3.9e-05      0.29   11.6   0.0    11    68   111   168   104   178 0.81 transcript=SHAE2_91440.1 gene=SHAE2_91440
+SHAE2_91440.1        -            381 501546at33208        -            146     0.093   13.2   0.0   2   2       2.1   1.5e+04   -3.7   0.0    41    53   229   241   212   259 0.58 transcript=SHAE2_91440.1 gene=SHAE2_91440
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/501546at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_haematobium.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_haematobium_busco/run_metazoa_odb10/hmmer_output/initial_run_results/501546at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/501546at33208.hmm /users/40483456/protein/schistosoma_haematobium.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:50:37 2026
+# [ok]

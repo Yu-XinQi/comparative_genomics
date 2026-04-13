@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_1720.1         -            241 620546at33208        -            128   3.4e-31  107.9  13.0   1   2   1.9e-24   2.9e-21   75.8   3.8     2    78    47   123    46   174 0.88 transcript=SSPN1_1720.1 gene=SSPN1_1720
+SSPN1_1720.1         -            241 620546at33208        -            128   3.4e-31  107.9  13.0   2   2   1.2e-12   1.8e-09   37.7   2.0    74   128   178   235   169   235 0.86 transcript=SSPN1_1720.1 gene=SSPN1_1720
+SSPN1_1720.2         -            169 620546at33208        -            128   8.9e-22   77.5   3.4   1   1   7.6e-25   1.2e-21   77.1   3.4     2    77    47   122    46   156 0.91 transcript=SSPN1_1720.2 gene=SSPN1_1720
+SSPN1_22590.1        -            242 620546at33208        -            128   4.7e-17   62.2   6.4   1   2   3.2e-11   4.9e-08   33.0   0.1     2    61    25    84    24    90 0.95 transcript=SSPN1_22590.1 gene=SSPN1_22590
+SSPN1_22590.1        -            242 620546at33208        -            128   4.7e-17   62.2   6.4   2   2   1.4e-10   2.2e-07   30.9   2.4    73   119   155   201   145   212 0.89 transcript=SSPN1_22590.1 gene=SSPN1_22590
+SSPN1_38870.1        -            149 620546at33208        -            128   1.3e-08   34.9   0.1   1   1   1.2e-11   1.8e-08   34.4   0.1     3    61    28    86    26   104 0.94 transcript=SSPN1_38870.1 gene=SSPN1_38870
+SSPN1_34650.1        -            104 620546at33208        -            128   0.00053   20.0   0.4   1   1   3.9e-07    0.0006   19.8   0.4    75   118    14    57     4    67 0.86 transcript=SSPN1_34650.1 gene=SSPN1_34650
+SSPN1_14830.1        -            240 620546at33208        -            128    0.0012   18.9   1.6   1   2       2.2   3.3e+03   -2.0   0.1    45    46    60    61    36    87 0.53 transcript=SSPN1_14830.1 gene=SSPN1_14830
+SSPN1_14830.1        -            240 620546at33208        -            128    0.0012   18.9   1.6   2   2   7.8e-07    0.0012   18.9   1.6    10    59   141   190   129   193 0.88 transcript=SSPN1_14830.1 gene=SSPN1_14830
+SSPN1_22840.1        -            126 620546at33208        -            128     0.012   15.6   0.0   1   1   9.9e-06     0.015   15.3   0.0    67   126    27    90    13    92 0.77 transcript=SSPN1_22840.1 gene=SSPN1_22840
+SSPN1_75920.1        -            270 620546at33208        -            128     0.019   15.0   0.7   1   2       2.6     4e+03   -2.2   0.1    99    99    60    60    37   100 0.57 transcript=SSPN1_75920.1 gene=SSPN1_75920
+SSPN1_75920.1        -            270 620546at33208        -            128     0.019   15.0   0.7   2   2   1.2e-05     0.019   15.0   0.7    76   120   185   229   176   238 0.87 transcript=SSPN1_75920.1 gene=SSPN1_75920
+SSPN1_30760.1        -            602 620546at33208        -            128     0.032   14.2   0.7   1   1   5.4e-05     0.083   12.9   0.7    30   103    36   113    13   131 0.80 transcript=SSPN1_30760.1 gene=SSPN1_30760
+SSPN1_30760.2        -            602 620546at33208        -            128     0.032   14.2   0.7   1   1   5.4e-05     0.083   12.9   0.7    30   103    36   113    13   131 0.80 transcript=SSPN1_30760.2 gene=SSPN1_30760
+SSPN1_42210.1        -            697 620546at33208        -            128       8.7    6.4  12.8   1   3       5.1   7.9e+03   -3.2   0.0    49    71    72    94    61   111 0.58 transcript=SSPN1_42210.1 gene=SSPN1_42210
+SSPN1_42210.1        -            697 620546at33208        -            128       8.7    6.4  12.8   2   3     0.003       4.7    7.2   1.7    43   116   198   271   184   281 0.88 transcript=SSPN1_42210.1 gene=SSPN1_42210
+SSPN1_42210.1        -            697 620546at33208        -            128       8.7    6.4  12.8   3   3     0.012        19    5.3   1.3    44   119   341   387   314   395 0.62 transcript=SSPN1_42210.1 gene=SSPN1_42210
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/620546at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/620546at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/620546at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:45 2026
+# [ok]

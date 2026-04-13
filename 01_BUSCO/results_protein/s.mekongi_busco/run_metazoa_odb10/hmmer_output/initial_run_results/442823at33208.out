@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAK4473932.1         -            513 442823at33208        -            329   5.6e-68  228.6   6.7   1   4     0.012        28    2.8   0.0    15    36    37    58    23    75 0.81 hypothetical protein MN116_003255 [Schistosoma mekongi]
+KAK4473932.1         -            513 442823at33208        -            329   5.6e-68  228.6   6.7   2   4     7e-53   1.6e-49  168.0   1.5    59   246   132   363   108   368 0.81 hypothetical protein MN116_003255 [Schistosoma mekongi]
+KAK4473932.1         -            513 442823at33208        -            329   5.6e-68  228.6   6.7   3   4     2e-16   4.6e-13   48.1   0.9   224   310   360   455   355   460 0.73 hypothetical protein MN116_003255 [Schistosoma mekongi]
+KAK4473932.1         -            513 442823at33208        -            329   5.6e-68  228.6   6.7   4   4     0.032        72    1.5   0.0   294   327   476   511   473   513 0.78 hypothetical protein MN116_003255 [Schistosoma mekongi]
+KAK4468691.1         -            960 442823at33208        -            329   2.5e-13   49.0   9.5   1   4   0.00011      0.26    9.5   0.0     3    32    11    40     9    59 0.88 hypothetical protein MN116_007556 [Schistosoma mekongi]
+KAK4468691.1         -            960 442823at33208        -            329   2.5e-13   49.0   9.5   2   4    0.0012       2.6    6.2   0.0   103   125   611   633   567   658 0.76 hypothetical protein MN116_007556 [Schistosoma mekongi]
+KAK4468691.1         -            960 442823at33208        -            329   2.5e-13   49.0   9.5   3   4   1.7e-10   3.8e-07   28.7   5.7   180   269   752   843   745   846 0.84 hypothetical protein MN116_007556 [Schistosoma mekongi]
+KAK4468691.1         -            960 442823at33208        -            329   2.5e-13   49.0   9.5   4   4     0.019        43    2.2   0.0   274   317   897   945   891   958 0.69 hypothetical protein MN116_007556 [Schistosoma mekongi]
+KAK4475398.1         -            570 442823at33208        -            329   0.00037   18.9   0.0   1   3      0.24   5.5e+02   -1.4   0.0    10    41    32    63    28    72 0.84 hypothetical protein MN116_002457 [Schistosoma mekongi]
+KAK4475398.1         -            570 442823at33208        -            329   0.00037   18.9   0.0   2   3   1.2e-06    0.0028   16.0   0.0    75   155   189   272   167   314 0.84 hypothetical protein MN116_002457 [Schistosoma mekongi]
+KAK4475398.1         -            570 442823at33208        -            329   0.00037   18.9   0.0   3   3       0.3   6.9e+02   -1.8   0.0   245   283   492   530   483   533 0.76 hypothetical protein MN116_002457 [Schistosoma mekongi]
+KAK4474721.1         -            188 442823at33208        -            329     0.013   13.8   6.0   1   1   7.9e-06     0.018   13.3   6.0   172   281    69   181    61   185 0.83 hypothetical protein MN116_001847 [Schistosoma mekongi]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442823at33208.hmm
+# Target file:     /users/40483456/protein/s.mekongi.faa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/s.mekongi_busco/run_metazoa_odb10/hmmer_output/initial_run_results/442823at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442823at33208.hmm /users/40483456/protein/s.mekongi.faa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:04:23 2026
+# [ok]

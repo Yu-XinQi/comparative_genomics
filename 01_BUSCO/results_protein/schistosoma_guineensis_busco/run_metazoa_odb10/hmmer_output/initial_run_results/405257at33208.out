@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   1   7   3.7e-06     0.022   13.5   0.9     7    63    64   118    58   133 0.88 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   2   7      0.07   4.2e+02   -0.6   0.1    35    68   120   154   116   165 0.72 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   3   7   1.7e-18   9.9e-15   54.1   1.1    46   147   155   258   140   261 0.83 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   4   7   5.2e-13   3.1e-09   36.0   0.0   152   182   291   321   283   325 0.87 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   5   7   0.00046       2.7    6.6   0.0   184   210   362   388   357   392 0.87 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   6   7     7e-12   4.2e-08   32.3   0.2   211   248   430   467   419   498 0.77 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.3        -            732 405257at33208        -            356   6.9e-46  156.6  21.0   7   7   3.9e-09   2.3e-05   23.3   0.1   257   327   507   578   486   608 0.76 transcript=SGUI1_18450.3 gene=SGUI1_18450
+SGUI1_18450.1        -            557 405257at33208        -            356     4e-42  144.2  10.8   1   5   2.7e-16   1.6e-12   46.8   0.4    93   148    29    84    18    88 0.92 transcript=SGUI1_18450.1 gene=SGUI1_18450
+SGUI1_18450.1        -            557 405257at33208        -            356     4e-42  144.2  10.8   2   5   3.7e-13   2.2e-09   36.5   0.0   152   182   116   146   107   150 0.88 transcript=SGUI1_18450.1 gene=SGUI1_18450
+SGUI1_18450.1        -            557 405257at33208        -            356     4e-42  144.2  10.8   3   5   0.00034         2    7.0   0.0   184   210   187   213   182   217 0.87 transcript=SGUI1_18450.1 gene=SGUI1_18450
+SGUI1_18450.1        -            557 405257at33208        -            356     4e-42  144.2  10.8   4   5   4.9e-12   2.9e-08   32.8   0.2   211   248   255   292   244   323 0.77 transcript=SGUI1_18450.1 gene=SGUI1_18450
+SGUI1_18450.1        -            557 405257at33208        -            356     4e-42  144.2  10.8   5   5   2.6e-09   1.6e-05   23.8   0.2   257   326   332   404   311   433 0.76 transcript=SGUI1_18450.1 gene=SGUI1_18450
+SGUI1_18450.2        -            557 405257at33208        -            356     4e-42  144.2  10.8   1   5   2.7e-16   1.6e-12   46.8   0.4    93   148    29    84    18    88 0.92 transcript=SGUI1_18450.2 gene=SGUI1_18450
+SGUI1_18450.2        -            557 405257at33208        -            356     4e-42  144.2  10.8   2   5   3.7e-13   2.2e-09   36.5   0.0   152   182   116   146   107   150 0.88 transcript=SGUI1_18450.2 gene=SGUI1_18450
+SGUI1_18450.2        -            557 405257at33208        -            356     4e-42  144.2  10.8   3   5   0.00034         2    7.0   0.0   184   210   187   213   182   217 0.87 transcript=SGUI1_18450.2 gene=SGUI1_18450
+SGUI1_18450.2        -            557 405257at33208        -            356     4e-42  144.2  10.8   4   5   4.9e-12   2.9e-08   32.8   0.2   211   248   255   292   244   323 0.77 transcript=SGUI1_18450.2 gene=SGUI1_18450
+SGUI1_18450.2        -            557 405257at33208        -            356     4e-42  144.2  10.8   5   5   2.6e-09   1.6e-05   23.8   0.2   257   326   332   404   311   433 0.76 transcript=SGUI1_18450.2 gene=SGUI1_18450
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/405257at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_guineensis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_guineensis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/405257at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/405257at33208.hmm /users/40483456/protein/schistosoma_guineensis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:48:57 2026
+# [ok]

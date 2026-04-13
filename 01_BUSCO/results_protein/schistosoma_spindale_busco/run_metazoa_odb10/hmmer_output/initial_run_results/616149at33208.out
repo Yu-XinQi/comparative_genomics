@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_86100.1        -            136 616149at33208        -             81   3.2e-09   36.8   4.2   1   1   6.5e-13   5.5e-09   36.0   4.2     7    81    49   131    43   131 0.85 transcript=SSPN1_86100.1 gene=SSPN1_86100
+SSPN1_29130.1        -            402 616149at33208        -             81      0.15   12.1   3.8   1   3      0.93   7.9e+03   -3.0   0.1    60    77    46    63    43    66 0.61 transcript=SSPN1_29130.1 gene=SSPN1_29130
+SSPN1_29130.1        -            402 616149at33208        -             81      0.15   12.1   3.8   2   3   2.5e-05      0.21   11.7   0.2    39    65   279   305   248   316 0.84 transcript=SSPN1_29130.1 gene=SSPN1_29130
+SSPN1_29130.1        -            402 616149at33208        -             81      0.15   12.1   3.8   3   3      0.17   1.5e+03   -0.6   0.0    46    63   338   355   326   373 0.64 transcript=SSPN1_29130.1 gene=SSPN1_29130
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/616149at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/616149at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/616149at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:42 2026
+# [ok]

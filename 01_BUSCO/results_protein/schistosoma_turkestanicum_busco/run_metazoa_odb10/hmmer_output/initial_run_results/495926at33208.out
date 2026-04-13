@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_36960.1        -            776 495926at33208        -            184   3.3e-18   66.3   0.3   1   3   0.00016      0.39   10.7   0.0     2    55   280   343   279   412 0.63 transcript=STRK1_36960.1 gene=STRK1_36960
+STRK1_36960.1        -            776 495926at33208        -            184   3.3e-18   66.3   0.3   2   3      0.64   1.6e+03   -1.1   0.6    43   121   375   455   361   469 0.51 transcript=STRK1_36960.1 gene=STRK1_36960
+STRK1_36960.1        -            776 495926at33208        -            184   3.3e-18   66.3   0.3   3   3   2.7e-17   6.5e-14   52.3   0.0    94   155   587   649   570   685 0.73 transcript=STRK1_36960.1 gene=STRK1_36960
+STRK1_90350.1        -            347 495926at33208        -            184   1.4e-06   28.4   0.4   1   2   5.1e-08   0.00012   22.1   0.0   112   154   232   275   210   279 0.86 transcript=STRK1_90350.1 gene=STRK1_90350
+STRK1_90350.1        -            347 495926at33208        -            184   1.4e-06   28.4   0.4   2   2     0.016        39    4.2   0.1   156   177   293   314   287   319 0.87 transcript=STRK1_90350.1 gene=STRK1_90350
+STRK1_90350.2        -            318 495926at33208        -            184   4.7e-05   23.4   0.1   1   1   3.8e-08   9.2e-05   22.5   0.1   112   155   232   276   210   309 0.88 transcript=STRK1_90350.2 gene=STRK1_90350
+STRK1_90350.3        -            318 495926at33208        -            184   4.7e-05   23.4   0.1   1   1   3.8e-08   9.2e-05   22.5   0.1   112   155   232   276   210   309 0.88 transcript=STRK1_90350.3 gene=STRK1_90350
+STRK1_19580.1        -           1981 495926at33208        -            184      0.82    9.6   6.3   1   1      0.33   7.9e+02   -0.1   4.3    60   132   162   231   139   234 0.76 transcript=STRK1_19580.1 gene=STRK1_19580
+STRK1_76620.1        -            399 495926at33208        -            184      0.83    9.6   5.8   1   2   0.00017      0.42   10.6   2.0    29   108    27   107    22   125 0.75 transcript=STRK1_76620.1 gene=STRK1_76620
+STRK1_76620.1        -            399 495926at33208        -            184      0.83    9.6   5.8   2   2      0.33     8e+02   -0.1   0.1    68   128   240   296   185   303 0.71 transcript=STRK1_76620.1 gene=STRK1_76620
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/495926at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/495926at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/495926at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:40 2026
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_77550.1        -            307 446000at33208        -            220   7.1e-72  241.7  19.5   1   1     4e-75   2.7e-71  239.8  17.6    35   220   109   303    63   303 0.87 transcript=SBOV2_77550.1 gene=SBOV2_77550
+SBOV2_24320.2        -            611 446000at33208        -            220     0.014   15.1   0.0   1   3      0.24   1.6e+03   -1.5   1.1    30    70   274   314   242   349 0.68 transcript=SBOV2_24320.2 gene=SBOV2_24320
+SBOV2_24320.2        -            611 446000at33208        -            220     0.014   15.1   0.0   2   3       1.3   8.8e+03   -3.9   0.4    66    82   417   433   412   462 0.52 transcript=SBOV2_24320.2 gene=SBOV2_24320
+SBOV2_24320.2        -            611 446000at33208        -            220     0.014   15.1   0.0   3   3     2e-06     0.014   15.1   0.0   139   210   529   601   525   608 0.83 transcript=SBOV2_24320.2 gene=SBOV2_24320
+SBOV2_24320.1        -            648 446000at33208        -            220     0.015   15.0   0.0   1   3      0.26   1.8e+03   -1.6   1.1    30    70   311   351   279   386 0.68 transcript=SBOV2_24320.1 gene=SBOV2_24320
+SBOV2_24320.1        -            648 446000at33208        -            220     0.015   15.0   0.0   2   3       1.4   9.7e+03   -4.0   0.3    66    82   454   470   449   498 0.53 transcript=SBOV2_24320.1 gene=SBOV2_24320
+SBOV2_24320.1        -            648 446000at33208        -            220     0.015   15.0   0.0   3   3   2.2e-06     0.015   15.0   0.0   139   210   566   638   562   645 0.83 transcript=SBOV2_24320.1 gene=SBOV2_24320
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/446000at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/446000at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/446000at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:45:57 2026
+# [ok]

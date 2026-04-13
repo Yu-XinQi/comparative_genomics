@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_70370.1        -            451 422751at33208        -            348  7.9e-145  482.0   0.1   1   2   1.6e-69   9.6e-66  221.9   0.0     1   163    27   193    27   199 0.95 transcript=SINT1_70370.1 gene=SINT1_70370
+SINT1_70370.1        -            451 422751at33208        -            348  7.9e-145  482.0   0.1   2   2   2.9e-79   1.7e-75  254.0   0.1   162   347   225   437   201   438 0.86 transcript=SINT1_70370.1 gene=SINT1_70370
+SINT1_48610.2        -            538 422751at33208        -            348     0.015   14.1   0.0   1   2   5.8e-05      0.35    9.6   0.0     2    44   107   148   106   206 0.91 transcript=SINT1_48610.2 gene=SINT1_48610
+SINT1_48610.2        -            538 422751at33208        -            348     0.015   14.1   0.0   2   2    0.0094        56    2.3   0.0   162   228   321   394   316   414 0.76 transcript=SINT1_48610.2 gene=SINT1_48610
+SINT1_48610.1        -            560 422751at33208        -            348     0.016   14.0   0.0   1   2   6.2e-05      0.37    9.5   0.0     2    44   129   170   128   227 0.91 transcript=SINT1_48610.1 gene=SINT1_48610
+SINT1_48610.1        -            560 422751at33208        -            348     0.016   14.0   0.0   2   2      0.01        60    2.2   0.0   162   228   343   416   338   435 0.76 transcript=SINT1_48610.1 gene=SINT1_48610
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/422751at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/422751at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/422751at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:04 2026
+# [ok]

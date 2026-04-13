@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_75280.1        -            205 561688at33208        -            166   5.5e-58  196.0  11.2   1   2   3.4e-45   2.3e-41  142.0   7.0     1   121     2   127     2   132 0.86 transcript=SCUR1_75280.1 gene=SCUR1_75280
+SCUR1_75280.1        -            205 561688at33208        -            166   5.5e-58  196.0  11.2   2   2   8.7e-20   5.9e-16   59.3   2.1    73   165   102   204   100   205 0.75 transcript=SCUR1_75280.1 gene=SCUR1_75280
+SCUR1_63830.2        -           1976 561688at33208        -            166       7.1    7.0  10.6   1   2     0.001       6.9    7.0   6.1    51   159  1063  1167  1054  1171 0.66 transcript=SCUR1_63830.2 gene=SCUR1_63830
+SCUR1_63830.2        -           1976 561688at33208        -            166       7.1    7.0  10.6   2   2     0.078   5.3e+02    0.9   0.1    51    93  1440  1482  1435  1510 0.80 transcript=SCUR1_63830.2 gene=SCUR1_63830
+SCUR1_63830.1        -           2208 561688at33208        -            166         9    6.7  10.6   1   2    0.0012       7.9    6.9   6.1    51   159  1063  1167  1054  1171 0.66 transcript=SCUR1_63830.1 gene=SCUR1_63830
+SCUR1_63830.1        -           2208 561688at33208        -            166         9    6.7  10.6   2   2     0.089     6e+02    0.8   0.1    51    93  1440  1482  1435  1509 0.80 transcript=SCUR1_63830.1 gene=SCUR1_63830
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561688at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/561688at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561688at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:51 2026
+# [ok]

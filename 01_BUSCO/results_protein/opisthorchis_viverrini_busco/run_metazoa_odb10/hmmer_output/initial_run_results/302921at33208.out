@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_04129           -            619 302921at33208        -            163   4.7e-09   36.0   0.3   1   2     0.095   2.6e+02    1.1   0.0    20    40    56    76    47    84 0.78 transcript=T265_04129 gene=T265_04129
+T265_04129           -            619 302921at33208        -            163   4.7e-09   36.0   0.3   2   2     3e-11   8.1e-08   32.0   0.1    64    97   200   235   195   247 0.84 transcript=T265_04129 gene=T265_04129
+T265_04415           -            303 302921at33208        -            163   1.8e-05   24.3   0.0   1   2   9.6e-05      0.26   10.8   0.0    99   132    90   125    81   129 0.79 transcript=T265_04415 gene=T265_04415
+T265_04415           -            303 302921at33208        -            163   1.8e-05   24.3   0.0   2   2   9.1e-05      0.25   10.9   0.0   125   162   259   294   246   296 0.68 transcript=T265_04415 gene=T265_04415
+T265_11109           -            420 302921at33208        -            163    0.0031   17.1   0.0   1   2   0.00027      0.73    9.4   0.0    98   125   149   176   146   183 0.90 transcript=T265_11109 gene=T265_11109
+T265_11109           -            420 302921at33208        -            163    0.0031   17.1   0.0   2   2    0.0046        13    5.4   0.0   100   121   215   236   210   247 0.68 transcript=T265_11109 gene=T265_11109
+T265_11108           -            635 302921at33208        -            163    0.0076   15.8   0.0   1   2   0.00044       1.2    8.7   0.0    98   125   405   432   402   439 0.90 transcript=T265_11108 gene=T265_11108
+T265_11108           -            635 302921at33208        -            163    0.0076   15.8   0.0   2   2    0.0075        21    4.7   0.0   100   121   471   492   466   503 0.68 transcript=T265_11108 gene=T265_11108
+T265_11234           -            591 302921at33208        -            163     0.069   12.7   0.0   1   2    0.0052        14    5.2   0.0   110   158    94   141    88   146 0.79 transcript=T265_11234 gene=T265_11234
+T265_11234           -            591 302921at33208        -            163     0.069   12.7   0.0   2   2    0.0052        14    5.2   0.0   110   158   282   329   276   334 0.79 transcript=T265_11234 gene=T265_11234
+T265_11206           -            819 302921at33208        -            163     0.097   12.2   0.0   1   2     0.059   1.6e+02    1.8   0.0    37    77   177   217   164   223 0.84 transcript=T265_11206 gene=T265_11206
+T265_11206           -            819 302921at33208        -            163     0.097   12.2   0.0   2   2   0.00081       2.2    7.8   0.0   103   157   317   373   297   378 0.81 transcript=T265_11206 gene=T265_11206
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/302921at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/302921at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/302921at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:44:41 2026
+# [ok]

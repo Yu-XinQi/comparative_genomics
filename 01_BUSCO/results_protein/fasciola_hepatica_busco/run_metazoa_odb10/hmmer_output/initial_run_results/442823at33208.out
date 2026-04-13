@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g14817.t1    -            519 442823at33208        -            329   2.4e-67  227.7   6.0   1   5   0.00051       2.2    7.7   0.1     2    40    30    68    29    78 0.87 transcript=FhHiC23_g14817.t1 gene=FhHiC23_g14817
+FhHiC23_g14817.t1    -            519 442823at33208        -            329   2.4e-67  227.7   6.0   2   5   0.00017      0.71    9.3   0.0    59    84   121   146    89   160 0.76 transcript=FhHiC23_g14817.t1 gene=FhHiC23_g14817
+FhHiC23_g14817.t1    -            519 442823at33208        -            329   2.4e-67  227.7   6.0   3   5   6.3e-51   2.7e-47  161.9   2.1    79   249   169   362   159   367 0.86 transcript=FhHiC23_g14817.t1 gene=FhHiC23_g14817
+FhHiC23_g14817.t1    -            519 442823at33208        -            329   2.4e-67  227.7   6.0   4   5   2.9e-16   1.2e-12   48.0   0.2   229   310   360   451   353   456 0.73 transcript=FhHiC23_g14817.t1 gene=FhHiC23_g14817
+FhHiC23_g14817.t1    -            519 442823at33208        -            329   2.4e-67  227.7   6.0   5   5      0.56   2.4e+03   -2.3   0.0   309   328   499   518   493   519 0.86 transcript=FhHiC23_g14817.t1 gene=FhHiC23_g14817
+FhHiC23_g4338.t1     -            874 442823at33208        -            329   3.3e-13   49.8  13.9   1   4   0.00012      0.51    9.7   0.0     2    33    10    41     9    54 0.86 transcript=FhHiC23_g4338.t1 gene=FhHiC23_g4338
+FhHiC23_g4338.t1     -            874 442823at33208        -            329   3.3e-13   49.8  13.9   2   4    0.0022       9.2    5.6   0.0    68   125   483   549   472   573 0.68 transcript=FhHiC23_g4338.t1 gene=FhHiC23_g4338
+FhHiC23_g4338.t1     -            874 442823at33208        -            329   3.3e-13   49.8  13.9   3   4     1e-09   4.3e-06   26.4   9.4   178   269   671   764   660   767 0.71 transcript=FhHiC23_g4338.t1 gene=FhHiC23_g4338
+FhHiC23_g4338.t1     -            874 442823at33208        -            329   3.3e-13   49.8  13.9   4   4   0.00095         4    6.8   0.0   269   321   806   868   778   873 0.76 transcript=FhHiC23_g4338.t1 gene=FhHiC23_g4338
+FhHiC23_g15636.t1    -            574 442823at33208        -            329   3.3e-09   36.6   0.2   1   2   7.4e-07    0.0031   17.0   0.0    79   152   133   209   127   255 0.86 transcript=FhHiC23_g15636.t1 gene=FhHiC23_g15636
+FhHiC23_g15636.t1    -            574 442823at33208        -            329   3.3e-09   36.6   0.2   2   2   4.8e-07     0.002   17.6   0.0   253   326   490   573   482   574 0.79 transcript=FhHiC23_g15636.t1 gene=FhHiC23_g15636
+FhHiC23_g2231.t1     -            231 442823at33208        -            329   1.1e-05   25.1   0.0   1   2         5   2.1e+04   -7.5  11.2   207   246    47    82    24    98 0.51 transcript=FhHiC23_g2231.t1 gene=FhHiC23_g2231
+FhHiC23_g2231.t1     -            231 442823at33208        -            329   1.1e-05   25.1   0.0   2   2   2.6e-09   1.1e-05   25.1   0.0   201   323    84   226    74   230 0.73 transcript=FhHiC23_g2231.t1 gene=FhHiC23_g2231
+FhHiC23_g16852.t1    -           1148 442823at33208        -            329    0.0016   17.9   0.1   1   2    0.0015       6.4    6.1   0.0    81   124   219   266   190   271 0.82 transcript=FhHiC23_g16852.t1 gene=FhHiC23_g16852
+FhHiC23_g16852.t1    -           1148 442823at33208        -            329    0.0016   17.9   0.1   2   2   0.00015      0.64    9.4   0.1    70   144   890   972   866   988 0.73 transcript=FhHiC23_g16852.t1 gene=FhHiC23_g16852
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442823at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/442823at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442823at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:42:12 2026
+# [ok]

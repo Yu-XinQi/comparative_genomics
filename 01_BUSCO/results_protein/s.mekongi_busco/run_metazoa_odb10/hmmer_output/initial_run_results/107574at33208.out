@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAK4470175.1         -           1634 107574at33208        -            789     6e-34  116.3  10.4   1   4   2.1e-28   1.9e-24   84.9   0.0     3   229     5   255     3   272 0.84 hypothetical protein MN116_005755 [Schistosoma mekongi]
+KAK4470175.1         -           1634 107574at33208        -            789     6e-34  116.3  10.4   2   4     1e-12   9.2e-09   33.0   1.2   255   328   308   381   293   401 0.89 hypothetical protein MN116_005755 [Schistosoma mekongi]
+KAK4470175.1         -           1634 107574at33208        -            789     6e-34  116.3  10.4   3   4    0.0044        40    1.2   0.1   324   365   519   560   513   571 0.79 hypothetical protein MN116_005755 [Schistosoma mekongi]
+KAK4470175.1         -           1634 107574at33208        -            789     6e-34  116.3  10.4   4   4      0.01        95   -0.1   0.1   387   467   637   724   629   755 0.81 hypothetical protein MN116_005755 [Schistosoma mekongi]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/107574at33208.hmm
+# Target file:     /users/40483456/protein/s.mekongi.faa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/s.mekongi_busco/run_metazoa_odb10/hmmer_output/initial_run_results/107574at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/107574at33208.hmm /users/40483456/protein/s.mekongi.faa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:04:03 2026
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_113010.10      -            156 544919at33208        -            355      0.24   10.7   4.3   1   2      0.37   1.8e+03   -2.1   0.1    93   119    19    45    13    51 0.55 transcript=TREG1_113010.10 gene=TREG1_113010
+TREG1_113010.10      -            156 544919at33208        -            355      0.24   10.7   4.3   2   2   1.1e-05     0.052   12.9   0.9    72   156    64   148    54   155 0.90 transcript=TREG1_113010.10 gene=TREG1_113010
+TREG1_31160.1        -            162 544919at33208        -            355      0.98    8.7   8.4   1   1   0.00025       1.2    8.4   8.4    38   104    67   133    55   142 0.84 transcript=TREG1_31160.1 gene=TREG1_31160
+TREG1_31160.2        -            162 544919at33208        -            355      0.98    8.7   8.4   1   1   0.00025       1.2    8.4   8.4    38   104    67   133    55   142 0.84 transcript=TREG1_31160.2 gene=TREG1_31160
+TREG1_34920.1        -            109 544919at33208        -            355       2.5    7.4   8.3   1   1    0.0024        12    5.2   8.1    96   138    24    66     3    95 0.81 transcript=TREG1_34920.1 gene=TREG1_34920
+TREG1_114900.1       -            225 544919at33208        -            355       7.5    5.8  14.3   1   1    0.0022        11    5.3  14.3    39   136    22   119     9   123 0.86 transcript=TREG1_114900.1 gene=TREG1_114900
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/544919at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/544919at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/544919at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:24 2026
+# [ok]

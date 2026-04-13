@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   1   6   3.2e-12   8.8e-09   34.7   0.1    10    63    31    87    22   111 0.82 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   2   6   3.7e-36     1e-32  113.6   2.8    67   199   131   281   120   288 0.82 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   3   6     0.017        46    2.6   0.1   232   255   360   383   300   386 0.88 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   4   6   9.1e-45   2.5e-41  142.0   0.0   253   359   406   512   397   521 0.96 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   5   6   5.1e-05      0.14   10.9   0.1   387   422   621   656   595   674 0.81 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_13940.1        -            877 206858at33208        -            514   1.6e-95  320.9  17.1   6   6   4.4e-08   0.00012   21.0   0.0   463   511   808   871   804   874 0.76 transcript=SMRG1_13940.1 gene=SMRG1_13940
+SMRG1_33830.2        -            686 206858at33208        -            514   0.00081   18.3   1.3   1   2      0.43   1.2e+03   -2.0   0.2    85    97   190   202   130   250 0.50 transcript=SMRG1_33830.2 gene=SMRG1_33830
+SMRG1_33830.2        -            686 206858at33208        -            514   0.00081   18.3   1.3   2   2   2.9e-07   0.00081   18.3   1.3   122   222   387   492   377   508 0.77 transcript=SMRG1_33830.2 gene=SMRG1_33830
+SMRG1_8910.1         -            974 206858at33208        -            514     0.001   18.0   0.4   1   1   6.1e-07    0.0017   17.3   0.4   123   222   337   438   315   446 0.86 transcript=SMRG1_8910.1 gene=SMRG1_8910
+SMRG1_32810.3        -            328 206858at33208        -            514    0.0028   16.5   0.6   1   1   1.4e-06     0.004   16.0   0.6   121   199   213   295   209   319 0.86 transcript=SMRG1_32810.3 gene=SMRG1_32810
+SMRG1_32810.4        -            328 206858at33208        -            514    0.0028   16.5   0.6   1   1   1.4e-06     0.004   16.0   0.6   121   199   213   295   209   319 0.86 transcript=SMRG1_32810.4 gene=SMRG1_32810
+SMRG1_32810.2        -            403 206858at33208        -            514    0.0034   16.2   0.5   1   1     2e-06    0.0056   15.5   0.5   122   199   289   370   285   394 0.86 transcript=SMRG1_32810.2 gene=SMRG1_32810
+SMRG1_32810.1        -            413 206858at33208        -            514    0.0036   16.2   0.5   1   1   2.1e-06    0.0058   15.5   0.5   122   199   299   380   295   404 0.86 transcript=SMRG1_32810.1 gene=SMRG1_32810
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/206858at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_margrebowiei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_margrebowiei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/206858at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/206858at33208.hmm /users/40483456/protein/schistosoma_margrebowiei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:57 2026
+# [ok]

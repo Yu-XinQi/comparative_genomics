@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Smp_130850.1         -            145 623324at33208        -            118   5.4e-56  186.7   5.2   1   1     3e-58   1.7e-54  182.0   5.2     1   118     7   145     7   145 0.85 transcript=Smp_130850.1 gene=Smp_130850
+Smp_145980.1         -            476 623324at33208        -            118     0.043   12.9   0.0   1   2     0.033   1.8e+02    1.2   0.1    54    79     9    34     3    44 0.80 transcript=Smp_145980.1 gene=Smp_145980
+Smp_145980.1         -            476 623324at33208        -            118     0.043   12.9   0.0   2   2   0.00013      0.69    9.0   0.0    13   101   100   185    95   200 0.86 transcript=Smp_145980.1 gene=Smp_145980
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/623324at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mansoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mansoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/623324at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/623324at33208.hmm /users/40483456/protein/schistosoma_mansoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:25 2026
+# [ok]

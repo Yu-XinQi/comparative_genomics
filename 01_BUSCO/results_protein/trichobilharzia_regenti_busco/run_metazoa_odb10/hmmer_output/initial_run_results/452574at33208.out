@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_138300.1       -            429 452574at33208        -            386  1.1e-103  347.6  30.8   1   2  1.8e-104  2.2e-100  336.8  25.8     3   294    17   347    14   365 0.84 transcript=TREG1_138300.1 gene=TREG1_138300
+TREG1_138300.1       -            429 452574at33208        -            386  1.1e-103  347.6  30.8   2   2   1.6e-05       0.2   11.0   0.3   280   321   377   425   362   428 0.66 transcript=TREG1_138300.1 gene=TREG1_138300
+TREG1_77890.1        -            119 452574at33208        -            386     1e-06   28.4   0.2   1   1   1.3e-10   1.6e-06   27.8   0.1   315   366     3    60     1    73 0.82 transcript=TREG1_77890.1 gene=TREG1_77890
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/452574at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/452574at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/452574at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:15 2026
+# [ok]

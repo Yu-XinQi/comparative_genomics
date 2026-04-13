@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_00835           -            390 349064at33208        -            312   3.3e-86  289.3   9.9   1   2      0.83   6.8e+03   -4.0   0.0    16    34     8    26     4    31 0.74 transcript=T265_00835 gene=T265_00835
+T265_00835           -            390 349064at33208        -            312   3.3e-86  289.3   9.9   2   2   8.2e-88   6.7e-84  281.8   8.5    33   311    90   382    81   383 0.84 transcript=T265_00835 gene=T265_00835
+T265_00810           -            503 349064at33208        -            312   1.2e-05   24.8   0.3   1   1   2.3e-09   1.9e-05   24.1   0.3   100   298   219   426   191   437 0.75 transcript=T265_00810 gene=T265_00810
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/349064at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/349064at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/349064at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:44:39 2026
+# [ok]

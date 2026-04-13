@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   1   6   1.8e-47   9.7e-44  148.8   4.0     3   196     9   231     7   237 0.82 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   2   6   1.3e-23     7e-20   69.8   0.0   204   283   364   443   353   452 0.91 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   3   6   2.7e-91   1.5e-87  293.8   5.4   277   513   504   750   495   795 0.90 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   4   6   4.2e-12   2.3e-08   31.7   0.2   531   611   905   989   890  1005 0.77 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   5   6   3.9e-11   2.1e-07   28.5   0.0   642   725  1179  1265  1170  1276 0.90 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.2         -           1964 76852at33208         -            955  6.8e-171  569.6  30.1   6   6    0.0001      0.56    7.2   0.3   741   821  1400  1499  1379  1526 0.73 transcript=Smp_242860.2 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   1   6   1.8e-47   9.7e-44  148.8   4.0     3   196     9   231     7   237 0.82 transcript=Smp_242860.1 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   2   6   1.3e-23     7e-20   69.8   0.0   204   283   364   443   353   452 0.91 transcript=Smp_242860.1 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   3   6   4.1e-91   2.2e-87  293.2   6.0   277   513   504   750   495   802 0.90 transcript=Smp_242860.1 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   4   6   4.2e-12   2.3e-08   31.7   0.2   531   611   915   999   900  1015 0.77 transcript=Smp_242860.1 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   5   6   3.9e-11   2.2e-07   28.5   0.0   642   725  1189  1275  1180  1286 0.90 transcript=Smp_242860.1 gene=Smp_242860
+Smp_242860.1         -           1974 76852at33208         -            955  1.1e-170  569.0  30.8   6   6    0.0001      0.57    7.2   0.3   741   821  1410  1509  1389  1536 0.73 transcript=Smp_242860.1 gene=Smp_242860
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/76852at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mansoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mansoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/76852at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/76852at33208.hmm /users/40483456/protein/schistosoma_mansoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:26 2026
+# [ok]

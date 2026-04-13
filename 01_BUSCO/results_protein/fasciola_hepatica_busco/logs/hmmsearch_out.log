@@ -1,0 +1,84 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/467744at33208.hmm
+# target sequence database:        /users/40483456/protein/fasciola_hepatica.fa
+# per-dom hits tabular output:     /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/467744at33208.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       467744at33208  [M=267]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence         Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------         -----------
+    2.1e-22   80.0   0.2    2.4e-22   79.8   0.2    1.1  1  FhHiC23_g8114.t1  transcript=FhHiC23_g8114.t1 gene=FhHiC23_g8
+    2.1e-22   79.9   0.0    2.6e-22   79.7   0.0    1.1  1  FhHiC23_g3030.t1  transcript=FhHiC23_g3030.t1 gene=FhHiC23_g3
+    2.2e-08   34.0   3.4    2.4e-08   33.8   3.4    1.0  1  FhHiC23_g8113.t1  transcript=FhHiC23_g8113.t1 gene=FhHiC23_g8
+
+
+Domain annotation for each sequence (and alignments):
+>> FhHiC23_g8114.t1  transcript=FhHiC23_g8114.t1 gene=FhHiC23_g8114
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   79.8   0.2   3.4e-26   2.4e-22     133     226 ..       2      94 ..       1     111 [. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 79.8 bits;  conditional E-value: 3.4e-26
+     467744at33208 133 mpdsvllktpklrnknvpllvlllslllr.lvgllGllvswvYLRFyqrhsnt.rGdmadsFaFasffPevlqpvvavlantvysllvkiklc 223
+                       m+d++l+  p + +    l v+ ++  ++ ++ + G++v+w+YLRF q+hsn+ rGd++++F+F+ ffP+ l+p+va+++n++ys l k+++c
+  FhHiC23_g8114.t1   2 MGDKLLFDFPLVAI---ALAVTKVVGQVSfCMFIGGIFVAWIYLRFVQKHSNGvRGDTTETFTFSGFFPNHLEPPVAIVSNAIYSGLAKLRIC 91 
+                       66666666554433...3333333333330344669***************854*************************************** PP
+
+     467744at33208 224 kkv 226
+                       +  
+  FhHiC23_g8114.t1  92 TAE 94 
+                       864 PP
+
+>> FhHiC23_g3030.t1  transcript=FhHiC23_g3030.t1 gene=FhHiC23_g3030
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   79.7   0.0   3.7e-26   2.6e-22     166     264 ..       2     102 ..       1     105 [. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 79.7 bits;  conditional E-value: 3.7e-26
+     467744at33208 166 lGllvswvYLRFyqrhsntr.GdmadsFaFasffPevlqpvvavlantvysllvkiklckkvrkyd..vgpssitislpgtdpqDaeRRrqia 255
+                        G++vsw YLRF q+h + + Gd   sFa a+ffP  l+p va+ +n++y+l+++ +lc  v++ +  v++ s ++++pg  ++D++R r+ia
+  FhHiC23_g3030.t1   2 NGFFVSWFYLRFLQHHPQRKfGDHRASFALAKFFPGPLEPWVALPSNLIYTLVLRSRLCPGVERQSeiVSTASFAVNIPGL-TSDTDRHRRIA 93 
+                       69**************86555***************************************99887644788999******9.57********* PP
+
+     467744at33208 256 lkalneRlk 264
+                       l+ lneRl 
+  FhHiC23_g3030.t1  94 LRILNERLL 102
+                       *******96 PP
+
+>> FhHiC23_g8113.t1  transcript=FhHiC23_g8113.t1 gene=FhHiC23_g8113
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.8   3.4   3.5e-12   2.4e-08      30      92 ..       9      71 ..       7      73 .] 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 33.8 bits;  conditional E-value: 3.5e-12
+     467744at33208 30 flsvtPgyllPpnfwiwtlltv.flelhlwevlvdivtvvlcgkllEPlwgalelliffavvnv 92
+                      f ++tPg l+ pnfw+wtl+t  f+ ++++ ++ d+vt++l   +l  +++  ell f++ vn 
+  FhHiC23_g8113.t1  9 FAAITPGRLFVPNFWMWTLATFsFFSHSILLLFSDLVTMFLLESFLS-VYSWKELLLFCTFVNS 71
+                      789*****************9548999999*************9996.899***********96 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (267 nodes)
+Target sequences:                      21110  (12259510 residues searched)
+Passed MSV filter:                       899  (0.0425865); expected 422.2 (0.02)
+Passed bias filter:                      548  (0.0259593); expected 422.2 (0.02)
+Passed Vit filter:                        88  (0.00416864); expected 21.1 (0.001)
+Passed Fwd filter:                         3  (0.000142113); expected 0.2 (1e-05)
+Initial search space (Z):              21110  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.22u 0.01s 00:00:00.23 Elapsed: 00:00:00.15
+# Mc/sec: 20736.26
+//
+[ok]

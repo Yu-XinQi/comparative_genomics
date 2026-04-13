@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g9211.t1     -            504 411755at33208        -            384  4.5e-119  398.3  13.4   1   1  1.4e-121  1.5e-117  393.3  13.4    41   382   143   502    29   503 0.90 transcript=FhHiC23_g9211.t1 gene=FhHiC23_g9211
+FhHiC23_g9211.t2     -            533 411755at33208        -            384  1.1e-108  364.0  36.7   1   2   7.8e-93   8.2e-89  298.7   5.5    41   330   143   450    29   451 0.89 transcript=FhHiC23_g9211.t2 gene=FhHiC23_g9211
+FhHiC23_g9211.t2     -            533 411755at33208        -            384  1.1e-108  364.0  36.7   2   2   3.1e-23   3.3e-19   69.6  23.2   302   382   449   531   443   532 0.92 transcript=FhHiC23_g9211.t2 gene=FhHiC23_g9211
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/411755at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/411755at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/411755at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:42:01 2026
+# [ok]

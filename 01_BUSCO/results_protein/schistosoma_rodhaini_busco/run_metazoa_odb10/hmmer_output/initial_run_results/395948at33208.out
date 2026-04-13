@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRDH2_64360.1        -           1202 395948at33208        -            416   2.3e-44  152.1  16.7   1   4   1.3e-09   4.3e-06   26.0   0.0    12    65    80   133    74   138 0.85 transcript=SRDH2_64360.1 gene=SRDH2_64360
+SRDH2_64360.1        -           1202 395948at33208        -            416   2.3e-44  152.1  16.7   2   4   7.4e-39   2.5e-35  122.3   0.3    73   223   205   363   201   381 0.89 transcript=SRDH2_64360.1 gene=SRDH2_64360
+SRDH2_64360.1        -           1202 395948at33208        -            416   2.3e-44  152.1  16.7   3   4   4.4e-05      0.15   11.1   0.0   258   302   488   532   445   546 0.78 transcript=SRDH2_64360.1 gene=SRDH2_64360
+SRDH2_64360.1        -           1202 395948at33208        -            416   2.3e-44  152.1  16.7   4   4       2.8   9.2e+03   -4.7   7.4   202   371   816   981   808  1026 0.63 transcript=SRDH2_64360.1 gene=SRDH2_64360
+SRDH2_40470.3        -            538 395948at33208        -            416   0.00089   18.4   0.3   1   2   2.7e-07   0.00089   18.4   0.3    26    56    45    75    38    96 0.88 transcript=SRDH2_40470.3 gene=SRDH2_40470
+SRDH2_40470.3        -            538 395948at33208        -            416   0.00089   18.4   0.3   2   2      0.91     3e+03   -3.1   0.4   219   257   197   235   182   254 0.54 transcript=SRDH2_40470.3 gene=SRDH2_40470
+SRDH2_40470.2        -            754 395948at33208        -            416    0.0013   17.8   0.3   1   2     4e-07    0.0013   17.8   0.3    26    56   261   291   254   312 0.88 transcript=SRDH2_40470.2 gene=SRDH2_40470
+SRDH2_40470.2        -            754 395948at33208        -            416    0.0013   17.8   0.3   2   2       1.7   5.7e+03   -4.1   0.3   221   256   415   450   399   465 0.53 transcript=SRDH2_40470.2 gene=SRDH2_40470
+SRDH2_40470.1        -            755 395948at33208        -            416    0.0013   17.8   0.3   1   2   4.1e-07    0.0013   17.8   0.3    26    56   262   292   255   313 0.88 transcript=SRDH2_40470.1 gene=SRDH2_40470
+SRDH2_40470.1        -            755 395948at33208        -            416    0.0013   17.8   0.3   2   2       1.7   5.7e+03   -4.1   0.3   221   256   416   451   400   466 0.53 transcript=SRDH2_40470.1 gene=SRDH2_40470
+SRDH2_26950.3        -            609 395948at33208        -            416     0.021   13.9   0.1   1   1   1.2e-05     0.041   12.9   0.1    24    56   116   148   112   178 0.84 transcript=SRDH2_26950.3 gene=SRDH2_26950
+SRDH2_26950.2        -            776 395948at33208        -            416     0.024   13.7   0.1   1   1   1.7e-05     0.056   12.5   0.1    24    56   286   318   282   346 0.83 transcript=SRDH2_26950.2 gene=SRDH2_26950
+SRDH2_26950.1        -            779 395948at33208        -            416     0.024   13.7   0.1   1   1   1.7e-05     0.056   12.4   0.1    24    56   286   318   282   346 0.83 transcript=SRDH2_26950.1 gene=SRDH2_26950
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/395948at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_rodhaini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_rodhaini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/395948at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/395948at33208.hmm /users/40483456/protein/schistosoma_rodhaini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:57:40 2026
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_12727           -            737 524165at33208        -            357     9e-54  182.2   9.1   1   5   9.1e-42   1.9e-38  131.8   4.1     7   214   115   392   109   410 0.70 transcript=T265_12727 gene=T265_12727
+T265_12727           -            737 524165at33208        -            357     9e-54  182.2   9.1   2   5   1.3e-05     0.027   12.8   0.0   209   240   502   534   496   542 0.85 transcript=T265_12727 gene=T265_12727
+T265_12727           -            737 524165at33208        -            357     9e-54  182.2   9.1   3   5   2.5e-09   5.2e-06   25.1   0.0   241   294   556   610   539   619 0.77 transcript=T265_12727 gene=T265_12727
+T265_12727           -            737 524165at33208        -            357     9e-54  182.2   9.1   4   5    0.0067        14    3.9   0.1   316   333   651   668   645   691 0.80 transcript=T265_12727 gene=T265_12727
+T265_12727           -            737 524165at33208        -            357     9e-54  182.2   9.1   5   5      0.34   6.9e+02   -1.7   0.0   328   354   693   719   683   722 0.71 transcript=T265_12727 gene=T265_12727
+T265_15145           -            329 524165at33208        -            357   5.1e-06   25.1   0.4   1   3      0.67   1.4e+03   -2.6   0.0   150   170    64    84    56    91 0.77 transcript=T265_15145 gene=T265_15145
+T265_15145           -            329 524165at33208        -            357   5.1e-06   25.1   0.4   2   3   0.00013      0.27    9.5   0.0    95   139   151   194   133   201 0.93 transcript=T265_15145 gene=T265_15145
+T265_15145           -            329 524165at33208        -            357   5.1e-06   25.1   0.4   3   3   1.2e-05     0.024   13.0   0.0    95   146   244   294   230   297 0.93 transcript=T265_15145 gene=T265_15145
+T265_00224           -            958 524165at33208        -            357    0.0072   14.7   0.0   1   2     1e-05      0.02   13.2   0.0   150   178   435   463   431   473 0.86 transcript=T265_00224 gene=T265_00224
+T265_00224           -            958 524165at33208        -            357    0.0072   14.7   0.0   2   2      0.66   1.4e+03   -2.6   0.0   125   146   790   811   784   815 0.83 transcript=T265_00224 gene=T265_00224
+T265_05333           -            227 524165at33208        -            357    0.0074   14.7   0.0   1   2     0.085   1.7e+02    0.3   0.0   153   164    26    37    21    46 0.84 transcript=T265_05333 gene=T265_05333
+T265_05333           -            227 524165at33208        -            357    0.0074   14.7   0.0   2   2   2.5e-05     0.052   11.9   0.0    94   145   138   188   125   199 0.91 transcript=T265_05333 gene=T265_05333
+T265_05191           -            620 524165at33208        -            357     0.013   13.9   0.1   1   1   1.3e-05     0.027   12.8   0.1   146   176   305   335   215   350 0.80 transcript=T265_05191 gene=T265_05191
+T265_13754           -            167 524165at33208        -            357     0.014   13.8   0.0   1   1   8.7e-06     0.018   13.4   0.0    94   147    79   131    69   138 0.93 transcript=T265_13754 gene=T265_13754
+T265_13175           -             99 524165at33208        -            357      0.04   12.3   0.0   1   1   2.6e-05     0.052   11.9   0.0    94   143    44    91    41    97 0.81 transcript=T265_13175 gene=T265_13175
+T265_07413           -            372 524165at33208        -            357       1.6    7.0   5.4   1   2       1.6   3.3e+03   -3.9   0.3     5    23   196   214   194   245 0.56 transcript=T265_07413 gene=T265_07413
+T265_07413           -            372 524165at33208        -            357       1.6    7.0   5.4   2   2   6.8e-05      0.14   10.5   0.7     3    44   297   338   295   358 0.87 transcript=T265_07413 gene=T265_07413
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/524165at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/524165at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/524165at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:45:03 2026
+# [ok]

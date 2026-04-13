@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h1SMcT0014260.1      -            425 457777at33208        -            324     3e-62  211.9   8.0   1   1   2.7e-66   4.5e-62  211.3   8.0    35   324   106   400    80   400 0.92 transcript=h1SMcT0014260.1 gene=h1SMcG0014260
+h1SMcT0017491.1      -            440 457777at33208        -            324   8.9e-07   29.6  10.5   1   1   1.4e-10   2.4e-06   28.2  10.5    44   317   125   420    84   430 0.71 transcript=h1SMcT0017491.1 gene=h1SMcG0017491
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/457777at33208.hmm
+# Target file:     /users/40483456/protein/schmidtea_mediterranea.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schmidtea_mediterranea_busco/run_metazoa_odb10/hmmer_output/initial_run_results/457777at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/457777at33208.hmm /users/40483456/protein/schmidtea_mediterranea.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:01:37 2026
+# [ok]

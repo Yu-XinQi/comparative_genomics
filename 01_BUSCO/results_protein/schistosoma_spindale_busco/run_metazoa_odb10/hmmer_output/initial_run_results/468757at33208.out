@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_24360.1        -           1063 468757at33208        -            281   1.1e-22   80.6   0.0   1   2   1.6e-16   3.1e-13   49.6   0.0     1   116     1   112     1   137 0.78 transcript=SSPN1_24360.1 gene=SSPN1_24360
+SSPN1_24360.1        -           1063 468757at33208        -            281   1.1e-22   80.6   0.0   2   2     7e-10   1.3e-06   27.8   0.0   132   230   672   784   635   790 0.73 transcript=SSPN1_24360.1 gene=SSPN1_24360
+SSPN1_24360.2        -           1063 468757at33208        -            281   1.1e-22   80.6   0.0   1   2   1.6e-16   3.1e-13   49.6   0.0     1   116     1   112     1   137 0.78 transcript=SSPN1_24360.2 gene=SSPN1_24360
+SSPN1_24360.2        -           1063 468757at33208        -            281   1.1e-22   80.6   0.0   2   2     7e-10   1.3e-06   27.8   0.0   132   230   672   784   635   790 0.73 transcript=SSPN1_24360.2 gene=SSPN1_24360
+SSPN1_65460.1        -            687 468757at33208        -            281   6.7e-15   55.0   0.0   1   2   1.8e-16   3.4e-13   49.4   0.0     1   228     1   226     1   242 0.82 transcript=SSPN1_65460.1 gene=SSPN1_65460
+SSPN1_65460.1        -            687 468757at33208        -            281   6.7e-15   55.0   0.0   2   2     0.026        50    3.0   0.1   197   260   416   478   406   493 0.72 transcript=SSPN1_65460.1 gene=SSPN1_65460
+SSPN1_440.1          -           1085 468757at33208        -            281     6e-09   35.5   0.5   1   2   8.2e-12   1.5e-08   34.2   0.0     1   167     1   172     1   175 0.81 transcript=SSPN1_440.1 gene=SSPN1_440
+SSPN1_440.1          -           1085 468757at33208        -            281     6e-09   35.5   0.5   2   2       1.7   3.2e+03   -3.0   0.2   210   235   849   875   834   888 0.61 transcript=SSPN1_440.1 gene=SSPN1_440
+SSPN1_29910.1        -            725 468757at33208        -            281   3.6e-07   29.7   0.0   1   1   2.9e-10   5.5e-07   29.1   0.0     1   170     1   176     1   178 0.79 transcript=SSPN1_29910.1 gene=SSPN1_29910
+SSPN1_920.1          -            769 468757at33208        -            281   0.00052   19.3   0.0   1   1   4.7e-07   0.00088   18.6   0.0     1   170    45   217    45   221 0.77 transcript=SSPN1_920.1 gene=SSPN1_920
+SSPN1_920.2          -            769 468757at33208        -            281   0.00052   19.3   0.0   1   1   4.7e-07   0.00088   18.6   0.0     1   170    45   217    45   221 0.77 transcript=SSPN1_920.2 gene=SSPN1_920
+SSPN1_910.1          -            771 468757at33208        -            281     0.051   12.8   0.0   1   1   4.1e-05     0.077   12.2   0.0     1   170    45   217    45   221 0.73 transcript=SSPN1_910.1 gene=SSPN1_910
+SSPN1_57570.1        -             81 468757at33208        -            281     0.059   12.6   0.5   1   1   3.7e-05      0.07   12.3   0.5    85   145    12    72     6    75 0.92 transcript=SSPN1_57570.1 gene=SSPN1_57570
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/468757at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/468757at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/468757at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:23 2026
+# [ok]

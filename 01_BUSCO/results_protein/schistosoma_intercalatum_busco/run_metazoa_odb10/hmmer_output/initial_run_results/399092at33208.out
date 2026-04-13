@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_37050.2        -            304 399092at33208        -            179   2.3e-80  268.2   0.0   1   2   9.6e-83   1.9e-79  265.2   0.0     1   163    17   192    17   201 0.91 transcript=SINT1_37050.2 gene=SINT1_37050
+SINT1_37050.2        -            304 399092at33208        -            179   2.3e-80  268.2   0.0   2   2      0.17   3.3e+02    0.5   0.0   163   179   220   237   210   237 0.84 transcript=SINT1_37050.2 gene=SINT1_37050
+SINT1_37050.7        -            293 399092at33208        -            179   2.4e-80  268.1   0.0   1   2   8.7e-83   1.7e-79  265.3   0.0     1   163    17   192    17   201 0.91 transcript=SINT1_37050.7 gene=SINT1_37050
+SINT1_37050.7        -            293 399092at33208        -            179   2.4e-80  268.1   0.0   2   2      0.16   3.1e+02    0.6   0.0   163   179   220   237   210   237 0.84 transcript=SINT1_37050.7 gene=SINT1_37050
+SINT1_37050.9        -            231 399092at33208        -            179   6.7e-80  266.7   0.0   1   1   4.1e-83   8.2e-80  266.4   0.0     1   163    17   192    17   201 0.91 transcript=SINT1_37050.9 gene=SINT1_37050
+SINT1_37050.8        -            234 399092at33208        -            179   6.9e-80  266.6   0.0   1   1   4.3e-83   8.6e-80  266.3   0.0     1   163    17   192    17   201 0.91 transcript=SINT1_37050.8 gene=SINT1_37050
+SINT1_37050.6        -            264 399092at33208        -            179   9.5e-73  243.4   0.1   1   2   4.5e-75   8.9e-72  240.2   0.0    20   163     1   152     1   161 0.93 transcript=SINT1_37050.6 gene=SINT1_37050
+SINT1_37050.6        -            264 399092at33208        -            179   9.5e-73  243.4   0.1   2   2      0.14   2.7e+02    0.8   0.0   163   179   180   197   170   197 0.84 transcript=SINT1_37050.6 gene=SINT1_37050
+SINT1_37050.1        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   1   2   1.6e-64   3.2e-61  205.8   0.0    37   163     1   135     1   144 0.92 transcript=SINT1_37050.1 gene=SINT1_37050
+SINT1_37050.1        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   2   2      0.12   2.4e+02    1.0   0.0   163   179   163   180   152   180 0.84 transcript=SINT1_37050.1 gene=SINT1_37050
+SINT1_37050.3        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   1   2   1.6e-64   3.2e-61  205.8   0.0    37   163     1   135     1   144 0.92 transcript=SINT1_37050.3 gene=SINT1_37050
+SINT1_37050.3        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   2   2      0.12   2.4e+02    1.0   0.0   163   179   163   180   152   180 0.84 transcript=SINT1_37050.3 gene=SINT1_37050
+SINT1_37050.4        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   1   2   1.6e-64   3.2e-61  205.8   0.0    37   163     1   135     1   144 0.92 transcript=SINT1_37050.4 gene=SINT1_37050
+SINT1_37050.4        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   2   2      0.12   2.4e+02    1.0   0.0   163   179   163   180   152   180 0.84 transcript=SINT1_37050.4 gene=SINT1_37050
+SINT1_37050.5        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   1   2   1.6e-64   3.2e-61  205.8   0.0    37   163     1   135     1   144 0.92 transcript=SINT1_37050.5 gene=SINT1_37050
+SINT1_37050.5        -            247 399092at33208        -            179   3.1e-62  209.1   0.0   2   2      0.12   2.4e+02    1.0   0.0   163   179   163   180   152   180 0.84 transcript=SINT1_37050.5 gene=SINT1_37050
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/399092at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/399092at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/399092at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:51:57 2026
+# [ok]

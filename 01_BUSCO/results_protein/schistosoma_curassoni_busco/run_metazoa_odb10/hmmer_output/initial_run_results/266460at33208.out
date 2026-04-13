@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_58190.1        -            578 266460at33208        -            486    5e-134  447.8   2.7   1   2    0.0054        22    3.8   0.0     1    42    15    63    15    79 0.75 transcript=SCUR1_58190.1 gene=SCUR1_58190
+SCUR1_58190.1        -            578 266460at33208        -            486    5e-134  447.8   2.7   2   2  2.7e-136  1.1e-132  443.4   1.2    43   459    86   535    81   560 0.86 transcript=SCUR1_58190.1 gene=SCUR1_58190
+SCUR1_58190.3        -            506 266460at33208        -            486  1.3e-131  439.9   2.9   1   2    0.0042        17    4.1   0.0     1    42    15    63    15    82 0.76 transcript=SCUR1_58190.3 gene=SCUR1_58190
+SCUR1_58190.3        -            506 266460at33208        -            486  1.3e-131  439.9   2.9   2   2    7e-134  2.8e-130  435.4   1.4    43   425    86   492    79   500 0.90 transcript=SCUR1_58190.3 gene=SCUR1_58190
+SCUR1_58190.2        -            377 266460at33208        -            486  2.9e-102  343.0   0.8   1   1  8.5e-106  3.4e-102  342.8   0.8   151   459     1   334     1   367 0.85 transcript=SCUR1_58190.2 gene=SCUR1_58190
+SCUR1_59090.1        -            219 266460at33208        -            486       2.2    7.0   5.5   1   1   0.00079       3.2    6.5   5.5   373   444    46   116    39   131 0.75 transcript=SCUR1_59090.1 gene=SCUR1_59090
+SCUR1_59090.2        -            219 266460at33208        -            486       2.2    7.0   5.5   1   1   0.00079       3.2    6.5   5.5   373   444    46   116    39   131 0.75 transcript=SCUR1_59090.2 gene=SCUR1_59090
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/266460at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/266460at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/266460at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:04 2026
+# [ok]

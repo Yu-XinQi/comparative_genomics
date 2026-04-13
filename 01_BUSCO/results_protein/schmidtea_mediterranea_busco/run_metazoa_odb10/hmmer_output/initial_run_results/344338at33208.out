@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h1SMcT0005340.1      -            463 344338at33208        -            310  6.4e-108  361.8   8.2   1   1  4.4e-110  2.5e-106  356.6   8.2     1   310    58   406    58   406 0.88 transcript=h1SMcT0005340.1 gene=h1SMcG0005340
+h1SMcT0005340.2      -            463 344338at33208        -            310  6.4e-108  361.8   8.2   1   1  4.4e-110  2.5e-106  356.6   8.2     1   310    58   406    58   406 0.88 transcript=h1SMcT0005340.2 gene=h1SMcG0005340
+h1SMcT0005340.3      -            463 344338at33208        -            310  6.4e-108  361.8   8.2   1   1  4.4e-110  2.5e-106  356.6   8.2     1   310    58   406    58   406 0.88 transcript=h1SMcT0005340.3 gene=h1SMcG0005340
+h1SMcT0005340.4      -            463 344338at33208        -            310  6.4e-108  361.8   8.2   1   1  4.4e-110  2.5e-106  356.6   8.2     1   310    58   406    58   406 0.88 transcript=h1SMcT0005340.4 gene=h1SMcG0005340
+h1SMcT0019427.1      -            407 344338at33208        -            310   1.1e-85  288.7   4.6   1   1   5.5e-89   3.1e-85  287.3   4.6     2   307    61   400    60   403 0.87 transcript=h1SMcT0019427.1 gene=h1SMcG0019427
+h1SMcT0019427.2      -            382 344338at33208        -            310   2.4e-82  277.8   2.2   1   1   5.7e-86   3.2e-82  277.4   2.2     2   290    61   366    60   373 0.88 transcript=h1SMcT0019427.2 gene=h1SMcG0019427
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344338at33208.hmm
+# Target file:     /users/40483456/protein/schmidtea_mediterranea.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schmidtea_mediterranea_busco/run_metazoa_odb10/hmmer_output/initial_run_results/344338at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344338at33208.hmm /users/40483456/protein/schmidtea_mediterranea.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:01:05 2026
+# [ok]

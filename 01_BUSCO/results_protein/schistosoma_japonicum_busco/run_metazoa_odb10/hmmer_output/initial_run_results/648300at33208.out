@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EWB00_006648.2       -            406 648300at33208        -            151   0.00081   19.6  18.6   1   3   9.6e-05      0.41   10.8   0.2     3    43     9    53     7   100 0.77 transcript=EWB00_006648.2 gene=EWB00_006648
+EWB00_006648.2       -            406 648300at33208        -            151   0.00081   19.6  18.6   2   3      0.21   8.7e+02   -0.0   0.1    33    72    73   112    66   143 0.67 transcript=EWB00_006648.2 gene=EWB00_006648
+EWB00_006648.2       -            406 648300at33208        -            151   0.00081   19.6  18.6   3   3   6.3e-05      0.27   11.4  11.4    82   151   334   405   282   405 0.75 transcript=EWB00_006648.2 gene=EWB00_006648
+EWB00_006648.3       -            406 648300at33208        -            151   0.00081   19.6  18.6   1   3   9.6e-05      0.41   10.8   0.2     3    43     9    53     7   100 0.77 transcript=EWB00_006648.3 gene=EWB00_006648
+EWB00_006648.3       -            406 648300at33208        -            151   0.00081   19.6  18.6   2   3      0.21   8.7e+02   -0.0   0.1    33    72    73   112    66   143 0.67 transcript=EWB00_006648.3 gene=EWB00_006648
+EWB00_006648.3       -            406 648300at33208        -            151   0.00081   19.6  18.6   3   3   6.3e-05      0.27   11.4  11.4    82   151   334   405   282   405 0.75 transcript=EWB00_006648.3 gene=EWB00_006648
+EWB00_006648.1       -            340 648300at33208        -            151     0.035   14.3   0.7   1   2   7.1e-05       0.3   11.2   0.3     3    44     9    54     7   101 0.75 transcript=EWB00_006648.1 gene=EWB00_006648
+EWB00_006648.1       -            340 648300at33208        -            151     0.035   14.3   0.7   2   2      0.14   6.1e+02    0.5   0.1    33    72    73   112    65   151 0.68 transcript=EWB00_006648.1 gene=EWB00_006648
+EWB00_003552         -            261 648300at33208        -            151       1.3    9.1   7.0   1   2     0.041   1.7e+02    2.3   0.3    54   104    16    68    13   107 0.66 transcript=EWB00_003552 gene=EWB00_003552
+EWB00_003552         -            261 648300at33208        -            151       1.3    9.1   7.0   2   2    0.0002      0.87    9.7   1.6    35   100   154   224   134   231 0.77 transcript=EWB00_003552 gene=EWB00_003552
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/648300at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_japonicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_japonicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/648300at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/648300at33208.hmm /users/40483456/protein/schistosoma_japonicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:53:34 2026
+# [ok]

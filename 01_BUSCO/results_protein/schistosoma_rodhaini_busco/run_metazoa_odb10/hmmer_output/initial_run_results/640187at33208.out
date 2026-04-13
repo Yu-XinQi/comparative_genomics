@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRDH2_96600.1        -            360 640187at33208        -            262   4.7e-37  127.9   1.7   1   2   1.2e-37   7.2e-34  117.5   0.2    17   207    21   211     8   220 0.84 transcript=SRDH2_96600.1 gene=SRDH2_96600
+SRDH2_96600.1        -            360 640187at33208        -            262   4.7e-37  127.9   1.7   2   2   9.3e-05      0.54    9.7   0.1   206   241   235   270   228   286 0.82 transcript=SRDH2_96600.1 gene=SRDH2_96600
+SRDH2_10070.1        -            406 640187at33208        -            262   1.1e-22   80.8   2.8   1   2     2e-26   1.1e-22   80.8   2.8    63   229    67   248    55   260 0.86 transcript=SRDH2_10070.1 gene=SRDH2_10070
+SRDH2_10070.1        -            406 640187at33208        -            262   1.1e-22   80.8   2.8   2   2      0.12   6.9e+02   -0.5   0.1   137   168   358   390   352   400 0.74 transcript=SRDH2_10070.1 gene=SRDH2_10070
+SRDH2_10060.1        -            216 640187at33208        -            262   5.1e-22   78.6   4.1   1   1   1.6e-25   9.3e-22   77.8   4.1    63   202    53   201    40   210 0.88 transcript=SRDH2_10060.1 gene=SRDH2_10060
+SRDH2_48660.1        -            487 640187at33208        -            262   5.6e-21   75.2   6.7   1   1   2.5e-24   1.5e-20   73.8   6.7    80   210    58   198    28   210 0.80 transcript=SRDH2_48660.1 gene=SRDH2_48660
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/640187at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_rodhaini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_rodhaini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/640187at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/640187at33208.hmm /users/40483456/protein/schistosoma_rodhaini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:58:26 2026
+# [ok]

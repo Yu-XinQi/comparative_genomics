@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_7980.1         -            244 525888at33208        -            158   5.1e-27   94.4   0.0   1   1   6.8e-30   1.7e-26   92.7   0.0     1   156    61   241    61   243 0.78 transcript=SINT1_7980.1 gene=SINT1_7980
+SINT1_11940.2        -           1041 525888at33208        -            158   0.00029   20.5   0.0   1   2   4.5e-07    0.0012   18.6   0.0    29   108    82   171    73   186 0.77 transcript=SINT1_11940.2 gene=SINT1_11940
+SINT1_11940.2        -           1041 525888at33208        -            158   0.00029   20.5   0.0   2   2       1.3   3.4e+03   -2.5   0.0    63    83  1003  1023   996  1029 0.79 transcript=SINT1_11940.2 gene=SINT1_11940
+SINT1_2940.5         -            986 525888at33208        -            158     0.021   14.5   0.2   1   2    0.0015       3.8    7.1   0.1    20   116   592   704   588   740 0.69 transcript=SINT1_2940.5 gene=SINT1_2940
+SINT1_2940.5         -            986 525888at33208        -            158     0.021   14.5   0.2   2   2     0.014        35    4.0   0.0    38    61   806   830   790   838 0.86 transcript=SINT1_2940.5 gene=SINT1_2940
+SINT1_2940.2         -           1050 525888at33208        -            158     0.021   14.4   0.0   1   2    0.0015       3.9    7.1   0.0    20   116   592   704   587   741 0.69 transcript=SINT1_2940.2 gene=SINT1_2940
+SINT1_2940.2         -           1050 525888at33208        -            158     0.021   14.4   0.0   2   2     0.015        38    3.9   0.0    38    61   806   830   790   838 0.86 transcript=SINT1_2940.2 gene=SINT1_2940
+SINT1_2940.1         -           1008 525888at33208        -            158     0.022   14.4   0.2   1   2    0.0015       3.9    7.1   0.1    20   116   592   704   588   740 0.69 transcript=SINT1_2940.1 gene=SINT1_2940
+SINT1_2940.1         -           1008 525888at33208        -            158     0.022   14.4   0.2   2   2     0.014        36    3.9   0.0    38    61   806   830   790   838 0.86 transcript=SINT1_2940.1 gene=SINT1_2940
+SINT1_2940.3         -           1086 525888at33208        -            158     0.024   14.3   0.0   1   2    0.0016       4.1    7.0   0.0    20   116   592   704   587   741 0.69 transcript=SINT1_2940.3 gene=SINT1_2940
+SINT1_2940.3         -           1086 525888at33208        -            158     0.024   14.3   0.0   2   2     0.015        39    3.8   0.0    38    61   806   830   790   838 0.86 transcript=SINT1_2940.3 gene=SINT1_2940
+SINT1_2940.4         -           1086 525888at33208        -            158     0.024   14.3   0.0   1   2    0.0016       4.1    7.0   0.0    20   116   592   704   587   741 0.69 transcript=SINT1_2940.4 gene=SINT1_2940
+SINT1_2940.4         -           1086 525888at33208        -            158     0.024   14.3   0.0   2   2     0.015        39    3.8   0.0    38    61   806   830   790   838 0.86 transcript=SINT1_2940.4 gene=SINT1_2940
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/525888at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/525888at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/525888at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:17 2026
+# [ok]

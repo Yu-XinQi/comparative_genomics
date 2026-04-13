@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Smp_152400.1         -            890 182834at33208        -            549  3.4e-122  408.1  15.5   1   4   6.7e-33   9.2e-30  103.0   0.9    59   228   191   371   151   420 0.70 transcript=Smp_152400.1 gene=Smp_152400
+Smp_152400.1         -            890 182834at33208        -            549  3.4e-122  408.1  15.5   2   4   4.5e-43   6.2e-40  136.6   0.4   246   346   442   545   426   547 0.89 transcript=Smp_152400.1 gene=Smp_152400
+Smp_152400.1         -            890 182834at33208        -            549  3.4e-122  408.1  15.5   3   4   2.4e-27   3.3e-24   84.7   0.2   336   455   609   734   597   753 0.89 transcript=Smp_152400.1 gene=Smp_152400
+Smp_152400.1         -            890 182834at33208        -            549  3.4e-122  408.1  15.5   4   4   1.2e-29   1.7e-26   92.2   0.1   464   548   799   886   792   887 0.91 transcript=Smp_152400.1 gene=Smp_152400
+Smp_082850.1         -            750 182834at33208        -            549   8.2e-11   40.4   0.0   1   3       1.5   2.1e+03   -3.8   0.3    63   117   166   223   122   230 0.57 transcript=Smp_082850.1 gene=Smp_082850
+Smp_082850.1         -            750 182834at33208        -            549   8.2e-11   40.4   0.0   2   3     6e-14   8.2e-11   40.4   0.0   265   424   422   593   408   630 0.80 transcript=Smp_082850.1 gene=Smp_082850
+Smp_082850.1         -            750 182834at33208        -            549   8.2e-11   40.4   0.0   3   3      0.95   1.3e+03   -3.1   0.2    42    89   689   736   668   740 0.73 transcript=Smp_082850.1 gene=Smp_082850
+Smp_150270.1         -            863 182834at33208        -            549   1.4e-08   33.0   0.6   1   1   2.2e-11     3e-08   32.0   0.6   277   446   529   717   519   751 0.81 transcript=Smp_150270.1 gene=Smp_150270
+Smp_079740.1         -            811 182834at33208        -            549   2.3e-07   29.1   0.3   1   1   3.9e-10   5.3e-07   27.9   0.3   277   423   440   600   428   623 0.78 transcript=Smp_079740.1 gene=Smp_079740
+Smp_031000.1         -            813 182834at33208        -            549   3.3e-07   28.6   0.2   1   2   5.8e-08   7.9e-05   20.7   0.1   277   399   425   560   410   587 0.79 transcript=Smp_031000.1 gene=Smp_031000
+Smp_031000.1         -            813 182834at33208        -            549   3.3e-07   28.6   0.2   2   2    0.0029       3.9    5.2   0.0   404   446   635   679   632   699 0.88 transcript=Smp_031000.1 gene=Smp_031000
+Smp_031000.2         -            813 182834at33208        -            549   3.3e-07   28.6   0.2   1   2   5.8e-08   7.9e-05   20.7   0.1   277   399   425   560   410   587 0.79 transcript=Smp_031000.2 gene=Smp_031000
+Smp_031000.2         -            813 182834at33208        -            549   3.3e-07   28.6   0.2   2   2    0.0029       3.9    5.2   0.0   404   446   635   679   632   699 0.88 transcript=Smp_031000.2 gene=Smp_031000
+Smp_318690.1         -            815 182834at33208        -            549   3.6e-07   28.4   0.3   1   2   6.7e-08   9.1e-05   20.5   0.1   277   399   425   560   410   581 0.80 transcript=Smp_318690.1 gene=Smp_318690
+Smp_318690.1         -            815 182834at33208        -            549   3.6e-07   28.4   0.3   2   2    0.0025       3.4    5.4   0.0   404   446   637   681   631   701 0.88 transcript=Smp_318690.1 gene=Smp_318690
+Smp_052460.1         -            126 182834at33208        -            549     0.006   14.5   0.3   1   1   5.5e-06    0.0075   14.2   0.3   277   342    10    75     5    86 0.94 transcript=Smp_052460.1 gene=Smp_052460
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/182834at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mansoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mansoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/182834at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/182834at33208.hmm /users/40483456/protein/schistosoma_mansoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:04 2026
+# [ok]

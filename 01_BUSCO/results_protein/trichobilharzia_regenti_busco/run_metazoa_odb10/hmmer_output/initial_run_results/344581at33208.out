@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_39340.1        -            364 344581at33208        -            244   3.4e-85  286.0   3.5   1   2   1.4e-14   8.4e-11   42.4   0.1     1    71    16    94    16   103 0.80 transcript=TREG1_39340.1 gene=TREG1_39340
+TREG1_39340.1        -            364 344581at33208        -            244   3.4e-85  286.0   3.5   2   2   5.4e-75   3.3e-71  240.2   1.0    76   244   118   314   114   314 0.85 transcript=TREG1_39340.1 gene=TREG1_39340
+TREG1_39340.2        -            364 344581at33208        -            244   3.4e-85  286.0   3.5   1   2   1.4e-14   8.4e-11   42.4   0.1     1    71    16    94    16   103 0.80 transcript=TREG1_39340.2 gene=TREG1_39340
+TREG1_39340.2        -            364 344581at33208        -            244   3.4e-85  286.0   3.5   2   2   5.4e-75   3.3e-71  240.2   1.0    76   244   118   314   114   314 0.85 transcript=TREG1_39340.2 gene=TREG1_39340
+TREG1_39370.1        -            242 344581at33208        -            244     1e-56  192.7   2.7   1   2   6.4e-15   3.9e-11   43.5   0.1     1    71    16    94    16   103 0.80 transcript=TREG1_39370.1 gene=TREG1_39370
+TREG1_39370.1        -            242 344581at33208        -            244     1e-56  192.7   2.7   2   2     3e-46   1.8e-42  146.1   0.6    76   180   118   236   114   240 0.86 transcript=TREG1_39370.1 gene=TREG1_39370
+TREG1_31390.1        -            536 344581at33208        -            244     0.015   15.4   0.1   1   1   4.9e-06      0.03   14.4   0.1    52   135    82   168    64   173 0.88 transcript=TREG1_31390.1 gene=TREG1_31390
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344581at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/344581at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344581at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:02:42 2026
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_08500           -            418 378768at33208        -            261   1.8e-36  126.0   0.2   1   1   2.3e-39   3.2e-36  125.1   0.2   127   234   142   263   134   270 0.86 transcript=T265_08500 gene=T265_08500
+T265_14534           -             70 378768at33208        -            261   2.6e-29  102.5   0.7   1   1   2.1e-32   2.9e-29  102.3   0.7    65   129     1    65     1    69 0.97 transcript=T265_14534 gene=T265_14534
+T265_14535           -             64 378768at33208        -            261   5.9e-24   84.9   2.0   1   1   1.6e-26   2.2e-23   83.0   2.0     8    60     1    64     1    64 0.90 transcript=T265_14535 gene=T265_14535
+T265_07275           -            202 378768at33208        -            261    0.0002   20.9   0.0   1   1     2e-07   0.00027   20.5   0.0     5    89    20   110    17   138 0.71 transcript=T265_07275 gene=T265_07275
+T265_14821           -            245 378768at33208        -            261    0.0032   17.0   0.0   1   1     3e-06    0.0041   16.6   0.0     4   109    49   149    46   175 0.76 transcript=T265_14821 gene=T265_14821
+T265_01863           -            400 378768at33208        -            261    0.0077   15.7   0.0   1   1   8.1e-06     0.011   15.2   0.0     3   100    70   163    68   193 0.69 transcript=T265_01863 gene=T265_01863
+T265_01271           -           1162 378768at33208        -            261     0.009   15.5   0.1   1   2         5   6.9e+03   -3.8   0.1    78   105   151   178   131   193 0.50 transcript=T265_01271 gene=T265_01271
+T265_01271           -           1162 378768at33208        -            261     0.009   15.5   0.1   2   2   1.8e-05     0.025   14.0   0.0     4    76   401   476   398   484 0.88 transcript=T265_01271 gene=T265_01271
+T265_05860           -            141 378768at33208        -            261    0.0097   15.4   0.0   1   1   9.5e-06     0.013   15.0   0.0    52    92    19    54    11    70 0.83 transcript=T265_05860 gene=T265_05860
+T265_11297           -            332 378768at33208        -            261     0.052   13.0   0.1   1   1   6.7e-05     0.092   12.2   0.1   137   188    68   122    59   140 0.76 transcript=T265_11297 gene=T265_11297
+T265_06684           -            265 378768at33208        -            261     0.058   12.8   0.0   1   1   5.8e-05      0.08   12.4   0.0     4    88    99   173    96   197 0.77 transcript=T265_06684 gene=T265_06684
+T265_14092           -            218 378768at33208        -            261     0.096   12.1   0.0   1   1   8.5e-05      0.12   11.8   0.0     5    66     1    63     1   116 0.85 transcript=T265_14092 gene=T265_14092
+T265_04832           -            626 378768at33208        -            261      0.13   11.7   0.0   1   1    0.0002      0.28   10.6   0.0     4    64    17    77    15    97 0.85 transcript=T265_04832 gene=T265_04832
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/378768at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/378768at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/378768at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:44:48 2026
+# [ok]

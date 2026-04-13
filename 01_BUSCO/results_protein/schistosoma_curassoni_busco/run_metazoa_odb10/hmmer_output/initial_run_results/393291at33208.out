@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_87440.3        -            392 393291at33208        -            299   1.1e-26   94.5  10.7   1   2     0.019        64    3.3   1.4    11    87    71   163    63   176 0.63 transcript=SCUR1_87440.3 gene=SCUR1_87440
+SCUR1_87440.3        -            392 393291at33208        -            299   1.1e-26   94.5  10.7   2   2   3.2e-30   1.1e-26   94.5  10.7   109   296   209   384   197   387 0.90 transcript=SCUR1_87440.3 gene=SCUR1_87440
+SCUR1_87440.2        -            386 393291at33208        -            299   1.3e-26   94.3  10.4   1   2     0.018        62    3.3   1.4    11    87    71   163    63   176 0.63 transcript=SCUR1_87440.2 gene=SCUR1_87440
+SCUR1_87440.2        -            386 393291at33208        -            299   1.3e-26   94.3  10.4   2   2   3.7e-30   1.3e-26   94.3  10.4   109   296   209   384   196   386 0.90 transcript=SCUR1_87440.2 gene=SCUR1_87440
+SCUR1_87440.4        -            386 393291at33208        -            299   1.3e-26   94.3  10.4   1   2     0.018        62    3.3   1.4    11    87    71   163    63   176 0.63 transcript=SCUR1_87440.4 gene=SCUR1_87440
+SCUR1_87440.4        -            386 393291at33208        -            299   1.3e-26   94.3  10.4   2   2   3.7e-30   1.3e-26   94.3  10.4   109   296   209   384   196   386 0.90 transcript=SCUR1_87440.4 gene=SCUR1_87440
+SCUR1_87440.1        -            408 393291at33208        -            299   1.6e-26   93.9  10.7   1   2      0.02        69    3.2   1.4    11    87    71   163    63   176 0.63 transcript=SCUR1_87440.1 gene=SCUR1_87440
+SCUR1_87440.1        -            408 393291at33208        -            299   1.6e-26   93.9  10.7   2   2   4.7e-30   1.6e-26   93.9  10.7   109   296   209   384   196   386 0.90 transcript=SCUR1_87440.1 gene=SCUR1_87440
+SCUR1_40760.1        -            578 393291at33208        -            299   2.2e-20   73.8  20.7   1   2   5.3e-09   1.8e-05   24.8  14.2    39   168   223   368   198   380 0.69 transcript=SCUR1_40760.1 gene=SCUR1_40760
+SCUR1_40760.1        -            578 393291at33208        -            299   2.2e-20   73.8  20.7   2   2   1.5e-17   5.1e-14   52.9   0.5   211   296   436   526   394   529 0.84 transcript=SCUR1_40760.1 gene=SCUR1_40760
+SCUR1_40760.2        -            484 393291at33208        -            299   2.4e-08   34.3  16.5   1   2   4.5e-09   1.5e-05   25.0  14.5    39   168   223   368   197   380 0.69 transcript=SCUR1_40760.2 gene=SCUR1_40760
+SCUR1_40760.2        -            484 393291at33208        -            299   2.4e-08   34.3  16.5   2   2   0.00036       1.2    8.9   0.0   211   243   436   468   394   480 0.85 transcript=SCUR1_40760.2 gene=SCUR1_40760
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/393291at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/393291at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/393291at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:34 2026
+# [ok]

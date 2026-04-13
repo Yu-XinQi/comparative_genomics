@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_09758           -            139 281304at33208        -            328   3.1e-09   35.9   9.4   1   2   7.4e-08   0.00031   19.5   0.5    63    91     9    37     4    42 0.93 transcript=FGIG_09758 gene=FGIG_09758
+FGIG_09758           -            139 281304at33208        -            328   3.1e-09   35.9   9.4   2   2   3.2e-08   0.00014   20.7   2.9    56   106    54   102    41   121 0.74 transcript=FGIG_09758 gene=FGIG_09758
+FGIG_09757           -            216 281304at33208        -            328     1e-08   34.2   0.3   1   2      0.26   1.1e+03   -2.1   0.4   190   212     8    30     1    50 0.46 transcript=FGIG_09757 gene=FGIG_09757
+FGIG_09757           -            216 281304at33208        -            328     1e-08   34.2   0.3   2   2   2.4e-12     1e-08   34.2   0.3     1    56    62   124    62   130 0.80 transcript=FGIG_09757 gene=FGIG_09757
+FGIG_00838           -            314 281304at33208        -            328   7.2e-07   28.1   8.3   1   2   1.4e-07   0.00061   18.5   0.6   131   189     7    68     1    81 0.71 transcript=FGIG_00838 gene=FGIG_00838
+FGIG_00838           -            314 281304at33208        -            328   7.2e-07   28.1   8.3   2   2   4.2e-06     0.018   13.7   0.9   181   227    86   134    76   153 0.72 transcript=FGIG_00838 gene=FGIG_00838
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/281304at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/281304at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/281304at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:01 2026
+# [ok]

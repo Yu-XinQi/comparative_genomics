@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h1SMcT0008463.1      -            462 317470at33208        -            291     4e-94  316.2   3.3   1   2   6.6e-97   2.7e-93  313.4   1.9     1   263    12   313    12   330 0.87 transcript=h1SMcT0008463.1 gene=h1SMcG0008463
+h1SMcT0008463.1      -            462 317470at33208        -            291     4e-94  316.2   3.3   2   2      0.68   2.9e+03   -1.7   0.0   269   289   404   424   398   425 0.86 transcript=h1SMcT0008463.1 gene=h1SMcG0008463
+h1SMcT0011132.2      -            479 317470at33208        -            291   6.1e-34  118.6   2.1   1   2   6.2e-37   2.6e-33  116.6   0.0     1   222    31   250    31   267 0.84 transcript=h1SMcT0011132.2 gene=h1SMcG0011132
+h1SMcT0011132.2      -            479 317470at33208        -            291   6.1e-34  118.6   2.1   2   2       1.1   4.8e+03   -2.5   0.5   183   242   360   395   344   420 0.44 transcript=h1SMcT0011132.2 gene=h1SMcG0011132
+h1SMcT0011132.3      -            471 317470at33208        -            291   6.1e-34  118.6   2.2   1   2     6e-37   2.5e-33  116.6   0.1     1   222    23   242    23   259 0.84 transcript=h1SMcT0011132.3 gene=h1SMcG0011132
+h1SMcT0011132.3      -            471 317470at33208        -            291   6.1e-34  118.6   2.2   2   2       1.1   4.6e+03   -2.4   0.5   183   242   352   387   336   412 0.44 transcript=h1SMcT0011132.3 gene=h1SMcG0011132
+h1SMcT0010494.2      -            324 317470at33208        -            291   1.4e-28  101.1   0.0   1   1   8.9e-32   3.7e-28   99.6   0.0     1   223    22   254    22   267 0.86 transcript=h1SMcT0010494.2 gene=h1SMcG0010494
+h1SMcT0010494.3      -            326 317470at33208        -            291   1.4e-28  101.0   0.0   1   1     9e-32   3.8e-28   99.6   0.0     1   223    22   254    22   267 0.86 transcript=h1SMcT0010494.3 gene=h1SMcG0010494
+h1SMcT0010494.1      -            298 317470at33208        -            291   1.5e-26   94.4   0.0   1   1     1e-29   4.2e-26   92.9   0.0     7   223     2   228     1   241 0.86 transcript=h1SMcT0010494.1 gene=h1SMcG0010494
+h1SMcT0010588.1      -            564 317470at33208        -            291   1.7e-23   84.3   0.0   1   1   1.2e-26   4.8e-23   82.8   0.0     3   222   227   447   225   469 0.82 transcript=h1SMcT0010588.1 gene=h1SMcG0010588
+h1SMcT0011132.1      -            180 317470at33208        -            291   4.7e-14   53.3   0.0   1   1   1.4e-17   6.1e-14   53.0   0.0   144   223     2    84     1   105 0.86 transcript=h1SMcT0011132.1 gene=h1SMcG0011132
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/317470at33208.hmm
+# Target file:     /users/40483456/protein/schmidtea_mediterranea.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schmidtea_mediterranea_busco/run_metazoa_odb10/hmmer_output/initial_run_results/317470at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/317470at33208.hmm /users/40483456/protein/schmidtea_mediterranea.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:01:05 2026
+# [ok]

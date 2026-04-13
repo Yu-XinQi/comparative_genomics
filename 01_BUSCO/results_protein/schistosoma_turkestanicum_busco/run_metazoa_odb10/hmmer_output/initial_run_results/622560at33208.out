@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_84000.1        -            157 622560at33208        -            128   1.8e-55  186.3  19.5   1   2   1.7e-58   1.3e-54  183.5  12.4     1   122     1   125     1   132 0.93 transcript=STRK1_84000.1 gene=STRK1_84000
+STRK1_84000.1        -            157 622560at33208        -            128   1.8e-55  186.3  19.5   2   2    0.0013       9.3    6.2   3.6    96   128   124   157   121   157 0.77 transcript=STRK1_84000.1 gene=STRK1_84000
+STRK1_76020.1        -            194 622560at33208        -            128   3.1e-11   43.3   6.4   1   2   4.3e-15   3.1e-11   43.3   6.4     1    83     1    89     1   141 0.80 transcript=STRK1_76020.1 gene=STRK1_76020
+STRK1_76020.1        -            194 622560at33208        -            128   3.1e-11   43.3   6.4   2   2      0.24   1.7e+03   -1.2   0.1    57    72   172   187   152   191 0.68 transcript=STRK1_76020.1 gene=STRK1_76020
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/622560at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/622560at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/622560at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:47 2026
+# [ok]

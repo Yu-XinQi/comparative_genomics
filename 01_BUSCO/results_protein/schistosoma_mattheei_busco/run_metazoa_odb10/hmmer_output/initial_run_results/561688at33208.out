@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_84380.1        -            205 561688at33208        -            166   4.7e-58  196.0  11.2   1   2   2.3e-45     2e-41  142.0   7.0     1   121     2   127     2   132 0.86 transcript=SMTH1_84380.1 gene=SMTH1_84380
+SMTH1_84380.1        -            205 561688at33208        -            166   4.7e-58  196.0  11.2   2   2   5.8e-20     5e-16   59.3   2.1    73   165   102   204   100   205 0.75 transcript=SMTH1_84380.1 gene=SMTH1_84380
+SMTH1_84380.2        -            190 561688at33208        -            166   8.2e-50  169.2   8.6   1   2   3.4e-37   2.9e-33  115.4   4.0    15   122     1   113     1   120 0.85 transcript=SMTH1_84380.2 gene=SMTH1_84380
+SMTH1_84380.2        -            190 561688at33208        -            166   8.2e-50  169.2   8.6   2   2   4.4e-20   3.8e-16   59.7   2.0    73   165    87   189    85   190 0.75 transcript=SMTH1_84380.2 gene=SMTH1_84380
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561688at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/561688at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/561688at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:43 2026
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_00693           -            203 539234at33208        -            131   2.7e-43  147.2   5.9   1   2   8.4e-27   3.4e-23   82.2   0.3     1    60    26    85    26    88 0.98 transcript=T265_00693 gene=T265_00693
+T265_00693           -            203 539234at33208        -            131   2.7e-43  147.2   5.9   2   2   5.1e-22   2.1e-18   66.8   0.9    56   131   103   191    97   191 0.83 transcript=T265_00693 gene=T265_00693
+T265_03797           -            459 539234at33208        -            131   0.00054   20.1   0.0   1   2   2.8e-05      0.11   12.6   0.0     6    58    13    66     9    79 0.88 transcript=T265_03797 gene=T265_03797
+T265_03797           -            459 539234at33208        -            131   0.00054   20.1   0.0   2   2    0.0061        25    5.0   0.0    62    87    91   116    86   130 0.81 transcript=T265_03797 gene=T265_03797
+T265_00370           -            196 539234at33208        -            131    0.0023   18.1   0.9   1   1   1.7e-06    0.0069   16.5   0.9    34   116    74   174    45   186 0.68 transcript=T265_00370 gene=T265_00370
+T265_11503           -            186 539234at33208        -            131    0.0029   17.7   0.2   1   1   2.7e-06     0.011   15.9   0.2    14   130    14   150     1   151 0.62 transcript=T265_11503 gene=T265_11503
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/539234at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/539234at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/539234at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:45:05 2026
+# [ok]

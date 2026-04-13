@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAK4468313.1         -            265 570262at33208        -            176   3.6e-59  198.3   0.0   1   1     4e-62   5.2e-59  197.8   0.0     1   175    43   238    43   239 0.91 hypothetical protein MN116_008110 [Schistosoma mekongi]
+KAK4475001.1         -            281 570262at33208        -            176   1.5e-08   33.4   0.0   1   1   2.8e-11   3.7e-08   32.2   0.0     3   176    35   217    33   217 0.82 hypothetical protein MN116_002100 [Schistosoma mekongi]
+KAK4474900.1         -            201 570262at33208        -            176   4.3e-07   28.7   0.0   1   1   4.3e-10   5.6e-07   28.3   0.0     8   176     3   184     1   184 0.81 hypothetical protein MN116_002009 [Schistosoma mekongi]
+KAK4472303.1         -            224 570262at33208        -            176   1.4e-05   23.8   0.0   1   1   1.4e-08   1.8e-05   23.4   0.0     7   140    22   165    17   200 0.72 hypothetical protein MN116_003569, partial [Schistosoma mekongi]
+KAK4473991.1         -            205 570262at33208        -            176   7.8e-05   21.3   0.0   1   1   7.5e-08   9.8e-05   21.0   0.0    31   166    35   181     5   190 0.72 hypothetical protein MN116_003309 [Schistosoma mekongi]
+KAK4472434.1         -            221 570262at33208        -            176   0.00087   17.9   0.1   1   2   3.5e-06    0.0046   15.6   0.0     3    79    15    93    13   121 0.83 hypothetical protein MN116_003688 [Schistosoma mekongi]
+KAK4472434.1         -            221 570262at33208        -            176   0.00087   17.9   0.1   2   2      0.22   2.9e+02   -0.1   0.0    41    74   139   172   136   181 0.87 hypothetical protein MN116_003688 [Schistosoma mekongi]
+KAK4475578.1         -            264 570262at33208        -            176   0.00094   17.8   0.1   1   1   2.4e-06    0.0031   16.1   0.1     5    67    61   125    58   241 0.67 hypothetical protein MN116_000855 [Schistosoma mekongi]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570262at33208.hmm
+# Target file:     /users/40483456/protein/s.mekongi.faa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/s.mekongi_busco/run_metazoa_odb10/hmmer_output/initial_run_results/570262at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570262at33208.hmm /users/40483456/protein/s.mekongi.faa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:04:31 2026
+# [ok]

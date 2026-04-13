@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_54710.1        -            245 594271at33208        -             94   2.2e-22   78.6   0.0   1   1   2.4e-24   1.8e-20   72.5   0.0     4    94    54   165    51   165 0.80 transcript=STRK1_54710.1 gene=STRK1_54710
+STRK1_95260.1        -            434 594271at33208        -             94   6.8e-22   77.0   0.1   1   2   8.1e-24   5.9e-20   70.8   0.0     4    94    54   165    51   165 0.80 transcript=STRK1_95260.1 gene=STRK1_95260
+STRK1_95260.1        -            434 594271at33208        -             94   6.8e-22   77.0   0.1   2   2      0.59   4.4e+03   -2.5   0.0    41    66   321   346   318   353 0.75 transcript=STRK1_95260.1 gene=STRK1_95260
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/594271at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/594271at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/594271at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:48 2026
+# [ok]

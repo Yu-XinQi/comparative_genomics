@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_39830.1        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   1   2   4.8e-19   1.1e-15   57.8   0.2     1    49    31    80    31    85 0.96 transcript=SCUR1_39830.1 gene=SCUR1_39830
+SCUR1_39830.1        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   2   2   8.4e-43   1.9e-39  135.0   0.0    47   151   112   224   101   237 0.86 transcript=SCUR1_39830.1 gene=SCUR1_39830
+SCUR1_39830.2        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   1   2   4.8e-19   1.1e-15   57.8   0.2     1    49    31    80    31    85 0.96 transcript=SCUR1_39830.2 gene=SCUR1_39830
+SCUR1_39830.2        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   2   2   8.4e-43   1.9e-39  135.0   0.0    47   151   112   224   101   237 0.86 transcript=SCUR1_39830.2 gene=SCUR1_39830
+SCUR1_39830.3        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   1   2   4.8e-19   1.1e-15   57.8   0.2     1    49    31    80    31    85 0.96 transcript=SCUR1_39830.3 gene=SCUR1_39830
+SCUR1_39830.3        -            240 537923at33208        -            157   9.9e-58  194.4   0.5   2   2   8.4e-43   1.9e-39  135.0   0.0    47   151   112   224   101   237 0.86 transcript=SCUR1_39830.3 gene=SCUR1_39830
+SCUR1_78860.1        -            174 537923at33208        -            157   2.3e-26   92.5   0.1   1   1   1.2e-29   2.6e-26   92.3   0.1     9   143     9   152     1   164 0.83 transcript=SCUR1_78860.1 gene=SCUR1_78860
+SCUR1_51210.1        -            198 537923at33208        -            157   2.4e-12   47.0   0.0   1   1   1.4e-15   3.2e-12   46.6   0.0    10   132    50   181    40   191 0.82 transcript=SCUR1_51210.1 gene=SCUR1_51210
+SCUR1_51210.2        -            198 537923at33208        -            157   2.4e-12   47.0   0.0   1   1   1.4e-15   3.2e-12   46.6   0.0    10   132    50   181    40   191 0.82 transcript=SCUR1_51210.2 gene=SCUR1_51210
+SCUR1_51210.3        -            227 537923at33208        -            157   2.7e-12   46.8   0.0   1   1   2.1e-15   4.8e-12   46.0   0.0    10   132    79   210    69   220 0.82 transcript=SCUR1_51210.3 gene=SCUR1_51210
+SCUR1_39340.1        -            206 537923at33208        -            157   6.6e-06   26.0   0.2   1   2       1.1   2.6e+03   -1.9   0.1    11    36    38    63    35    76 0.78 transcript=SCUR1_39340.1 gene=SCUR1_39340
+SCUR1_39340.1        -            206 537923at33208        -            157   6.6e-06   26.0   0.2   2   2   7.7e-09   1.7e-05   24.7   0.0    71   146   118   197   102   205 0.81 transcript=SCUR1_39340.1 gene=SCUR1_39340
+SCUR1_67610.1        -            220 537923at33208        -            157      0.02   14.7   0.0   1   1   1.7e-05     0.038   13.8   0.0    74   118   147   194   118   204 0.90 transcript=SCUR1_67610.1 gene=SCUR1_67610
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/537923at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/537923at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/537923at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:52 2026
+# [ok]

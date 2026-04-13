@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g3416.t1     -            181 549156at33208        -            138   3.2e-63  212.2   0.3   1   1     5e-66   8.7e-63  210.7   0.3     2   138    22   180    21   180 0.91 transcript=FhHiC23_g3416.t1 gene=FhHiC23_g3416
+FhHiC23_g1946.t2     -            381 549156at33208        -            138   4.7e-40  137.1   0.0   1   1     5e-43   8.8e-40  136.2   0.0     3   119   106   232   105   251 0.90 transcript=FhHiC23_g1946.t2 gene=FhHiC23_g1946
+FhHiC23_g1946.t1     -            551 549156at33208        -            138   5.4e-40  136.9   0.1   1   2       2.9   5.1e+03   -2.3   0.0    24    59   137   172   117   197 0.70 transcript=FhHiC23_g1946.t1 gene=FhHiC23_g1946
+FhHiC23_g1946.t1     -            551 549156at33208        -            138   5.4e-40  136.9   0.1   2   2     1e-42   1.8e-39  135.2   0.0     3   119   276   402   275   421 0.90 transcript=FhHiC23_g1946.t1 gene=FhHiC23_g1946
+FhHiC23_g12518.t1    -            694 549156at33208        -            138   9.6e-37  126.4   0.0   1   1   1.7e-39     3e-36  124.8   0.0     3   119   536   662   534   681 0.87 transcript=FhHiC23_g12518.t1 gene=FhHiC23_g12518
+FhHiC23_g7187.t1     -            210 549156at33208        -            138   4.1e-34  117.9   0.0   1   1   3.7e-37   6.6e-34  117.2   0.0     3   118    53   178    52   184 0.91 transcript=FhHiC23_g7187.t1 gene=FhHiC23_g7187
+FhHiC23_g11169.t1    -            489 549156at33208        -            138   4.3e-30  104.8   0.0   1   1   4.9e-33   8.7e-30  103.8   0.0     3   112    15   134    13   142 0.94 transcript=FhHiC23_g11169.t1 gene=FhHiC23_g11169
+FhHiC23_g12403.t1    -            427 549156at33208        -            138   1.6e-27   96.5   0.0   1   1   3.3e-30   5.8e-27   94.7   0.0     7   118   277   401   272   410 0.89 transcript=FhHiC23_g12403.t1 gene=FhHiC23_g12403
+FhHiC23_g3713.t1     -            163 549156at33208        -            138   1.4e-26   93.5   0.1   1   1   6.3e-29   1.1e-25   90.6   0.1     9   118    17   138    10   144 0.87 transcript=FhHiC23_g3713.t1 gene=FhHiC23_g3713
+FhHiC23_g9731.t1     -            185 549156at33208        -            138   3.9e-24   85.5   0.1   1   1   1.7e-25     3e-22   79.4   0.1     7   119    29   160    22   172 0.85 transcript=FhHiC23_g9731.t1 gene=FhHiC23_g9731
+FhHiC23_g7290.t1     -            227 549156at33208        -            138   4.8e-22   78.8   0.4   1   1   2.2e-23   3.9e-20   72.6   0.4     7   119    75   206    68   220 0.82 transcript=FhHiC23_g7290.t1 gene=FhHiC23_g7290
+FhHiC23_g12689.t1    -            524 549156at33208        -            138   2.3e-19   70.1   0.0   1   1   3.4e-22     6e-19   68.7   0.0     1   122     1   140     1   159 0.79 transcript=FhHiC23_g12689.t1 gene=FhHiC23_g12689
+FhHiC23_g7053.t1     -             95 549156at33208        -            138   3.2e-13   50.2   0.1   1   1   2.2e-16   3.9e-13   49.9   0.1    54   121    17    84    12    92 0.86 transcript=FhHiC23_g7053.t1 gene=FhHiC23_g7053
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/549156at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/549156at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/549156at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:42:26 2026
+# [ok]

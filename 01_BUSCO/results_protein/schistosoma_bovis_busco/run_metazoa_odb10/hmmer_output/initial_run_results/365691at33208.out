@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_78380.1        -            421 365691at33208        -            249   6.2e-64  216.0   0.2   1   3     0.013   2.7e+02    1.0   0.0     2    17    69    84    68    88 0.89 transcript=SBOV2_78380.1 gene=SBOV2_78380
+SBOV2_78380.1        -            421 365691at33208        -            249   6.2e-64  216.0   0.2   2   3   9.6e-15   1.9e-10   40.8   0.0    22    74   126   187   104   193 0.79 transcript=SBOV2_78380.1 gene=SBOV2_78380
+SBOV2_78380.1        -            421 365691at33208        -            249   6.2e-64  216.0   0.2   3   3   7.1e-54   1.4e-49  168.9   0.1    75   235   210   394   196   415 0.84 transcript=SBOV2_78380.1 gene=SBOV2_78380
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/365691at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/365691at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/365691at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:46:00 2026
+# [ok]

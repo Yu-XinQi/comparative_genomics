@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_92170.1        -            216 418979at33208        -            151   7.1e-47  158.5   2.1   1   2   8.3e-38     4e-34  117.1   0.3     3   100    26   128    24   142 0.87 transcript=STRK1_92170.1 gene=STRK1_92170
+STRK1_92170.1        -            216 418979at33208        -            151   7.1e-47  158.5   2.1   2   2   2.1e-14     1e-10   41.1   0.1    97   150   154   213   150   214 0.84 transcript=STRK1_92170.1 gene=STRK1_92170
+STRK1_56840.1        -            367 418979at33208        -            151    0.0043   16.4   0.1   1   2   2.8e-06     0.014   14.8   0.0    52   130   144   217   139   224 0.81 transcript=STRK1_56840.1 gene=STRK1_56840
+STRK1_56840.1        -            367 418979at33208        -            151    0.0043   16.4   0.1   2   2      0.51   2.5e+03   -2.3   0.0   108   129   252   273   231   280 0.70 transcript=STRK1_56840.1 gene=STRK1_56840
+STRK1_56840.2        -            367 418979at33208        -            151    0.0043   16.4   0.1   1   2   2.8e-06     0.014   14.8   0.0    52   130   144   217   139   224 0.81 transcript=STRK1_56840.2 gene=STRK1_56840
+STRK1_56840.2        -            367 418979at33208        -            151    0.0043   16.4   0.1   2   2      0.51   2.5e+03   -2.3   0.0   108   129   252   273   231   280 0.70 transcript=STRK1_56840.2 gene=STRK1_56840
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/418979at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/418979at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/418979at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:25 2026
+# [ok]

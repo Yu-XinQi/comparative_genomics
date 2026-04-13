@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_93780.1        -            458 289235at33208        -            243     3e-35  121.5  24.7   1   4   3.9e-17   1.4e-13   50.5   2.2     1    69    25    96    25   106 0.95 transcript=STRK1_93780.1 gene=STRK1_93780
+STRK1_93780.1        -            458 289235at33208        -            243     3e-35  121.5  24.7   2   4   0.00047       1.7    7.7   0.2    81   122   182   237   178   245 0.68 transcript=STRK1_93780.1 gene=STRK1_93780
+STRK1_93780.1        -            458 289235at33208        -            243     3e-35  121.5  24.7   3   4   5.2e-15   1.9e-11   43.5   0.2   139   211   292   372   279   386 0.79 transcript=STRK1_93780.1 gene=STRK1_93780
+STRK1_93780.1        -            458 289235at33208        -            243     3e-35  121.5  24.7   4   4   4.8e-11   1.8e-07   30.6   5.1   195   241   391   448   385   450 0.80 transcript=STRK1_93780.1 gene=STRK1_93780
+STRK1_93780.2        -            445 289235at33208        -            243   6.9e-34  117.0  21.7   1   4   2.6e-15   9.6e-12   44.5   0.5     1    60    25    87    25    97 0.93 transcript=STRK1_93780.2 gene=STRK1_93780
+STRK1_93780.2        -            445 289235at33208        -            243   6.9e-34  117.0  21.7   2   4   0.00046       1.7    7.7   0.2    81   122   169   224   165   232 0.68 transcript=STRK1_93780.2 gene=STRK1_93780
+STRK1_93780.2        -            445 289235at33208        -            243   6.9e-34  117.0  21.7   3   4     5e-15   1.8e-11   43.6   0.2   139   211   279   359   266   373 0.79 transcript=STRK1_93780.2 gene=STRK1_93780
+STRK1_93780.2        -            445 289235at33208        -            243   6.9e-34  117.0  21.7   4   4   4.5e-11   1.7e-07   30.6   5.1   195   241   378   435   372   437 0.80 transcript=STRK1_93780.2 gene=STRK1_93780
+STRK1_37780.1        -            111 289235at33208        -            243   0.00088   18.4   0.3   1   1   2.8e-07     0.001   18.2   0.3   182   219    51    89    28    96 0.86 transcript=STRK1_37780.1 gene=STRK1_37780
+STRK1_69170.1        -            275 289235at33208        -            243      0.11   11.6   0.4   1   2      0.12   4.4e+02   -0.2   0.0   157   179   152   174   147   187 0.87 transcript=STRK1_69170.1 gene=STRK1_69170
+STRK1_69170.1        -            275 289235at33208        -            243      0.11   11.6   0.4   2   2   0.00017      0.61    9.1   0.4   216   236   229   249   197   255 0.86 transcript=STRK1_69170.1 gene=STRK1_69170
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289235at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/289235at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289235at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:09 2026
+# [ok]

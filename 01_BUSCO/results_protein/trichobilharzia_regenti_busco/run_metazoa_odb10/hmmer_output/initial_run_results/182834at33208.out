@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_400.1          -            894 182834at33208        -            549  6.6e-123  411.6   8.2   1   4   3.8e-33   1.4e-29  103.6   0.4    38   228   169   371   149   420 0.75 transcript=TREG1_400.1 gene=TREG1_400
+TREG1_400.1          -            894 182834at33208        -            549  6.6e-123  411.6   8.2   2   4   6.6e-41   2.3e-37  129.2   0.2   246   343   443   544   430   549 0.89 transcript=TREG1_400.1 gene=TREG1_400
+TREG1_400.1          -            894 182834at33208        -            549  6.6e-123  411.6   8.2   3   4   5.4e-28   1.9e-24   86.6   0.0   343   456   618   736   610   753 0.91 transcript=TREG1_400.1 gene=TREG1_400
+TREG1_400.1          -            894 182834at33208        -            549  6.6e-123  411.6   8.2   4   4   2.6e-30   9.2e-27   94.3   0.0   465   547   804   889   798   891 0.92 transcript=TREG1_400.1 gene=TREG1_400
+TREG1_73570.1        -            622 182834at33208        -            549   2.4e-11   43.4   0.7   1   2   1.1e-14   3.9e-11   42.7   0.0   264   424   293   465   280   501 0.82 transcript=TREG1_73570.1 gene=TREG1_73570
+TREG1_73570.1        -            622 182834at33208        -            549   2.4e-11   43.4   0.7   2   2      0.88   3.1e+03   -3.2   0.1    42    88   561   607   542   611 0.71 transcript=TREG1_73570.1 gene=TREG1_73570
+TREG1_97700.1        -            856 182834at33208        -            549   7.4e-09   35.2   1.9   1   1   4.7e-12   1.7e-08   34.0   1.9   277   479   531   749   521   757 0.80 transcript=TREG1_97700.1 gene=TREG1_97700
+TREG1_97700.2        -            868 182834at33208        -            549   7.5e-09   35.1   1.9   1   1   4.8e-12   1.7e-08   34.0   1.9   277   479   531   749   521   757 0.80 transcript=TREG1_97700.2 gene=TREG1_97700
+TREG1_880.1          -            814 182834at33208        -            549   1.1e-06   28.0   0.6   1   2   1.5e-07   0.00051   19.2   0.1   277   399   425   560   411   583 0.78 transcript=TREG1_880.1 gene=TREG1_880
+TREG1_880.1          -            814 182834at33208        -            549   1.1e-06   28.0   0.6   2   2   0.00093       3.3    6.6   0.0   404   446   636   680   632   692 0.88 transcript=TREG1_880.1 gene=TREG1_880
+TREG1_880.2          -            814 182834at33208        -            549   1.1e-06   28.0   0.6   1   2   1.5e-07   0.00051   19.2   0.1   277   399   425   560   411   583 0.78 transcript=TREG1_880.2 gene=TREG1_880
+TREG1_880.2          -            814 182834at33208        -            549   1.1e-06   28.0   0.6   2   2   0.00093       3.3    6.6   0.0   404   446   636   680   632   692 0.88 transcript=TREG1_880.2 gene=TREG1_880
+TREG1_81140.1        -            813 182834at33208        -            549   3.9e-06   26.2   0.2   1   1   1.9e-09   6.9e-06   25.4   0.2   276   423   439   600   419   621 0.77 transcript=TREG1_81140.1 gene=TREG1_81140
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/182834at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/182834at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/182834at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:06 2026
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAK4470932.1         -           1266 334342at33208        -            650   7.6e-76  254.7  19.4   1   5   2.7e-30   1.2e-26   92.1   5.7     1   169     8   182     8   194 0.91 hypothetical protein MN116_006439 [Schistosoma mekongi]
+KAK4470932.1         -           1266 334342at33208        -            650   7.6e-76  254.7  19.4   2   5    0.0098        45    1.0   0.0   299   328   645   675   628   712 0.78 hypothetical protein MN116_006439 [Schistosoma mekongi]
+KAK4470932.1         -           1266 334342at33208        -            650   7.6e-76  254.7  19.4   3   5   3.7e-15   1.7e-11   42.1   0.0   335   432   739   844   726   855 0.88 hypothetical protein MN116_006439 [Schistosoma mekongi]
+KAK4470932.1         -           1266 334342at33208        -            650   7.6e-76  254.7  19.4   4   5   0.00037       1.7    5.7   0.1   451   487  1008  1044   980  1048 0.79 hypothetical protein MN116_006439 [Schistosoma mekongi]
+KAK4470932.1         -           1266 334342at33208        -            650   7.6e-76  254.7  19.4   5   5   3.4e-38   1.6e-34  118.1   0.9   475   642  1067  1245  1059  1252 0.91 hypothetical protein MN116_006439 [Schistosoma mekongi]
+KAK4469065.1         -            506 334342at33208        -            650     0.024   11.8   0.1   1   1   7.2e-06     0.033   11.4   0.1   277   342    47   113    36   144 0.81 hypothetical protein MN116_006654 [Schistosoma mekongi]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/334342at33208.hmm
+# Target file:     /users/40483456/protein/s.mekongi.faa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/s.mekongi_busco/run_metazoa_odb10/hmmer_output/initial_run_results/334342at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/334342at33208.hmm /users/40483456/protein/s.mekongi.faa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:04:09 2026
+# [ok]

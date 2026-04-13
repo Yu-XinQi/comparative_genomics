@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g6129.t1     -            403 334764at33208        -            296   5.1e-87  292.3  21.0   1   1   1.6e-89   8.4e-86  288.3  21.0    35   296    78   385    70   385 0.81 transcript=FhHiC23_g6129.t1 gene=FhHiC23_g6129
+FhHiC23_g555.t1      -            184 334764at33208        -            296   2.3e-17   63.6  11.2   1   1   6.6e-21   3.5e-17   63.0  11.2   152   296     1   163     1   163 0.84 transcript=FhHiC23_g555.t1 gene=FhHiC23_g555
+FhHiC23_g10643.t1    -            357 334764at33208        -            296   1.1e-15   58.1  23.3   1   1   3.5e-19   1.8e-15   57.4  23.3    38   296    37   328    17   328 0.72 transcript=FhHiC23_g10643.t1 gene=FhHiC23_g10643
+FhHiC23_g10643.t2    -            267 334764at33208        -            296   5.8e-11   42.6  10.0   1   1   1.6e-14   8.4e-11   42.1  10.0    38   202    37   221    17   252 0.72 transcript=FhHiC23_g10643.t2 gene=FhHiC23_g10643
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/334764at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/334764at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/334764at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:40 2026
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMRG1_9330.1         -            363 485003at33208        -            206   5.8e-57  192.7   5.8   1   4   2.3e-13   7.5e-10   38.8   0.0     3    49     2    59     1    71 0.83 transcript=SMRG1_9330.1 gene=SMRG1_9330
+SMRG1_9330.1         -            363 485003at33208        -            206   5.8e-57  192.7   5.8   2   4   1.7e-41   5.7e-38  130.7   1.6    44   148    96   211    84   219 0.91 transcript=SMRG1_9330.1 gene=SMRG1_9330
+SMRG1_9330.1         -            363 485003at33208        -            206   5.8e-57  192.7   5.8   3   4     0.022        73    3.0   0.0   145   182   247   285   243   307 0.66 transcript=SMRG1_9330.1 gene=SMRG1_9330
+SMRG1_9330.1         -            363 485003at33208        -            206   5.8e-57  192.7   5.8   4   4   3.9e-07    0.0013   18.5   0.0   178   205   316   345   312   346 0.92 transcript=SMRG1_9330.1 gene=SMRG1_9330
+SMRG1_92070.5        -            203 485003at33208        -            206     0.096   12.4   7.4   1   2      0.25   8.3e+02   -0.5   0.1    85   108    72    95    57   106 0.59 transcript=SMRG1_92070.5 gene=SMRG1_92070
+SMRG1_92070.5        -            203 485003at33208        -            206     0.096   12.4   7.4   2   2     2e-05     0.066   12.9   5.3    82   163    98   184    94   202 0.79 transcript=SMRG1_92070.5 gene=SMRG1_92070
+SMRG1_92070.3        -            255 485003at33208        -            206     0.098   12.3   6.5   1   2      0.75   2.5e+03   -2.0   0.0    85   106   124   145   110   148 0.59 transcript=SMRG1_92070.3 gene=SMRG1_92070
+SMRG1_92070.3        -            255 485003at33208        -            206     0.098   12.3   6.5   2   2   2.9e-05     0.095   12.4   5.1    82   162   150   235   146   254 0.80 transcript=SMRG1_92070.3 gene=SMRG1_92070
+SMRG1_92070.4        -            260 485003at33208        -            206      0.11   12.2   6.7   1   2      0.77   2.5e+03   -2.1   0.0    85   106   129   150   115   153 0.59 transcript=SMRG1_92070.4 gene=SMRG1_92070
+SMRG1_92070.4        -            260 485003at33208        -            206      0.11   12.2   6.7   2   2     3e-05     0.099   12.3   5.1    82   162   155   240   151   259 0.80 transcript=SMRG1_92070.4 gene=SMRG1_92070
+SMRG1_52950.1        -            506 485003at33208        -            206       0.3   10.7   5.1   1   2       0.2   6.4e+02   -0.1   0.1   102   127   162   187   154   199 0.83 transcript=SMRG1_52950.1 gene=SMRG1_52950
+SMRG1_52950.1        -            506 485003at33208        -            206       0.3   10.7   5.1   2   2   4.9e-05      0.16   11.6   1.1    97   151   234   288   219   338 0.84 transcript=SMRG1_52950.1 gene=SMRG1_52950
+SMRG1_52950.2        -            404 485003at33208        -            206      0.38   10.4   6.4   1   2      0.15   4.8e+02    0.3   0.1   102   127    60    85    52    98 0.83 transcript=SMRG1_52950.2 gene=SMRG1_52950
+SMRG1_52950.2        -            404 485003at33208        -            206      0.38   10.4   6.4   2   2     4e-05      0.13   11.9   1.0    97   151   132   186   118   217 0.86 transcript=SMRG1_52950.2 gene=SMRG1_52950
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/485003at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_margrebowiei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_margrebowiei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/485003at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/485003at33208.hmm /users/40483456/protein/schistosoma_margrebowiei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:55:27 2026
+# [ok]

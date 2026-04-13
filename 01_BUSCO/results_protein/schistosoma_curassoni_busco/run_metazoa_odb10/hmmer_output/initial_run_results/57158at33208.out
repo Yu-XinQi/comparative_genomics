@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_3480.1         -           1226 57158at33208         -           1057         0 1801.2   0.0   1   2         0         0 1522.5   0.0     1   812     1   875     1   887 0.95 transcript=SCUR1_3480.1 gene=SCUR1_3480
+SCUR1_3480.1         -           1226 57158at33208         -           1057         0 1801.2   0.0   2   2   8.6e-85   2.9e-81  273.7   0.0   832  1057   943  1226   930  1226 0.86 transcript=SCUR1_3480.1 gene=SCUR1_3480
+SCUR1_3480.2         -            995 57158at33208         -           1057         0 1581.4   0.0   1   2         0         0 1523.5   0.0     1   812     1   875     1   881 0.95 transcript=SCUR1_3480.2 gene=SCUR1_3480
+SCUR1_3480.2         -            995 57158at33208         -           1057         0 1581.4   0.0   2   2   4.9e-18   1.7e-14   52.7   0.0   832   879   943   994   930   995 0.90 transcript=SCUR1_3480.2 gene=SCUR1_3480
+SCUR1_78400.3        -           1214 57158at33208         -           1057   0.00011   20.2   0.2   1   4     0.071   2.4e+02   -0.8   0.0     2    71     3    75     2   134 0.70 transcript=SCUR1_78400.3 gene=SCUR1_78400
+SCUR1_78400.3        -           1214 57158at33208         -           1057   0.00011   20.2   0.2   2   4      0.25   8.3e+02   -2.6   0.0   541   624   242   323   240   342 0.72 transcript=SCUR1_78400.3 gene=SCUR1_78400
+SCUR1_78400.3        -           1214 57158at33208         -           1057   0.00011   20.2   0.2   3   4   1.7e-06    0.0057   14.5   0.0   391   580   377   595   363   637 0.65 transcript=SCUR1_78400.3 gene=SCUR1_78400
+SCUR1_78400.3        -           1214 57158at33208         -           1057   0.00011   20.2   0.2   4   4     0.061   2.1e+02   -0.6   0.0   840   875   955   990   941  1011 0.78 transcript=SCUR1_78400.3 gene=SCUR1_78400
+SCUR1_78400.4        -            984 57158at33208         -           1057   0.00013   20.0   0.1   1   3     0.054   1.8e+02   -0.4   0.0     2    73     3    77     2   135 0.70 transcript=SCUR1_78400.4 gene=SCUR1_78400
+SCUR1_78400.4        -            984 57158at33208         -           1057   0.00013   20.0   0.1   2   3      0.17   5.6e+02   -2.0   0.0   541   624   242   323   239   351 0.70 transcript=SCUR1_78400.4 gene=SCUR1_78400
+SCUR1_78400.4        -            984 57158at33208         -           1057   0.00013   20.0   0.1   3   3   1.1e-06    0.0037   15.1   0.0   390   581   376   596   362   641 0.65 transcript=SCUR1_78400.4 gene=SCUR1_78400
+SCUR1_78400.2        -           1338 57158at33208         -           1057   0.00015   19.7   0.3   1   4      0.08   2.7e+02   -1.0   0.0     2    50     3    52     2   134 0.70 transcript=SCUR1_78400.2 gene=SCUR1_78400
+SCUR1_78400.2        -           1338 57158at33208         -           1057   0.00015   19.7   0.3   2   4      0.31   1.1e+03   -2.9   0.0   541   623   242   322   240   330 0.69 transcript=SCUR1_78400.2 gene=SCUR1_78400
+SCUR1_78400.2        -           1338 57158at33208         -           1057   0.00015   19.7   0.3   3   4   1.9e-06    0.0066   14.3   0.0   391   580   377   595   363   637 0.65 transcript=SCUR1_78400.2 gene=SCUR1_78400
+SCUR1_78400.2        -           1338 57158at33208         -           1057   0.00015   19.7   0.3   4   4     0.071   2.4e+02   -0.8   0.0   840   875   955   990   942  1011 0.78 transcript=SCUR1_78400.2 gene=SCUR1_78400
+SCUR1_78400.1        -           1160 57158at33208         -           1057   0.00021   19.2   0.1   1   3      0.23   7.7e+02   -2.5   0.0   541   624    64   145    62   169 0.72 transcript=SCUR1_78400.1 gene=SCUR1_78400
+SCUR1_78400.1        -           1160 57158at33208         -           1057   0.00021   19.2   0.1   2   3   1.5e-06    0.0052   14.6   0.0   391   580   199   417   185   460 0.65 transcript=SCUR1_78400.1 gene=SCUR1_78400
+SCUR1_78400.1        -           1160 57158at33208         -           1057   0.00021   19.2   0.1   3   3     0.058     2e+02   -0.5   0.0   840   875   777   812   763   833 0.78 transcript=SCUR1_78400.1 gene=SCUR1_78400
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/57158at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/57158at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/57158at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:56 2026
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_35520.1        -            353 395183at33208        -            174     2e-85  284.4   0.1   1   1   1.9e-88   2.7e-85  284.0   0.1     1   174    49   229    49   229 0.97 transcript=STRK1_35520.1 gene=STRK1_35520
+STRK1_63200.3        -            578 395183at33208        -            174     3e-06   26.7   1.7   1   1   6.2e-09   9.1e-06   25.1   1.7    11   135   348   486   339   490 0.70 transcript=STRK1_63200.3 gene=STRK1_63200
+STRK1_63200.5        -            578 395183at33208        -            174     3e-06   26.7   1.7   1   1   6.2e-09   9.1e-06   25.1   1.7    11   135   348   486   339   490 0.70 transcript=STRK1_63200.5 gene=STRK1_63200
+STRK1_63200.6        -            578 395183at33208        -            174     3e-06   26.7   1.7   1   1   6.2e-09   9.1e-06   25.1   1.7    11   135   348   486   339   490 0.70 transcript=STRK1_63200.6 gene=STRK1_63200
+STRK1_63200.4        -            588 395183at33208        -            174     3e-06   26.6   1.7   1   1   6.3e-09   9.3e-06   25.1   1.7    11   135   358   496   349   500 0.70 transcript=STRK1_63200.4 gene=STRK1_63200
+STRK1_63200.1        -            589 395183at33208        -            174   3.1e-06   26.6   1.7   1   1   6.3e-09   9.3e-06   25.1   1.7    11   135   359   497   350   501 0.70 transcript=STRK1_63200.1 gene=STRK1_63200
+STRK1_63200.2        -            599 395183at33208        -            174   3.2e-06   26.6   1.7   1   1   6.5e-09   9.6e-06   25.0   1.7    11   135   369   507   360   511 0.70 transcript=STRK1_63200.2 gene=STRK1_63200
+STRK1_104080.1       -            525 395183at33208        -            174     0.072   12.4   0.6   1   2   0.00065      0.95    8.7   0.0     3    68   286   352   284   381 0.80 transcript=STRK1_104080.1 gene=STRK1_104080
+STRK1_104080.1       -            525 395183at33208        -            174     0.072   12.4   0.6   2   2       0.1   1.5e+02    1.6   0.3    80   121   408   452   404   469 0.77 transcript=STRK1_104080.1 gene=STRK1_104080
+STRK1_104080.2       -            525 395183at33208        -            174     0.072   12.4   0.6   1   2   0.00065      0.95    8.7   0.0     3    68   286   352   284   381 0.80 transcript=STRK1_104080.2 gene=STRK1_104080
+STRK1_104080.2       -            525 395183at33208        -            174     0.072   12.4   0.6   2   2       0.1   1.5e+02    1.6   0.3    80   121   408   452   404   469 0.77 transcript=STRK1_104080.2 gene=STRK1_104080
+STRK1_104080.3       -            525 395183at33208        -            174     0.072   12.4   0.6   1   2   0.00065      0.95    8.7   0.0     3    68   286   352   284   381 0.80 transcript=STRK1_104080.3 gene=STRK1_104080
+STRK1_104080.3       -            525 395183at33208        -            174     0.072   12.4   0.6   2   2       0.1   1.5e+02    1.6   0.3    80   121   408   452   404   469 0.77 transcript=STRK1_104080.3 gene=STRK1_104080
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/395183at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/395183at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/395183at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:21 2026
+# [ok]

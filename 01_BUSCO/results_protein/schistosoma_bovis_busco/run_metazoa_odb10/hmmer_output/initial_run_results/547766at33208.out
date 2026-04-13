@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_3900.1         -            249 547766at33208        -            160   1.6e-76  255.5   1.1   1   1   4.5e-80   2.3e-76  255.0   1.1     2   160    39   226    38   226 0.91 transcript=SBOV2_3900.1 gene=SBOV2_3900
+SBOV2_3900.2         -            224 547766at33208        -            160   4.2e-75  250.9   1.1   1   1   1.2e-78   6.2e-75  250.3   1.1     6   160    18   201    15   201 0.91 transcript=SBOV2_3900.2 gene=SBOV2_3900
+SBOV2_3900.3         -            224 547766at33208        -            160   4.2e-75  250.9   1.1   1   1   1.2e-78   6.2e-75  250.3   1.1     6   160    18   201    15   201 0.91 transcript=SBOV2_3900.3 gene=SBOV2_3900
+SBOV2_95940.1        -             83 547766at33208        -            160     7e-18   64.9   0.1   1   1   1.6e-21   8.1e-18   64.7   0.1   105   160     2    64     1    64 0.88 transcript=SBOV2_95940.1 gene=SBOV2_95940
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/547766at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/547766at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/547766at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:46:21 2026
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_67130.1        -            146 575360at33208        -            127   1.8e-44  150.7   0.0   1   1   2.5e-48   2.1e-44  150.5   0.0     3   127     3   136     1   136 0.93 transcript=SMTH1_67130.1 gene=SMTH1_67130
+SMTH1_26280.1        -            939 575360at33208        -            127     0.089   12.7   0.1   1   4      0.24     2e+03   -1.4   0.2    59   107    43    91    21    94 0.84 transcript=SMTH1_26280.1 gene=SMTH1_26280
+SMTH1_26280.1        -            939 575360at33208        -            127     0.089   12.7   0.1   2   4      0.27   2.3e+03   -1.5   0.0    94   109   183   198   176   213 0.75 transcript=SMTH1_26280.1 gene=SMTH1_26280
+SMTH1_26280.1        -            939 575360at33208        -            127     0.089   12.7   0.1   3   4     1e-05     0.089   12.7   0.1    54   112   365   424   350   438 0.84 transcript=SMTH1_26280.1 gene=SMTH1_26280
+SMTH1_26280.1        -            939 575360at33208        -            127     0.089   12.7   0.1   4   4       1.5   1.2e+04   -3.9   0.0    63    82   882   901   871   903 0.79 transcript=SMTH1_26280.1 gene=SMTH1_26280
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/575360at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/575360at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/575360at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:54 2026
+# [ok]

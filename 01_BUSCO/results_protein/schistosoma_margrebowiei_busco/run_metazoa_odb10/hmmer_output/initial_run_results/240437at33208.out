@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMRG1_27410.1        -            313 240437at33208        -            249   1.8e-89  299.4   0.1   1   2   1.9e-92   1.8e-88  296.1   0.0    10   218    15   234     9   252 0.93 transcript=SMRG1_27410.1 gene=SMRG1_27410
+SMRG1_27410.1        -            313 240437at33208        -            249   1.8e-89  299.4   0.1   2   2      0.02     2e+02    1.1   0.0   228   249   291   312   283   312 0.87 transcript=SMRG1_27410.1 gene=SMRG1_27410
+SMRG1_59300.1        -            294 240437at33208        -            249   3.6e-17   62.5   0.1   1   1   5.8e-21   5.7e-17   61.9   0.1   100   214    65   189    58   195 0.87 transcript=SMRG1_59300.1 gene=SMRG1_59300
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/240437at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_margrebowiei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_margrebowiei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/240437at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/240437at33208.hmm /users/40483456/protein/schistosoma_margrebowiei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:57 2026
+# [ok]

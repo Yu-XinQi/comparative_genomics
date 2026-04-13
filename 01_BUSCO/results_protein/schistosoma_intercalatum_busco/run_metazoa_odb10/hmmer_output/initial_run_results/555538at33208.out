@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_94260.1        -            295 555538at33208        -            151   1.4e-08   34.6   7.0   1   2      0.63   2.8e+03   -2.1   0.1    33    55     4    26     2    49 0.52 transcript=SINT1_94260.1 gene=SINT1_94260
+SINT1_94260.1        -            295 555538at33208        -            151   1.4e-08   34.6   7.0   2   2   4.2e-10   1.9e-06   27.7   3.6    71   135   156   229    63   236 0.73 transcript=SINT1_94260.1 gene=SINT1_94260
+SINT1_1980.3         -            166 555538at33208        -            151    0.0097   15.7   0.0   1   1   2.9e-06     0.013   15.2   0.0    30    78    86   134    61   139 0.89 transcript=SINT1_1980.3 gene=SINT1_1980
+SINT1_1980.2         -            169 555538at33208        -            151      0.01   15.6   0.0   1   1     3e-06     0.013   15.2   0.0    30    78    86   134    61   139 0.89 transcript=SINT1_1980.2 gene=SINT1_1980
+SINT1_1980.1         -            197 555538at33208        -            151     0.012   15.4   0.0   1   1   4.2e-06     0.019   14.7   0.0    30    78    86   134    65   139 0.89 transcript=SINT1_1980.1 gene=SINT1_1980
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/555538at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/555538at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/555538at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:16 2026
+# [ok]

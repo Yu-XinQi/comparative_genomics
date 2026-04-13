@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SCUR1_67970.1        -            121 608869at33208        -            106   1.8e-33  115.4   0.2   1   1   4.3e-37   2.2e-33  115.1   0.2     2   106     6   119     5   119 0.89 transcript=SCUR1_67970.1 gene=SCUR1_67970
+SCUR1_67970.2        -            121 608869at33208        -            106   1.8e-33  115.4   0.2   1   1   4.3e-37   2.2e-33  115.1   0.2     2   106     6   119     5   119 0.89 transcript=SCUR1_67970.2 gene=SCUR1_67970
+SCUR1_67970.3        -            121 608869at33208        -            106   1.8e-33  115.4   0.2   1   1   4.3e-37   2.2e-33  115.1   0.2     2   106     6   119     5   119 0.89 transcript=SCUR1_67970.3 gene=SCUR1_67970
+SCUR1_83250.1        -            188 608869at33208        -            106     0.025   15.3   0.2   1   1   1.4e-05     0.073   13.7   0.2    12    66    37    98    30   110 0.69 transcript=SCUR1_83250.1 gene=SCUR1_83250
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/608869at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_curassoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_curassoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/608869at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/608869at33208.hmm /users/40483456/protein/schistosoma_curassoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:47:59 2026
+# [ok]

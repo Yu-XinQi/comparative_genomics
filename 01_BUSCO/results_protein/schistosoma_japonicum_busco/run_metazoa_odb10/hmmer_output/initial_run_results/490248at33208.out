@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EWB00_004289.3       -            212 490248at33208        -            172   4.8e-60  202.2  19.4   1   1   2.3e-62   1.3e-58  197.6  19.4     6   162    10   191     2   206 0.80 transcript=EWB00_004289.3 gene=EWB00_004289
+EWB00_004289.2       -            199 490248at33208        -            172   1.2e-59  200.9  16.7   1   1   4.4e-63   2.5e-59  199.9  16.7     3   143    19   170    17   184 0.91 transcript=EWB00_004289.2 gene=EWB00_004289
+EWB00_004289.1       -            197 490248at33208        -            172     5e-58  195.7  17.4   1   1   1.7e-61   9.9e-58  194.7  17.4     6   146    10   162     2   179 0.88 transcript=EWB00_004289.1 gene=EWB00_004289
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/490248at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_japonicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_japonicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/490248at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/490248at33208.hmm /users/40483456/protein/schistosoma_japonicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:53:17 2026
+# [ok]

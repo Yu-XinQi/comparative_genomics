@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_79820.1        -            247 570262at33208        -            176   1.8e-60  203.5   0.0   1   1     1e-63   2.3e-60  203.1   0.0     1   175    25   220    25   221 0.92 transcript=SINT1_79820.1 gene=SINT1_79820
+SINT1_20530.1        -            281 570262at33208        -            176   1.5e-08   34.3   0.0   1   1   1.5e-11   3.3e-08   33.2   0.0     3   176    35   217    33   217 0.82 transcript=SINT1_20530.1 gene=SINT1_20530
+SINT1_17380.1        -            201 570262at33208        -            176   4.6e-08   32.8   0.1   1   1   2.7e-11     6e-08   32.4   0.1     8   176     3   184     1   184 0.81 transcript=SINT1_17380.1 gene=SINT1_17380
+SINT1_33770.1        -            212 570262at33208        -            176   9.5e-05   22.0   0.0   1   1   5.3e-08   0.00012   21.7   0.0    13   140    19   153     5   186 0.70 transcript=SINT1_33770.1 gene=SINT1_33770
+SINT1_33770.2        -            210 570262at33208        -            176   0.00014   21.5   0.0   1   1   7.4e-08   0.00017   21.2   0.0    13   140    17   151     5   184 0.71 transcript=SINT1_33770.2 gene=SINT1_33770
+SINT1_36590.1        -            205 570262at33208        -            176   0.00041   19.9   0.0   1   1   2.2e-07   0.00049   19.7   0.0    36   166    40   181     6   190 0.72 transcript=SINT1_36590.1 gene=SINT1_36590
+SINT1_2910.1         -            281 570262at33208        -            176   0.00053   19.6   0.3   1   2       3.2   7.1e+03   -3.6   0.0    74    93    34    54    30    58 0.73 transcript=SINT1_2910.1 gene=SINT1_2910
+SINT1_2910.1         -            281 570262at33208        -            176   0.00053   19.6   0.3   2   2   6.2e-07    0.0014   18.2   0.1     5   165    78   248    75   258 0.65 transcript=SINT1_2910.1 gene=SINT1_2910
+SINT1_29770.1        -            218 570262at33208        -            176    0.0017   17.9   0.0   1   2   3.9e-06    0.0087   15.6   0.0     3    79    15    93    13   122 0.83 transcript=SINT1_29770.1 gene=SINT1_29770
+SINT1_29770.1        -            218 570262at33208        -            176    0.0017   17.9   0.0   2   2      0.22   4.9e+02    0.2   0.0    42    73   140   171   136   198 0.66 transcript=SINT1_29770.1 gene=SINT1_29770
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570262at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/570262at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570262at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:20 2026
+# [ok]

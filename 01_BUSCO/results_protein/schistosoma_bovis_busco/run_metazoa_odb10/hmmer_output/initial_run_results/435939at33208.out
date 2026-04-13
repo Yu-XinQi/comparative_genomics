@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_88190.1        -            276 435939at33208        -            169   4.8e-34  118.0   2.5   1   1   1.4e-36     4e-33  115.0   2.5     5   166    73   276    69   276 0.78 transcript=SBOV2_88190.1 gene=SBOV2_88190
+SBOV2_43440.1        -            271 435939at33208        -            169   2.6e-09   37.5   0.1   1   1   3.7e-12   1.1e-08   35.5   0.1    36   120   103   192    92   205 0.75 transcript=SBOV2_43440.1 gene=SBOV2_43440
+SBOV2_10870.1        -           1005 435939at33208        -            169   0.00055   20.2   0.0   1   2      0.51   1.5e+03   -0.7   0.0     6    25   717   737   713   739 0.75 transcript=SBOV2_10870.1 gene=SBOV2_10870
+SBOV2_10870.1        -           1005 435939at33208        -            169   0.00055   20.2   0.0   2   2   1.3e-06    0.0036   17.5   0.0    36   117   843   929   829   948 0.80 transcript=SBOV2_10870.1 gene=SBOV2_10870
+SBOV2_10870.3        -           1005 435939at33208        -            169   0.00055   20.2   0.0   1   2      0.51   1.5e+03   -0.7   0.0     6    25   717   737   713   739 0.75 transcript=SBOV2_10870.3 gene=SBOV2_10870
+SBOV2_10870.3        -           1005 435939at33208        -            169   0.00055   20.2   0.0   2   2   1.3e-06    0.0036   17.5   0.0    36   117   843   929   829   948 0.80 transcript=SBOV2_10870.3 gene=SBOV2_10870
+SBOV2_10870.4        -           1016 435939at33208        -            169   0.00057   20.2   0.0   1   2      0.51   1.5e+03   -0.7   0.0     6    25   728   748   724   750 0.75 transcript=SBOV2_10870.4 gene=SBOV2_10870
+SBOV2_10870.4        -           1016 435939at33208        -            169   0.00057   20.2   0.0   2   2   1.3e-06    0.0037   17.5   0.0    36   117   854   940   840   959 0.80 transcript=SBOV2_10870.4 gene=SBOV2_10870
+SBOV2_10870.5        -           1021 435939at33208        -            169   0.00057   20.1   0.0   1   2      0.51   1.5e+03   -0.7   0.0     6    25   733   753   729   755 0.75 transcript=SBOV2_10870.5 gene=SBOV2_10870
+SBOV2_10870.5        -           1021 435939at33208        -            169   0.00057   20.1   0.0   2   2   1.3e-06    0.0037   17.5   0.0    36   117   859   945   845   964 0.80 transcript=SBOV2_10870.5 gene=SBOV2_10870
+SBOV2_10870.7        -            988 435939at33208        -            169   0.00058   20.1   0.0   1   2       0.5   1.4e+03   -0.7   0.0     6    25   728   748   724   750 0.75 transcript=SBOV2_10870.7 gene=SBOV2_10870
+SBOV2_10870.7        -            988 435939at33208        -            169   0.00058   20.1   0.0   2   2   1.3e-06    0.0038   17.5   0.0    36   117   854   940   840   950 0.79 transcript=SBOV2_10870.7 gene=SBOV2_10870
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/435939at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/435939at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/435939at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:46:02 2026
+# [ok]

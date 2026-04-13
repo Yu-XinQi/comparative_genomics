@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_02925           -           1230 84980at33208         -            521  1.8e-222  739.1  17.8   1   4   6.5e-44   2.8e-40  138.0   0.5     1    99     3   110     3   117 0.93 transcript=FGIG_02925 gene=FGIG_02925
+FGIG_02925           -           1230 84980at33208         -            521  1.8e-222  739.1  17.8   2   4   2.6e-45   1.1e-41  142.6   1.1   102   251   146   308   141   321 0.90 transcript=FGIG_02925 gene=FGIG_02925
+FGIG_02925           -           1230 84980at33208         -            521  1.8e-222  739.1  17.8   3   4    1e-142  4.4e-139  464.0   1.5   223   521   380   690   371   690 0.96 transcript=FGIG_02925 gene=FGIG_02925
+FGIG_02925           -           1230 84980at33208         -            521  1.8e-222  739.1  17.8   4   4    0.0033        14    3.7   0.0   358   420   699   761   694   784 0.73 transcript=FGIG_02925 gene=FGIG_02925
+FGIG_06753           -            974 84980at33208         -            521     1e-13   50.3   6.2   1   2   1.7e-16   7.1e-13   47.6   4.3   106   499   178   612   168   624 0.76 transcript=FGIG_06753 gene=FGIG_06753
+FGIG_06753           -            974 84980at33208         -            521     1e-13   50.3   6.2   2   2      0.08   3.4e+02   -0.9   0.0   442   501   755   813   715   825 0.69 transcript=FGIG_06753 gene=FGIG_06753
+FGIG_04054           -           1968 84980at33208         -            521    0.0025   16.1   0.2   1   1   8.9e-07    0.0038   15.5   0.2   241   310  1598  1667  1585  1673 0.90 transcript=FGIG_04054 gene=FGIG_04054
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/84980at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/84980at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/84980at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:19 2026
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_59580.1        -           1308 84980at33208         -            521    9e-227  754.3  22.1   1   4   1.6e-42   9.8e-39  133.8   3.0     1    99     3   110     3   115 0.93 transcript=TREG1_59580.1 gene=TREG1_59580
+TREG1_59580.1        -           1308 84980at33208         -            521    9e-227  754.3  22.1   2   4   5.8e-48   3.6e-44  151.8   0.7   102   232   145   288   139   318 0.87 transcript=TREG1_59580.1 gene=TREG1_59580
+TREG1_59580.1        -           1308 84980at33208         -            521    9e-227  754.3  22.1   3   4  1.6e-146    1e-142  477.0   1.9   221   521   378   690   357   690 0.95 transcript=TREG1_59580.1 gene=TREG1_59580
+TREG1_59580.1        -           1308 84980at33208         -            521    9e-227  754.3  22.1   4   4    0.0093        57    2.6   0.0   361   421   702   762   693   796 0.61 transcript=TREG1_59580.1 gene=TREG1_59580
+TREG1_51820.3        -            985 84980at33208         -            521   2.4e-09   36.9   3.1   1   3     0.056   3.4e+02    0.1   0.1   106   201   178   274   171   289 0.83 transcript=TREG1_51820.3 gene=TREG1_51820
+TREG1_51820.3        -            985 84980at33208         -            521   2.4e-09   36.9   3.1   2   3     1e-12   6.5e-09   35.5   0.1   266   499   366   617   291   629 0.78 transcript=TREG1_51820.3 gene=TREG1_51820
+TREG1_51820.3        -            985 84980at33208         -            521   2.4e-09   36.9   3.1   3   3     0.092   5.7e+02   -0.7   0.0   373   493   763   816   718   836 0.60 transcript=TREG1_51820.3 gene=TREG1_51820
+TREG1_51820.2        -            951 84980at33208         -            521   2.5e-09   36.8   3.3   1   3     0.057   3.5e+02    0.0   0.2   106   201   144   240   139   255 0.83 transcript=TREG1_51820.2 gene=TREG1_51820
+TREG1_51820.2        -            951 84980at33208         -            521   2.5e-09   36.8   3.3   2   3   9.8e-13     6e-09   35.5   0.1   266   499   332   583   257   595 0.78 transcript=TREG1_51820.2 gene=TREG1_51820
+TREG1_51820.2        -            951 84980at33208         -            521   2.5e-09   36.8   3.3   3   3     0.088   5.4e+02   -0.6   0.0   373   493   729   782   684   802 0.60 transcript=TREG1_51820.2 gene=TREG1_51820
+TREG1_51820.1        -            989 84980at33208         -            521   2.8e-09   36.6   3.3   1   3      0.06   3.7e+02   -0.0   0.2   106   201   182   278   177   293 0.83 transcript=TREG1_51820.1 gene=TREG1_51820
+TREG1_51820.1        -            989 84980at33208         -            521   2.8e-09   36.6   3.3   2   3   1.1e-12   6.5e-09   35.4   0.1   266   499   370   621   295   633 0.78 transcript=TREG1_51820.1 gene=TREG1_51820
+TREG1_51820.1        -            989 84980at33208         -            521   2.8e-09   36.6   3.3   3   3     0.092   5.7e+02   -0.7   0.0   373   493   767   820   722   840 0.60 transcript=TREG1_51820.1 gene=TREG1_51820
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/84980at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/84980at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/84980at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:46 2026
+# [ok]

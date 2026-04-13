@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMRG1_89300.1        -            450 340558at33208        -            331   2.9e-44  151.5   1.5   1   1   2.1e-47     8e-44  150.0   1.5    40   321   133   443   125   448 0.85 transcript=SMRG1_89300.1 gene=SMRG1_89300
+SMRG1_76070.1        -            427 340558at33208        -            331       4.6    6.2   7.0   1   1    0.0017       6.6    5.7   7.0     6    76   308   379   303   409 0.85 transcript=SMRG1_76070.1 gene=SMRG1_76070
+SMRG1_76070.2        -            427 340558at33208        -            331       4.6    6.2   7.0   1   1    0.0017       6.6    5.7   7.0     6    76   308   379   303   409 0.85 transcript=SMRG1_76070.2 gene=SMRG1_76070
+SMRG1_76070.3        -            470 340558at33208        -            331       5.3    6.0   7.0   1   1    0.0019       7.6    5.5   7.0     6    76   351   422   346   452 0.85 transcript=SMRG1_76070.3 gene=SMRG1_76070
+SMRG1_76070.4        -            495 340558at33208        -            331       6.1    5.8   7.1   1   1    0.0023         9    5.2   7.1     6    76   376   447   371   476 0.85 transcript=SMRG1_76070.4 gene=SMRG1_76070
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/340558at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_margrebowiei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_margrebowiei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/340558at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/340558at33208.hmm /users/40483456/protein/schistosoma_margrebowiei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:57 2026
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_57830.1        -            239 504912at33208        -            134   4.5e-17   62.3   4.9   1   2   3.6e-05      0.32   11.0   0.1     2    41    45   100    44   125 0.69 transcript=SINT1_57830.1 gene=SINT1_57830
+SINT1_57830.1        -            239 504912at33208        -            134   4.5e-17   62.3   4.9   2   2   5.1e-18   4.5e-14   52.6   1.1    70   133   168   233   159   234 0.93 transcript=SINT1_57830.1 gene=SINT1_57830
+SINT1_7620.1         -            208 504912at33208        -            134     0.061   13.3   0.3   1   1   1.1e-05       0.1   12.6   0.3    62   129   128   200   113   203 0.82 transcript=SINT1_7620.1 gene=SINT1_7620
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/504912at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/504912at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/504912at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:16 2026
+# [ok]

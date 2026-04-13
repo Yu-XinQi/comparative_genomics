@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SGUI1_91660.1        -            536 224280at33208        -            440    7e-212  704.0  12.0   1   2  2.8e-203    1e-199  663.9   2.7     1   396     1   441     1   446 0.93 transcript=SGUI1_91660.1 gene=SGUI1_91660
+SGUI1_91660.1        -            536 224280at33208        -            440    7e-212  704.0  12.0   2   2   1.4e-15   4.9e-12   45.4   1.9   398   440   477   519   470   519 0.94 transcript=SGUI1_91660.1 gene=SGUI1_91660
+SGUI1_46350.3        -            525 224280at33208        -            440   2.2e-19   69.6   0.6   1   1     7e-21   2.5e-17   62.8   0.6    93   279   301   524   289   525 0.74 transcript=SGUI1_46350.3 gene=SGUI1_46350
+SGUI1_46350.4        -            525 224280at33208        -            440   2.2e-19   69.6   0.6   1   1     7e-21   2.5e-17   62.8   0.6    93   279   301   524   289   525 0.74 transcript=SGUI1_46350.4 gene=SGUI1_46350
+SGUI1_46350.1        -            659 224280at33208        -            440   4.4e-19   68.6   0.6   1   1   1.2e-20   4.2e-17   62.1   0.6    93   279   435   658   423   659 0.74 transcript=SGUI1_46350.1 gene=SGUI1_46350
+SGUI1_46350.2        -            669 224280at33208        -            440   4.6e-19   68.5   0.6   1   1   1.2e-20   4.4e-17   62.0   0.6    93   279   445   668   433   669 0.74 transcript=SGUI1_46350.2 gene=SGUI1_46350
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/224280at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_guineensis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_guineensis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/224280at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/224280at33208.hmm /users/40483456/protein/schistosoma_guineensis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:48:25 2026
+# [ok]

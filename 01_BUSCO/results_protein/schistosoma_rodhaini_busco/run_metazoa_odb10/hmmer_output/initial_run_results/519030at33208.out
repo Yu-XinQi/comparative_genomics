@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRDH2_71400.2        -            235 519030at33208        -            169   1.4e-35  122.7   0.0   1   1   4.7e-39   2.7e-35  121.8   0.0    30   158   102   230    73   234 0.90 transcript=SRDH2_71400.2 gene=SRDH2_71400
+SRDH2_71400.1        -            225 519030at33208        -            169   1.5e-35  122.6   0.0   1   1   4.1e-39   2.4e-35  121.9   0.0    30   158    92   220    63   224 0.90 transcript=SRDH2_71400.1 gene=SRDH2_71400
+SRDH2_71400.4        -            222 519030at33208        -            169   1.9e-22   80.0   0.0   1   1   6.3e-26   3.7e-22   79.0   0.0    30   128   102   200    73   205 0.88 transcript=SRDH2_71400.4 gene=SRDH2_71400
+SRDH2_71400.3        -            212 519030at33208        -            169   2.1e-22   79.9   0.0   1   1   5.6e-26   3.3e-22   79.2   0.0    30   128    92   190    63   195 0.88 transcript=SRDH2_71400.3 gene=SRDH2_71400
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/519030at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_rodhaini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_rodhaini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/519030at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/519030at33208.hmm /users/40483456/protein/schistosoma_rodhaini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:58:06 2026
+# [ok]

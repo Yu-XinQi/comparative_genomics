@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_44390.1        -             96 617667at33208        -             82   1.4e-33  114.7   0.3   1   1   9.7e-37   1.6e-33  114.5   0.3     1    82     3    92     3    92 0.94 transcript=SINT1_44390.1 gene=SINT1_44390
+SINT1_13540.1        -            138 617667at33208        -             82   9.2e-09   35.2   0.8   1   1   8.4e-12   1.4e-08   34.6   0.8     5    69    16    84    12    98 0.84 transcript=SINT1_13540.1 gene=SINT1_13540
+SINT1_13540.2        -            138 617667at33208        -             82   9.2e-09   35.2   0.8   1   1   8.4e-12   1.4e-08   34.6   0.8     5    69    16    84    12    98 0.84 transcript=SINT1_13540.2 gene=SINT1_13540
+SINT1_13540.3        -            117 617667at33208        -             82   6.6e-08   32.4   0.8   1   1   5.9e-11   9.6e-08   31.9   0.8    12    69     2    63     1    78 0.83 transcript=SINT1_13540.3 gene=SINT1_13540
+SINT1_13540.4        -            117 617667at33208        -             82   6.6e-08   32.4   0.8   1   1   5.9e-11   9.6e-08   31.9   0.8    12    69     2    63     1    78 0.83 transcript=SINT1_13540.4 gene=SINT1_13540
+SINT1_71410.1        -             76 617667at33208        -             82   7.9e-07   29.0   0.4   1   1   6.2e-10     1e-06   28.7   0.4    18    67    26    74     8    75 0.80 transcript=SINT1_71410.1 gene=SINT1_71410
+SINT1_89820.1        -            199 617667at33208        -             82   0.00034   20.5   0.2   1   1   1.1e-06    0.0018   18.2   0.2     3    39     9    47     7    85 0.68 transcript=SINT1_89820.1 gene=SINT1_89820
+SINT1_87050.1        -             89 617667at33208        -             82    0.0028   17.6   0.0   1   1   2.4e-06    0.0039   17.2   0.0    20    63    42    85    35    88 0.89 transcript=SINT1_87050.1 gene=SINT1_87050
+SINT1_51050.1        -            105 617667at33208        -             82    0.0057   16.6   0.1   1   2   0.00094       1.5    8.8   0.0    20    41    44    65    27    69 0.85 transcript=SINT1_51050.1 gene=SINT1_51050
+SINT1_51050.1        -            105 617667at33208        -             82    0.0057   16.6   0.1   2   2    0.0066        11    6.1   0.0    34    63    71    99    64   103 0.81 transcript=SINT1_51050.1 gene=SINT1_51050
+SINT1_30090.1        -            105 617667at33208        -             82     0.023   14.7   0.0   1   2   3.4e-05     0.055   13.5   0.0     3    39    19    57    17    61 0.88 transcript=SINT1_30090.1 gene=SINT1_30090
+SINT1_30090.1        -            105 617667at33208        -             82     0.023   14.7   0.0   2   2       2.1   3.5e+03   -1.9   0.0    50    64    75    89    68    95 0.75 transcript=SINT1_30090.1 gene=SINT1_30090
+SINT1_60920.1        -             78 617667at33208        -             82     0.074   13.0   0.1   1   1   5.5e-05     0.088   12.8   0.1    17    63    27    72    10    75 0.79 transcript=SINT1_60920.1 gene=SINT1_60920
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/617667at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/617667at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/617667at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:52:24 2026
+# [ok]

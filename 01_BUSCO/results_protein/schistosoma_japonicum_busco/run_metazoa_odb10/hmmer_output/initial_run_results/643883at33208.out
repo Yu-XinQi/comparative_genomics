@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EWB00_002540.1       -            119 643883at33208        -             64   1.3e-17   64.0   1.3   1   2     0.075   6.4e+02    0.9   0.2    26    41    17    31     9    39 0.54 transcript=EWB00_002540.1 gene=EWB00_002540
+EWB00_002540.1       -            119 643883at33208        -             64   1.3e-17   64.0   1.3   2   2   1.5e-21   1.3e-17   64.0   1.3    10    64    64   119    58   119 0.94 transcript=EWB00_002540.1 gene=EWB00_002540
+EWB00_002540.2       -            119 643883at33208        -             64   1.3e-17   64.0   1.3   1   2     0.075   6.4e+02    0.9   0.2    26    41    17    31     9    39 0.54 transcript=EWB00_002540.2 gene=EWB00_002540
+EWB00_002540.2       -            119 643883at33208        -             64   1.3e-17   64.0   1.3   2   2   1.5e-21   1.3e-17   64.0   1.3    10    64    64   119    58   119 0.94 transcript=EWB00_002540.2 gene=EWB00_002540
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/643883at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_japonicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_japonicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/643883at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/643883at33208.hmm /users/40483456/protein/schistosoma_japonicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:53:33 2026
+# [ok]

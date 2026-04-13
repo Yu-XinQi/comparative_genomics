@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_25380.2        -            178 570646at33208        -            147   4.6e-58  195.7   2.9   1   1     5e-61   1.2e-57  194.3   2.9     2   147    18   178    17   178 0.91 transcript=TREG1_25380.2 gene=TREG1_25380
+TREG1_25380.3        -            178 570646at33208        -            147   4.6e-58  195.7   2.9   1   1     5e-61   1.2e-57  194.3   2.9     2   147    18   178    17   178 0.91 transcript=TREG1_25380.3 gene=TREG1_25380
+TREG1_25380.4        -            148 570646at33208        -            147   2.4e-51  173.9   2.8   1   1   2.8e-54   6.9e-51  172.4   2.8    14   147     1   148     1   148 0.91 transcript=TREG1_25380.4 gene=TREG1_25380
+TREG1_25380.1        -            135 570646at33208        -            147   6.7e-26   91.3   5.7   1   1   8.8e-29   2.2e-25   89.7   5.7     2    87    18   117    17   130 0.86 transcript=TREG1_25380.1 gene=TREG1_25380
+TREG1_50060.1        -            117 570646at33208        -            147   1.5e-05   25.3   0.0   1   1   7.9e-09   1.9e-05   24.9   0.0    64   133    25    97    15   100 0.87 transcript=TREG1_50060.1 gene=TREG1_50060
+TREG1_68940.3        -            743 570646at33208        -            147   0.00077   19.8   0.7   1   1   1.1e-06    0.0028   17.9   0.7    27    66   472   512   462   517 0.86 transcript=TREG1_68940.3 gene=TREG1_68940
+TREG1_68940.1        -            769 570646at33208        -            147    0.0029   17.9   0.7   1   2   1.2e-06    0.0029   17.9   0.7    27    66   472   512   462   517 0.86 transcript=TREG1_68940.1 gene=TREG1_68940
+TREG1_68940.1        -            769 570646at33208        -            147    0.0029   17.9   0.7   2   2       5.1   1.2e+04   -3.6   2.8    42    73   726   764   714   768 0.41 transcript=TREG1_68940.1 gene=TREG1_68940
+TREG1_68940.2        -            860 570646at33208        -            147    0.0037   17.6   0.8   1   2   1.5e-06    0.0037   17.6   0.8    27    66   472   512   462   516 0.86 transcript=TREG1_68940.2 gene=TREG1_68940
+TREG1_68940.2        -            860 570646at33208        -            147    0.0037   17.6   0.8   2   2       5.3   1.3e+04   -3.7   0.8    42    57   726   741   716   758 0.44 transcript=TREG1_68940.2 gene=TREG1_68940
+TREG1_68940.4        -            860 570646at33208        -            147    0.0037   17.6   0.8   1   2   1.5e-06    0.0037   17.6   0.8    27    66   472   512   462   516 0.86 transcript=TREG1_68940.4 gene=TREG1_68940
+TREG1_68940.4        -            860 570646at33208        -            147    0.0037   17.6   0.8   2   2       5.3   1.3e+04   -3.7   0.8    42    57   726   741   716   758 0.44 transcript=TREG1_68940.4 gene=TREG1_68940
+TREG1_26900.1        -            531 570646at33208        -            147     0.081   13.2   0.0   1   1   7.5e-05      0.18   12.0   0.0    57   117   435   498   432   523 0.81 transcript=TREG1_26900.1 gene=TREG1_26900
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570646at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/570646at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/570646at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:31 2026
+# [ok]

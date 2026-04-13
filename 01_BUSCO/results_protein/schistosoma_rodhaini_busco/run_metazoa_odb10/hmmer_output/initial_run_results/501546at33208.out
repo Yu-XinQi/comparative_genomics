@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRDH2_35550.1        -            211 501546at33208        -            146   1.6e-15   57.9   0.1   1   2   1.1e-18   1.3e-14   55.0   0.0    12   123    41   165    33   175 0.78 transcript=SRDH2_35550.1 gene=SRDH2_35550
+SRDH2_35550.1        -            211 501546at33208        -            146   1.6e-15   57.9   0.1   2   2     0.067   7.7e+02    0.6   0.0   127   146   191   210   169   210 0.81 transcript=SRDH2_35550.1 gene=SRDH2_35550
+SRDH2_23410.2        -            169 501546at33208        -            146     0.018   15.6   0.1   1   1   2.6e-06      0.03   14.9   0.1    46   134    21   115     3   121 0.71 transcript=SRDH2_23410.2 gene=SRDH2_23410
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/501546at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_rodhaini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_rodhaini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/501546at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/501546at33208.hmm /users/40483456/protein/schistosoma_rodhaini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:58:02 2026
+# [ok]

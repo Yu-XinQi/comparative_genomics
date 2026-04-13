@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SGUI1_86820.1        -           1005 184508at33208        -            497  6.8e-139  463.7  26.0   1   4    0.0013       5.8    5.5  10.7     1    26     2    28     2    41 0.81 transcript=SGUI1_86820.1 gene=SGUI1_86820
+SGUI1_86820.1        -           1005 184508at33208        -            497  6.8e-139  463.7  26.0   2   4   2.4e-44   1.1e-40  139.8   4.4     9   177    74   240    67   248 0.88 transcript=SGUI1_86820.1 gene=SGUI1_86820
+SGUI1_86820.1        -           1005 184508at33208        -            497  6.8e-139  463.7  26.0   3   4   9.1e-41   4.1e-37  128.0   0.0   175   297   411   540   404   551 0.89 transcript=SGUI1_86820.1 gene=SGUI1_86820
+SGUI1_86820.1        -           1005 184508at33208        -            497  6.8e-139  463.7  26.0   4   4   3.6e-59   1.6e-55  188.7   0.3   292   488   583   826   568   832 0.79 transcript=SGUI1_86820.1 gene=SGUI1_86820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   1   6   3.3e-31   1.5e-27   96.5   0.2    46   168    36   158     8   182 0.89 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   2   6   2.1e-05     0.095   11.4   0.0   176   224   494   542   462   547 0.86 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   3   6      0.41   1.8e+03   -2.8   0.0   221   259   561   603   559   615 0.70 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   4   6       2.3     1e+04   -5.2   2.2   140   190   774   809   737   819 0.53 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   5   6   4.7e-05      0.21   10.2   0.0   290   323   839   874   835   882 0.75 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_88820.1        -           1227 184508at33208        -            497     4e-76  256.7  16.9   6   6   1.4e-46   6.2e-43  147.2   0.2   329   486   921  1099   899  1106 0.77 transcript=SGUI1_88820.1 gene=SGUI1_88820
+SGUI1_51100.2        -            168 184508at33208        -            497   0.00018   20.4   0.1   1   1   5.3e-08   0.00024   19.9   0.1   189   270    10    91     3    98 0.94 transcript=SGUI1_51100.2 gene=SGUI1_51100
+SGUI1_51100.1        -            220 184508at33208        -            497   0.00026   19.8   0.1   1   1     1e-07   0.00045   19.0   0.1   189   270    10    91     3    98 0.94 transcript=SGUI1_51100.1 gene=SGUI1_51100
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/184508at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_guineensis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_guineensis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/184508at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/184508at33208.hmm /users/40483456/protein/schistosoma_guineensis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:48:49 2026
+# [ok]

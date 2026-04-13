@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g5658.t1     -            348 289928at33208        -            340   1.3e-48  166.1  24.9   1   2   3.2e-29   9.6e-26   90.9  13.2     2   151     6   180     5   186 0.78 transcript=FhHiC23_g5658.t1 gene=FhHiC23_g5658
+FhHiC23_g5658.t1     -            348 289928at33208        -            340   1.3e-48  166.1  24.9   2   2   4.4e-25   1.3e-21   77.3   3.8   183   256   239   321   202   332 0.82 transcript=FhHiC23_g5658.t1 gene=FhHiC23_g5658
+FhHiC23_g5658.t2     -            170 289928at33208        -            340   2.7e-30  105.9   9.0   1   1   1.1e-33   3.4e-30  105.6   9.0   210   336     1   146     1   151 0.83 transcript=FhHiC23_g5658.t2 gene=FhHiC23_g5658
+FhHiC23_g5658.t4     -            229 289928at33208        -            340   1.4e-27   97.0  13.5   1   1   1.2e-29   3.5e-26   92.4  13.5     2   151     6   180     5   186 0.78 transcript=FhHiC23_g5658.t4 gene=FhHiC23_g5658
+FhHiC23_g5658.t3     -            270 289928at33208        -            340   1.9e-27   96.5  13.4   1   1   1.8e-29   5.5e-26   91.7  13.4     2   151     6   180     5   186 0.78 transcript=FhHiC23_g5658.t3 gene=FhHiC23_g5658
+FhHiC23_g139.t1      -            236 289928at33208        -            340   4.2e-06   26.4   2.6   1   1   1.7e-09   5.1e-06   26.1   2.6    48   137    67   161    29   180 0.77 transcript=FhHiC23_g139.t1 gene=FhHiC23_g139
+FhHiC23_g140.t2      -            283 289928at33208        -            340   4.2e-06   26.4   3.1   1   1   1.9e-09   5.8e-06   25.9   3.1    48   142    67   165    29   190 0.75 transcript=FhHiC23_g140.t2 gene=FhHiC23_g140
+FhHiC23_g5453.t2     -            640 289928at33208        -            340   4.7e-05   22.9   8.2   1   1   2.6e-08     8e-05   22.2   8.2    49   143   127   227   106   262 0.72 transcript=FhHiC23_g5453.t2 gene=FhHiC23_g5453
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289928at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/289928at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289928at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:34 2026
+# [ok]

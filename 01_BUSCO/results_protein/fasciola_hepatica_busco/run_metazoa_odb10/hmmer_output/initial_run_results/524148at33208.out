@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FhHiC23_g11523.t1    -            610 524148at33208        -            331   1.1e-76  258.0   7.6   1   2   8.4e-74   5.9e-70  236.0   1.1    21   279   139   433   130   438 0.89 transcript=FhHiC23_g11523.t1 gene=FhHiC23_g11523
+FhHiC23_g11523.t1    -            610 524148at33208        -            331   1.1e-76  258.0   7.6   2   2   2.6e-08   0.00018   20.7   0.7   283   319   463   510   453   516 0.82 transcript=FhHiC23_g11523.t1 gene=FhHiC23_g11523
+FhHiC23_g11523.t2    -            637 524148at33208        -            331   1.6e-76  257.6   7.7   1   2   9.6e-74   6.8e-70  235.8   1.1    21   279   166   460   157   466 0.89 transcript=FhHiC23_g11523.t2 gene=FhHiC23_g11523
+FhHiC23_g11523.t2    -            637 524148at33208        -            331   1.6e-76  257.6   7.7   2   2   2.7e-08   0.00019   20.6   0.7   283   319   490   537   480   543 0.82 transcript=FhHiC23_g11523.t2 gene=FhHiC23_g11523
+FhHiC23_g11523.t3    -            251 524148at33208        -            331   3.8e-08   32.8   0.6   1   2   0.00025       1.8    7.6   0.0   243   279    34    74     1    80 0.75 transcript=FhHiC23_g11523.t3 gene=FhHiC23_g11523
+FhHiC23_g11523.t3    -            251 524148at33208        -            331   3.8e-08   32.8   0.6   2   2     7e-09   4.9e-05   22.6   0.8   282   319   103   151    92   157 0.82 transcript=FhHiC23_g11523.t3 gene=FhHiC23_g11523
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/524148at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_hepatica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_hepatica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/524148at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/524148at33208.hmm /users/40483456/protein/fasciola_hepatica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:42:19 2026
+# [ok]

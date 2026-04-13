@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Smp_050820.1         -            357 371297at33208        -            329    1e-152  507.0   0.3   1   1  8.6e-156  1.2e-152  506.8   0.3     1   329     1   348     1   348 0.95 transcript=Smp_050820.1 gene=Smp_050820
+Smp_066260.1         -            323 371297at33208        -            329   9.1e-37  125.9   0.1   1   3   2.4e-13   3.3e-10   38.6   0.0     4    66     5    69     2    81 0.87 transcript=Smp_066260.1 gene=Smp_066260
+Smp_066260.1         -            323 371297at33208        -            329   9.1e-37  125.9   0.1   2   3     4e-27   5.5e-24   83.9   0.0    84   221    68   205    64   214 0.88 transcript=Smp_066260.1 gene=Smp_066260
+Smp_066260.1         -            323 371297at33208        -            329   9.1e-37  125.9   0.1   3   3     0.074     1e+02    0.9   0.0   297   320   288   311   245   316 0.81 transcript=Smp_066260.1 gene=Smp_066260
+Smp_096360.1         -            362 371297at33208        -            329   6.4e-31  106.7   0.2   1   1   2.9e-33   3.9e-30  104.1   0.2     4   221    27   238    25   251 0.88 transcript=Smp_096360.1 gene=Smp_096360
+Smp_140530.1         -            318 371297at33208        -            329   7.2e-29   99.9   0.1   1   2   3.5e-11   4.8e-08   31.5   0.0     3    77     4    82     2    86 0.76 transcript=Smp_140530.1 gene=Smp_140530
+Smp_140530.1         -            318 371297at33208        -            329   7.2e-29   99.9   0.1   2   2   3.2e-22   4.4e-19   67.8   0.5    99   218    81   203    61   208 0.83 transcript=Smp_140530.1 gene=Smp_140530
+Smp_213680.1         -           1015 371297at33208        -            329   2.8e-05   22.4   0.1   1   1     5e-08   6.8e-05   21.1   0.1   110   215   538   647   528   655 0.73 transcript=Smp_213680.1 gene=Smp_213680
+Smp_145740.1         -            524 371297at33208        -            329     0.022   12.9   0.3   1   1   3.2e-05     0.043   11.9   0.3   111   218   222   345   136   354 0.73 transcript=Smp_145740.1 gene=Smp_145740
+Smp_042810.1         -            901 371297at33208        -            329      0.03   12.5   0.8   1   2       1.9   2.6e+03   -3.8   0.0    36    50   249   263   245   278 0.75 transcript=Smp_042810.1 gene=Smp_042810
+Smp_042810.1         -            901 371297at33208        -            329      0.03   12.5   0.8   2   2     4e-05     0.055   11.6   0.2   151   216   371   441   345   454 0.80 transcript=Smp_042810.1 gene=Smp_042810
+Smp_064050.1         -            456 371297at33208        -            329      0.03   12.5   0.3   1   2      0.19   2.6e+02   -0.5   0.0    36    59    66    89    43    92 0.80 transcript=Smp_064050.1 gene=Smp_064050
+Smp_064050.1         -            456 371297at33208        -            329      0.03   12.5   0.3   2   2   0.00013      0.17   10.0   0.1   166   226   356   419   304   451 0.89 transcript=Smp_064050.1 gene=Smp_064050
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/371297at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mansoni.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mansoni_busco/run_metazoa_odb10/hmmer_output/initial_run_results/371297at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/371297at33208.hmm /users/40483456/protein/schistosoma_mansoni.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:11 2026
+# [ok]

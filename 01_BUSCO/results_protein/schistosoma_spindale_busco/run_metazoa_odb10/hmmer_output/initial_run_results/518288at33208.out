@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_58100.1        -            350 518288at33208        -            273   1.6e-88  296.3   0.5   1   2   1.9e-83   2.6e-80  269.4   0.4     1   243     9   273     9   299 0.87 transcript=SSPN1_58100.1 gene=SSPN1_58100
+SSPN1_58100.1        -            350 518288at33208        -            273   1.6e-88  296.3   0.5   2   2   4.6e-09   6.5e-06   25.4   0.0   235   273   305   343   293   343 0.87 transcript=SSPN1_58100.1 gene=SSPN1_58100
+SSPN1_50850.4        -            997 518288at33208        -            273     0.012   14.6   0.2   1   1     2e-05     0.028   13.4   0.2    30    97   243   313   222   338 0.80 transcript=SSPN1_50850.4 gene=SSPN1_50850
+SSPN1_50850.6        -            997 518288at33208        -            273     0.012   14.6   0.2   1   1     2e-05     0.028   13.4   0.2    30    97   243   313   222   338 0.80 transcript=SSPN1_50850.6 gene=SSPN1_50850
+SSPN1_50850.5        -           1004 518288at33208        -            273     0.013   14.5   0.3   1   1   2.1e-05      0.03   13.4   0.3    30    97   243   313   222   339 0.80 transcript=SSPN1_50850.5 gene=SSPN1_50850
+SSPN1_50850.8        -           1004 518288at33208        -            273     0.013   14.5   0.3   1   1   2.1e-05      0.03   13.4   0.3    30    97   243   313   222   339 0.80 transcript=SSPN1_50850.8 gene=SSPN1_50850
+SSPN1_50850.10       -            884 518288at33208        -            273     0.013   14.5   0.2   1   1   1.7e-05     0.024   13.7   0.2    29    97   129   200   108   225 0.80 transcript=SSPN1_50850.10 gene=SSPN1_50850
+SSPN1_50850.9        -            891 518288at33208        -            273     0.014   14.4   0.3   1   1   1.8e-05     0.025   13.6   0.3    29    97   129   200   108   226 0.80 transcript=SSPN1_50850.9 gene=SSPN1_50850
+SSPN1_50850.2        -           1091 518288at33208        -            273     0.014   14.4   0.2   1   1   2.2e-05     0.032   13.3   0.2    30    97   337   407   316   432 0.80 transcript=SSPN1_50850.2 gene=SSPN1_50850
+SSPN1_50850.7        -           1091 518288at33208        -            273     0.014   14.4   0.2   1   1   2.2e-05     0.032   13.3   0.2    30    97   337   407   316   432 0.80 transcript=SSPN1_50850.7 gene=SSPN1_50850
+SSPN1_50850.1        -           1098 518288at33208        -            273     0.015   14.4   0.3   1   1   2.3e-05     0.033   13.2   0.3    30    97   337   407   316   432 0.81 transcript=SSPN1_50850.1 gene=SSPN1_50850
+SSPN1_50850.3        -           1098 518288at33208        -            273     0.015   14.4   0.3   1   1   2.3e-05     0.033   13.2   0.3    30    97   337   407   316   432 0.81 transcript=SSPN1_50850.3 gene=SSPN1_50850
+SSPN1_20990.1        -            197 518288at33208        -            273      0.12   11.4   0.1   1   1   0.00011      0.16   11.0   0.1    95   159    23    91    11    99 0.71 transcript=SSPN1_20990.1 gene=SSPN1_20990
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/518288at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/518288at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/518288at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:29 2026
+# [ok]

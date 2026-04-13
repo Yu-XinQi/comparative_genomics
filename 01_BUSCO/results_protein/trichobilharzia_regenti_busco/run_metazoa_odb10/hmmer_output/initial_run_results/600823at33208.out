@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TREG1_58390.1        -            278 600823at33208        -            160   2.6e-44  151.1  11.4   1   2       0.3   2.5e+03   -1.6   0.0     8    61    53    73    44   101 0.59 transcript=TREG1_58390.1 gene=TREG1_58390
+TREG1_58390.1        -            278 600823at33208        -            160   2.6e-44  151.1  11.4   2   2   5.4e-48   4.5e-44  150.3  10.1    23   144   134   266   114   278 0.85 transcript=TREG1_58390.1 gene=TREG1_58390
+TREG1_74330.2        -            358 600823at33208        -            160      0.07   13.2   1.6   1   1   1.7e-05      0.14   12.2   1.6    49   128   270   350   260   355 0.88 transcript=TREG1_74330.2 gene=TREG1_74330
+TREG1_74330.1        -            425 600823at33208        -            160     0.092   12.8   1.6   1   1   2.2e-05      0.18   11.8   1.6    49   127   337   416   327   422 0.88 transcript=TREG1_74330.1 gene=TREG1_74330
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/600823at33208.hmm
+# Target file:     /users/40483456/protein/trichobilharzia_regenti.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/trichobilharzia_regenti_busco/run_metazoa_odb10/hmmer_output/initial_run_results/600823at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/600823at33208.hmm /users/40483456/protein/trichobilharzia_regenti.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:03:39 2026
+# [ok]

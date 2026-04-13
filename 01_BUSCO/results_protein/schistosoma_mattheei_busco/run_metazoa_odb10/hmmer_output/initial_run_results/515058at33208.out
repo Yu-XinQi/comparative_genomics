@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_79040.1        -           1146 515058at33208        -            356  6.2e-119  397.0   0.0   1   3   2.3e-62   3.9e-58  197.0   0.1     2   130    59   198    58   204 0.93 transcript=SMTH1_79040.1 gene=SMTH1_79040
+SMTH1_79040.1        -           1146 515058at33208        -            356  6.2e-119  397.0   0.0   2   3   1.3e-31   2.2e-27   95.8   0.0   129   224   311   413   268   424 0.81 transcript=SMTH1_79040.1 gene=SMTH1_79040
+SMTH1_79040.1        -           1146 515058at33208        -            356  6.2e-119  397.0   0.0   3   3   6.9e-33   1.2e-28  100.0   0.0   243   354   690   808   645   810 0.85 transcript=SMTH1_79040.1 gene=SMTH1_79040
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/515058at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/515058at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/515058at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:41 2026
+# [ok]

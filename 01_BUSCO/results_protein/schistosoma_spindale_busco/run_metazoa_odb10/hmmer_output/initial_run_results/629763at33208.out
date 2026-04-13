@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_69480.1        -             76 629763at33208        -             63   1.5e-25   88.7   1.9   1   1   2.4e-27   4.6e-24   84.0   1.9     1    63     1    76     1    76 0.89 transcript=SSPN1_69480.1 gene=SSPN1_69480
+SSPN1_28950.1        -            138 629763at33208        -             63   1.8e-07   30.8   1.2   1   3       1.7   3.1e+03   -2.0   0.2    37    47     6    16     4    22 0.71 transcript=SSPN1_28950.1 gene=SSPN1_28950
+SSPN1_28950.1        -            138 629763at33208        -             63   1.8e-07   30.8   1.2   2   3   2.3e-10   4.3e-07   29.6   0.1     7    43    50    88    44    93 0.85 transcript=SSPN1_28950.1 gene=SSPN1_28950
+SSPN1_28950.1        -            138 629763at33208        -             63   1.8e-07   30.8   1.2   3   3       1.6   3.1e+03   -2.0   0.0    45    55   109   119   106   123 0.79 transcript=SSPN1_28950.1 gene=SSPN1_28950
+SSPN1_42890.1        -             67 629763at33208        -             63   1.4e-05   24.7   0.1   1   2   1.1e-08     2e-05   24.3   0.0    20    47    18    45     1    55 0.78 transcript=SSPN1_42890.1 gene=SSPN1_42890
+SSPN1_42890.1        -             67 629763at33208        -             63   1.4e-05   24.7   0.1   2   2         3   5.6e+03   -2.8   0.0    45    53    58    66    56    67 0.69 transcript=SSPN1_42890.1 gene=SSPN1_42890
+SSPN1_63030.1        -             83 629763at33208        -             63   0.00022   20.9   0.1   1   1   2.1e-07    0.0004   20.1   0.1    16    47    28    59     9    77 0.88 transcript=SSPN1_63030.1 gene=SSPN1_63030
+SSPN1_49540.2        -            105 629763at33208        -             63   0.00054   19.7   0.0   1   2   9.1e-06     0.017   14.9   0.0    17    42    35    60    24    73 0.80 transcript=SSPN1_49540.2 gene=SSPN1_49540
+SSPN1_49540.2        -            105 629763at33208        -             63   0.00054   19.7   0.0   2   2     0.052        99    2.8   0.0    43    57    85    99    82   104 0.87 transcript=SSPN1_49540.2 gene=SSPN1_49540
+SSPN1_49540.7        -            105 629763at33208        -             63   0.00054   19.7   0.0   1   2   9.1e-06     0.017   14.9   0.0    17    42    35    60    24    73 0.80 transcript=SSPN1_49540.7 gene=SSPN1_49540
+SSPN1_49540.7        -            105 629763at33208        -             63   0.00054   19.7   0.0   2   2     0.052        99    2.8   0.0    43    57    85    99    82   104 0.87 transcript=SSPN1_49540.7 gene=SSPN1_49540
+SSPN1_87930.1        -            199 629763at33208        -             63    0.0035   17.1   0.1   1   2     2e-05     0.038   13.8   0.0    18    43    20    45     3    56 0.81 transcript=SSPN1_87930.1 gene=SSPN1_87930
+SSPN1_87930.1        -            199 629763at33208        -             63    0.0035   17.1   0.1   2   2      0.21   3.9e+02    0.9   0.0    43    58    67    82    65    84 0.87 transcript=SSPN1_87930.1 gene=SSPN1_87930
+SSPN1_17950.1        -            138 629763at33208        -             63     0.048   13.4   2.2   1   1   6.9e-05      0.13   12.0   2.2    19    48    26    55    12    82 0.87 transcript=SSPN1_17950.1 gene=SSPN1_17950
+SSPN1_17950.2        -            138 629763at33208        -             63     0.048   13.4   2.2   1   1   6.9e-05      0.13   12.0   2.2    19    48    26    55    12    82 0.87 transcript=SSPN1_17950.2 gene=SSPN1_17950
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/629763at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/629763at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/629763at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:44 2026
+# [ok]

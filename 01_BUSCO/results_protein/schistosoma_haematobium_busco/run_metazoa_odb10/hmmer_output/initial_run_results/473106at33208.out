@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SHAE2_54190.1        -            426 473106at33208        -            298  5.3e-106  354.3  15.2   1   2   2.6e-91   6.4e-88  295.0   5.9     6   194     9   211     3   222 0.90 transcript=SHAE2_54190.1 gene=SHAE2_54190
+SHAE2_54190.1        -            426 473106at33208        -            298  5.3e-106  354.3  15.2   2   2   3.5e-21   8.7e-18   64.7   1.8   190   278   291   382   246   397 0.71 transcript=SHAE2_54190.1 gene=SHAE2_54190
+SHAE2_54190.2        -            437 473106at33208        -            298  5.9e-106  354.2  15.2   1   2   2.8e-91   6.8e-88  294.9   5.9     6   194     9   211     3   222 0.90 transcript=SHAE2_54190.2 gene=SHAE2_54190
+SHAE2_54190.2        -            437 473106at33208        -            298  5.9e-106  354.2  15.2   2   2   3.7e-21   9.1e-18   64.7   1.8   190   278   291   382   246   397 0.71 transcript=SHAE2_54190.2 gene=SHAE2_54190
+SHAE2_77370.2        -            455 473106at33208        -            298     1e-05   25.1   0.3   1   2     0.039        96    2.2   0.5   179   229    61   111    21   143 0.76 transcript=SHAE2_77370.2 gene=SHAE2_77370
+SHAE2_77370.2        -            455 473106at33208        -            298     1e-05   25.1   0.3   2   2   1.1e-07   0.00028   20.4   0.0   204   275   340   414   306   427 0.88 transcript=SHAE2_77370.2 gene=SHAE2_77370
+SHAE2_77370.4        -            373 473106at33208        -            298   0.00011   21.7   0.0   1   1     8e-08    0.0002   20.9   0.0   204   275   258   332   223   345 0.88 transcript=SHAE2_77370.4 gene=SHAE2_77370
+SHAE2_77370.1        -            385 473106at33208        -            298   0.00013   21.5   0.0   1   1   8.4e-08   0.00021   20.8   0.0   204   275   270   344   235   357 0.88 transcript=SHAE2_77370.1 gene=SHAE2_77370
+SHAE2_77370.3        -            396 473106at33208        -            298   0.00014   21.4   0.0   1   1   8.9e-08   0.00022   20.7   0.0   204   275   281   355   246   368 0.88 transcript=SHAE2_77370.3 gene=SHAE2_77370
+SHAE2_85280.2        -            205 473106at33208        -            298     0.021   14.2   0.1   1   1   1.3e-05     0.033   13.6   0.1    10    45    15    49     8    63 0.85 transcript=SHAE2_85280.2 gene=SHAE2_85280
+SHAE2_85280.1        -            242 473106at33208        -            298     0.028   13.8   0.1   1   1   1.8e-05     0.044   13.2   0.1    10    45    77   111    70   124 0.85 transcript=SHAE2_85280.1 gene=SHAE2_85280
+SHAE2_99370.1        -            999 473106at33208        -            298         1    8.7   3.6   1   3    0.0084        21    4.4   0.0    25    54   227   256   223   278 0.86 transcript=SHAE2_99370.1 gene=SHAE2_99370
+SHAE2_99370.1        -            999 473106at33208        -            298         1    8.7   3.6   2   3     0.015        38    3.5   0.2    27    57   287   317   279   322 0.91 transcript=SHAE2_99370.1 gene=SHAE2_99370
+SHAE2_99370.1        -            999 473106at33208        -            298         1    8.7   3.6   3   3      0.37     9e+02   -1.0   0.1   251   267   381   397   364   426 0.68 transcript=SHAE2_99370.1 gene=SHAE2_99370
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/473106at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_haematobium.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_haematobium_busco/run_metazoa_odb10/hmmer_output/initial_run_results/473106at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/473106at33208.hmm /users/40483456/protein/schistosoma_haematobium.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:50:40 2026
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_01237           -           1029 184508at33208        -            497  4.7e-143  477.0  28.4   1   4    0.0009       2.3    6.3  10.8     1    27     2    29     2    41 0.80 transcript=FGIG_01237 gene=FGIG_01237
+FGIG_01237           -           1029 184508at33208        -            497  4.7e-143  477.0  28.4   2   4   2.4e-47   6.2e-44  150.0   6.8    20   180    89   247    71   260 0.84 transcript=FGIG_01237 gene=FGIG_01237
+FGIG_01237           -           1029 184508at33208        -            497  4.7e-143  477.0  28.4   3   4   9.7e-40   2.5e-36  125.0   0.0   165   298   436   576   425   597 0.85 transcript=FGIG_01237 gene=FGIG_01237
+FGIG_01237           -           1029 184508at33208        -            497  4.7e-143  477.0  28.4   4   4   1.6e-61   4.2e-58  196.8   0.1   294   488   611   850   607   855 0.80 transcript=FGIG_01237 gene=FGIG_01237
+FGIG_09135           -            846 184508at33208        -            497     1e-55  188.9   1.0   1   3   4.9e-31   1.2e-27   96.2   0.1    47   185    26   164    14   172 0.90 transcript=FGIG_09135 gene=FGIG_09135
+FGIG_09135           -            846 184508at33208        -            497     1e-55  188.9   1.0   2   3   0.00025      0.64    8.1   0.0   174   224   406   456   378   467 0.87 transcript=FGIG_09135 gene=FGIG_09135
+FGIG_09135           -            846 184508at33208        -            497     1e-55  188.9   1.0   3   3   1.7e-24   4.2e-21   74.7   0.1   291   428   657   835   645   843 0.67 transcript=FGIG_09135 gene=FGIG_09135
+FGIG_05683           -            127 184508at33208        -            497    0.0072   14.6   0.1   1   1   3.4e-06    0.0086   14.3   0.1   189   270    10    91     2    98 0.93 transcript=FGIG_05683 gene=FGIG_05683
+FGIG_08851           -            671 184508at33208        -            497      0.25    9.5   0.3   1   2   0.00018      0.44    8.6   0.2   425   452   415   442   412   452 0.87 transcript=FGIG_08851 gene=FGIG_08851
+FGIG_08851           -            671 184508at33208        -            497      0.25    9.5   0.3   2   2       1.2   3.1e+03   -4.0   0.0   432   444   478   490   470   496 0.81 transcript=FGIG_08851 gene=FGIG_08851
+FGIG_00582           -            248 184508at33208        -            497      0.36    8.9   1.1   1   3    0.0028         7    4.7   0.0   428   459    27    59     9    65 0.79 transcript=FGIG_00582 gene=FGIG_00582
+FGIG_00582           -            248 184508at33208        -            497      0.36    8.9   1.1   2   3      0.19   4.9e+02   -1.4   0.0   435   458   103   126    95   142 0.89 transcript=FGIG_00582 gene=FGIG_00582
+FGIG_00582           -            248 184508at33208        -            497      0.36    8.9   1.1   3   3     0.024        61    1.6   0.3   433   458   157   182   145   186 0.87 transcript=FGIG_00582 gene=FGIG_00582
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/184508at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/184508at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/184508at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:03 2026
+# [ok]

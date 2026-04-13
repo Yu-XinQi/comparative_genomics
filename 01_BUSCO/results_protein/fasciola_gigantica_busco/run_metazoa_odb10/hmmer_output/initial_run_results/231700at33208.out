@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_06485           -            942 231700at33208        -            759   1.8e-24   85.8   7.1   1   3      0.04     1e+02    0.6   0.1    61    93    71   103    69   106 0.90 transcript=FGIG_06485 gene=FGIG_06485
+FGIG_06485           -            942 231700at33208        -            759   1.8e-24   85.8   7.1   2   3   5.1e-07    0.0013   16.8   0.1   116   189   184   272   176   320 0.69 transcript=FGIG_06485 gene=FGIG_06485
+FGIG_06485           -            942 231700at33208        -            759   1.8e-24   85.8   7.1   3   3   1.4e-22   3.5e-19   68.2   0.7   701   758   878   935   875   936 0.95 transcript=FGIG_06485 gene=FGIG_06485
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   1   8     1e-05     0.026   12.5   0.4   602   727   307   425   297   434 0.77 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   2   8   1.5e-05     0.039   11.9   0.5   605   734   340   462   330   466 0.67 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   3   8      0.17   4.2e+02   -1.5   0.0   704   729   542   566   538   578 0.83 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   4   8      0.12   3.1e+02   -1.0   0.0   702   727   574   599   559   602 0.86 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   5   8     0.014        35    2.1   0.1   161   189   612   640   609   650 0.81 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   6   8    0.0083        21    2.8   1.4   460   506   643   691   625   708 0.72 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   7   8   3.1e-08   7.8e-05   20.8   0.9   116   187   722   785   706   816 0.76 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_06307           -            936 231700at33208        -            759   7.6e-08   30.8  20.4   8   8     0.024        60    1.3   0.0   696   731   783   818   780   829 0.83 transcript=FGIG_06307 gene=FGIG_06307
+FGIG_07447           -            353 231700at33208        -            759   9.1e-05   20.6   1.0   1   3   8.4e-06     0.021   12.7   0.1   115   183    12    71     4    76 0.83 transcript=FGIG_07447 gene=FGIG_07447
+FGIG_07447           -            353 231700at33208        -            759   9.1e-05   20.6   1.0   2   3   0.00098       2.5    5.9   0.1   663   718    78   137    65   157 0.84 transcript=FGIG_07447 gene=FGIG_07447
+FGIG_07447           -            353 231700at33208        -            759   9.1e-05   20.6   1.0   3   3      0.83   2.1e+03   -3.8   0.0   237   568   280   294   251   321 0.42 transcript=FGIG_07447 gene=FGIG_07447
+FGIG_07526           -            511 231700at33208        -            759     0.025   12.5   0.1   1   2   0.00013      0.33    8.8   0.0   160   207   275   322   271   324 0.95 transcript=FGIG_07526 gene=FGIG_07526
+FGIG_07526           -            511 231700at33208        -            759     0.025   12.5   0.1   2   2     0.021        53    1.5   0.1   594   632   465   506   355   511 0.72 transcript=FGIG_07526 gene=FGIG_07526
+FGIG_09548           -            319 231700at33208        -            759      0.25    9.2   8.3   1   2      0.09   2.3e+02   -0.6   0.0   157   201    23    67    11    74 0.81 transcript=FGIG_09548 gene=FGIG_09548
+FGIG_09548           -            319 231700at33208        -            759      0.25    9.2   8.3   2   2   0.00022      0.55    8.1   7.2    69   237    72   237    64   247 0.83 transcript=FGIG_09548 gene=FGIG_09548
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/231700at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/231700at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/231700at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:40:55 2026
+# [ok]

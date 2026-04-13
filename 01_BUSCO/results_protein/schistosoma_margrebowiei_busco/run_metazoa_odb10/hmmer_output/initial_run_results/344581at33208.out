@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMRG1_44610.1        -            364 344581at33208        -            244   1.1e-86  290.6   2.7   1   2   1.2e-15   5.9e-12   45.9   0.1     1    72    16    95    16   102 0.79 transcript=SMRG1_44610.1 gene=SMRG1_44610
+SMRG1_44610.1        -            364 344581at33208        -            244   1.1e-86  290.6   2.7   2   2   3.7e-75   1.8e-71  240.8   0.6    77   244   119   313   114   313 0.85 transcript=SMRG1_44610.1 gene=SMRG1_44610
+SMRG1_97680.1        -            304 344581at33208        -            244    0.0031   17.3   0.3   1   2    0.0086        42    3.8   0.1    26    67    53    93    41   120 0.82 transcript=SMRG1_97680.1 gene=SMRG1_97680
+SMRG1_97680.1        -            304 344581at33208        -            244    0.0031   17.3   0.3   2   2   2.8e-05      0.14   11.9   0.0    61   195   117   266    99   275 0.69 transcript=SMRG1_97680.1 gene=SMRG1_97680
+SMRG1_97680.2        -            304 344581at33208        -            244    0.0031   17.3   0.3   1   2    0.0086        42    3.8   0.1    26    67    53    93    41   120 0.82 transcript=SMRG1_97680.2 gene=SMRG1_97680
+SMRG1_97680.2        -            304 344581at33208        -            244    0.0031   17.3   0.3   2   2   2.8e-05      0.14   11.9   0.0    61   195   117   266    99   275 0.69 transcript=SMRG1_97680.2 gene=SMRG1_97680
+SMRG1_97680.3        -            304 344581at33208        -            244    0.0031   17.3   0.3   1   2    0.0086        42    3.8   0.1    26    67    53    93    41   120 0.82 transcript=SMRG1_97680.3 gene=SMRG1_97680
+SMRG1_97680.3        -            304 344581at33208        -            244    0.0031   17.3   0.3   2   2   2.8e-05      0.14   11.9   0.0    61   195   117   266    99   275 0.69 transcript=SMRG1_97680.3 gene=SMRG1_97680
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344581at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_margrebowiei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_margrebowiei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/344581at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/344581at33208.hmm /users/40483456/protein/schistosoma_margrebowiei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:54:41 2026
+# [ok]

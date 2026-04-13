@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_12486           -            198 558368at33208        -            185   6.4e-22   77.4   0.0   1   2   4.1e-24   1.7e-20   72.7   0.0     1    62     7    68     7    92 0.89 transcript=FGIG_12486 gene=FGIG_12486
+FGIG_12486           -            198 558368at33208        -            185   6.4e-22   77.4   0.0   2   2     0.013        55    2.6   0.0    83   112   116   144   110   154 0.80 transcript=FGIG_12486 gene=FGIG_12486
+FGIG_02747           -            445 558368at33208        -            185    0.0046   15.9   0.0   1   1   2.3e-06    0.0095   14.9   0.0     6    96   159   249   156   262 0.83 transcript=FGIG_02747 gene=FGIG_02747
+FGIG_12300           -            150 558368at33208        -            185     0.061   12.2   0.0   1   1   1.9e-05     0.079   11.9   0.0    14    63    20    67    16    97 0.78 transcript=FGIG_12300 gene=FGIG_12300
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/558368at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/558368at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/558368at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:41:13 2026
+# [ok]

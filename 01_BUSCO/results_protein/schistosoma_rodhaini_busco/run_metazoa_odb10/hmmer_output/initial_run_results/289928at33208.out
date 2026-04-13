@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SRDH2_39100.6        -            364 289928at33208        -            340   1.5e-38  133.2  17.9   1   2   7.6e-12   1.8e-08   34.3   0.3    83   151    26    97    15   115 0.83 transcript=SRDH2_39100.6 gene=SRDH2_39100
+SRDH2_39100.6        -            364 289928at33208        -            340   1.5e-38  133.2  17.9   2   2   1.6e-32   3.7e-29  102.3  12.1   184   338   154   337   118   339 0.77 transcript=SRDH2_39100.6 gene=SRDH2_39100
+SRDH2_39100.1        -            243 289928at33208        -            340   2.2e-24   86.6   6.6   1   1   6.9e-26   1.6e-22   80.5   6.6    82   255    25   234    14   243 0.72 transcript=SRDH2_39100.1 gene=SRDH2_39100
+SRDH2_39100.3        -            243 289928at33208        -            340   2.2e-24   86.6   6.6   1   1   6.9e-26   1.6e-22   80.5   6.6    82   255    25   234    14   243 0.72 transcript=SRDH2_39100.3 gene=SRDH2_39100
+SRDH2_39100.2        -            245 289928at33208        -            340   2.4e-24   86.5   6.5   1   1   8.4e-26   1.9e-22   80.2   6.5    82   253    25   232    14   236 0.73 transcript=SRDH2_39100.2 gene=SRDH2_39100
+SRDH2_39100.5        -            245 289928at33208        -            340   2.4e-24   86.5   6.5   1   1   8.4e-26   1.9e-22   80.2   6.5    82   253    25   232    14   236 0.73 transcript=SRDH2_39100.5 gene=SRDH2_39100
+SRDH2_39100.4        -            262 289928at33208        -            340     3e-24   86.2   6.6   1   1   1.1e-25   2.5e-22   79.9   6.6    82   253    25   232    14   238 0.73 transcript=SRDH2_39100.4 gene=SRDH2_39100
+SRDH2_95150.1        -            776 289928at33208        -            340     6e-13   49.0   6.6   1   3   2.6e-16     6e-13   49.0   6.6    39   172    55   196    25   216 0.76 transcript=SRDH2_95150.1 gene=SRDH2_95150
+SRDH2_95150.1        -            776 289928at33208        -            340     6e-13   49.0   6.6   2   3    0.0056        13    5.2   0.6    77   122   243   288   234   300 0.81 transcript=SRDH2_95150.1 gene=SRDH2_95150
+SRDH2_95150.1        -            776 289928at33208        -            340     6e-13   49.0   6.6   3   3     0.073   1.7e+02    1.5   2.3   271   326   332   392   289   396 0.74 transcript=SRDH2_95150.1 gene=SRDH2_95150
+SRDH2_96260.2        -            466 289928at33208        -            340   2.3e-12   47.1  17.0   1   2   3.2e-15   7.4e-12   45.4   9.9     2   244    46   313    45   377 0.74 transcript=SRDH2_96260.2 gene=SRDH2_96260
+SRDH2_96260.2        -            466 289928at33208        -            340   2.3e-12   47.1  17.0   2   2     0.011        25    4.2   2.7   124   165   387   428   311   439 0.72 transcript=SRDH2_96260.2 gene=SRDH2_96260
+SRDH2_96260.1        -            440 289928at33208        -            340   8.7e-12   45.2  10.4   1   2   3.8e-15   8.7e-12   45.2  10.4     2   245    46   314    45   378 0.74 transcript=SRDH2_96260.1 gene=SRDH2_96260
+SRDH2_96260.1        -            440 289928at33208        -            340   8.7e-12   45.2  10.4   2   2     0.089   2.1e+02    1.2   1.2   124   154   387   417   310   430 0.69 transcript=SRDH2_96260.1 gene=SRDH2_96260
+SRDH2_61210.1        -           2604 289928at33208        -            340    0.0017   17.9   5.2   1   3    0.0038       8.8    5.7   2.9     3    31  2077  2105  2075  2122 0.79 transcript=SRDH2_61210.1 gene=SRDH2_61210
+SRDH2_61210.1        -           2604 289928at33208        -            340    0.0017   17.9   5.2   2   3   7.4e-07    0.0017   17.9   5.2    52   279  2208  2444  2198  2470 0.72 transcript=SRDH2_61210.1 gene=SRDH2_61210
+SRDH2_61210.1        -           2604 289928at33208        -            340    0.0017   17.9   5.2   3   3     0.053   1.2e+02    2.0   0.8   129   161  2492  2524  2465  2539 0.76 transcript=SRDH2_61210.1 gene=SRDH2_61210
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289928at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_rodhaini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_rodhaini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/289928at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/289928at33208.hmm /users/40483456/protein/schistosoma_rodhaini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:57:20 2026
+# [ok]

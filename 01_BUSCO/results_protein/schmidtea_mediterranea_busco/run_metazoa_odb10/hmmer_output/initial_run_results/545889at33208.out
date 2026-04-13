@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h1SMcT0022228.1      -            203 545889at33208        -            155   2.9e-27   96.6  23.9   1   1   3.6e-29     3e-25   90.1  23.9     2   142     4   169     3   174 0.82 transcript=h1SMcT0022228.1 gene=h1SMcG0022228
+h1SMcT0022228.2      -            203 545889at33208        -            155   2.9e-27   96.6  23.9   1   1   3.6e-29     3e-25   90.1  23.9     2   142     4   169     3   174 0.82 transcript=h1SMcT0022228.2 gene=h1SMcG0022228
+h1SMcT0002340.1      -            210 545889at33208        -            155   1.7e-15   58.4  32.8   1   1   8.4e-16   7.1e-12   46.7  32.8     2   129     4   155     3   198 0.70 transcript=h1SMcT0002340.1 gene=h1SMcG0002340
+h1SMcT0002340.2      -            210 545889at33208        -            155   1.7e-15   58.4  32.8   1   1   8.4e-16   7.1e-12   46.7  32.8     2   129     4   155     3   198 0.70 transcript=h1SMcT0002340.2 gene=h1SMcG0002340
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/545889at33208.hmm
+# Target file:     /users/40483456/protein/schmidtea_mediterranea.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schmidtea_mediterranea_busco/run_metazoa_odb10/hmmer_output/initial_run_results/545889at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/545889at33208.hmm /users/40483456/protein/schmidtea_mediterranea.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:02:01 2026
+# [ok]

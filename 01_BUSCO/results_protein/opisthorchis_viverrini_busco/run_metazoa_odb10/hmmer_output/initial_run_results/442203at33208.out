@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T265_14071           -            804 442203at33208        -            347   1.5e-93  313.6   0.0   1   2   6.9e-46   5.7e-42  144.0   0.0     1   136   347   503   347   520 0.81 transcript=T265_14071 gene=T265_14071
+T265_14071           -            804 442203at33208        -            347   1.5e-93  313.6   0.0   2   2   1.2e-51   9.5e-48  162.9   0.0   134   345   524   800   520   802 0.75 transcript=T265_14071 gene=T265_14071
+T265_04788           -            308 442203at33208        -            347   0.00015   20.9   0.0   1   2      0.52   4.2e+03   -3.6   0.0   192   216   100   124    94   126 0.78 transcript=T265_04788 gene=T265_04788
+T265_04788           -            308 442203at33208        -            347   0.00015   20.9   0.0   2   2   3.5e-08   0.00029   20.0   0.0   258   345   200   300   167   302 0.75 transcript=T265_04788 gene=T265_04788
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442203at33208.hmm
+# Target file:     /users/40483456/protein/opisthorchis_viverrini.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/opisthorchis_viverrini_busco/run_metazoa_odb10/hmmer_output/initial_run_results/442203at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/442203at33208.hmm /users/40483456/protein/opisthorchis_viverrini.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:44:58 2026
+# [ok]

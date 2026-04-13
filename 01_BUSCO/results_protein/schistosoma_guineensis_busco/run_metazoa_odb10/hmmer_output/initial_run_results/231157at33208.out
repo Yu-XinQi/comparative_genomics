@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SGUI1_11530.1        -            591 231157at33208        -            432    3e-117  391.9   0.1   1   2   5.6e-44     5e-40  137.5   0.0     1   195    25   273    25   308 0.68 transcript=SGUI1_11530.1 gene=SGUI1_11530
+SGUI1_11530.1        -            591 231157at33208        -            432    3e-117  391.9   0.1   2   2     1e-76     9e-73  245.4   0.1   209   431   335   577   329   578 0.87 transcript=SGUI1_11530.1 gene=SGUI1_11530
+SGUI1_29220.1        -            632 231157at33208        -            432   2.5e-05   23.2   0.0   1   2   7.7e-09   6.9e-05   21.7   0.0    31    60   168   197   161   209 0.84 transcript=SGUI1_29220.1 gene=SGUI1_29220
+SGUI1_29220.1        -            632 231157at33208        -            432   2.5e-05   23.2   0.0   2   2       0.2   1.8e+03   -2.7   0.0   392   423   576   612   563   617 0.63 transcript=SGUI1_29220.1 gene=SGUI1_29220
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/231157at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_guineensis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_guineensis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/231157at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/231157at33208.hmm /users/40483456/protein/schistosoma_guineensis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:48:29 2026
+# [ok]

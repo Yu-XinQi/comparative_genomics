@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+STRK1_12020.1        -            190 437653at33208        -            138   8.1e-51  171.0   0.0   1   1   5.2e-54   1.9e-50  169.8   0.0     1   136     1   163     1   165 0.88 transcript=STRK1_12020.1 gene=STRK1_12020
+STRK1_12020.2        -            268 437653at33208        -            138   2.5e-50  169.4   0.0   1   1   1.6e-53   5.8e-50  168.3   0.0     1   136    79   241    79   243 0.88 transcript=STRK1_12020.2 gene=STRK1_12020
+STRK1_41530.1        -            279 437653at33208        -            138   4.6e-07   29.3   0.0   1   1   2.8e-10     1e-06   28.2   0.0     1   131    34   184    34   191 0.77 transcript=STRK1_41530.1 gene=STRK1_41530
+STRK1_54590.1        -           1210 437653at33208        -            138     0.024   14.0   0.0   1   2     0.015        55    3.1   0.0    47    92   546   591   538   602 0.88 transcript=STRK1_54590.1 gene=STRK1_54590
+STRK1_54590.1        -           1210 437653at33208        -            138     0.024   14.0   0.0   2   2   0.00054         2    7.8   0.0    19    51  1084  1116  1071  1123 0.86 transcript=STRK1_54590.1 gene=STRK1_54590
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/437653at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_turkestanicum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_turkestanicum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/437653at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/437653at33208.hmm /users/40483456/protein/schistosoma_turkestanicum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 18:00:28 2026
+# [ok]

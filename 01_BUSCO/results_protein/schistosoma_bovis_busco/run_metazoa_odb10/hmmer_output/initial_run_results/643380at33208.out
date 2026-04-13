@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SBOV2_49450.1        -            142 643380at33208        -             90   3.1e-20   72.0   0.3   1   1   8.2e-24   4.2e-20   71.6   0.3     7    88    11    94     5    96 0.91 transcript=SBOV2_49450.1 gene=SBOV2_49450
+SBOV2_72600.1        -            623 643380at33208        -             90      0.16   12.0   0.2   1   1   6.9e-05      0.35   10.9   0.2    35    79   401   443   393   452 0.85 transcript=SBOV2_72600.1 gene=SBOV2_72600
+SBOV2_63750.1        -            125 643380at33208        -             90      0.21   11.6   5.0   1   2     0.015        75    3.4   0.1    56    83    11    38     4    43 0.75 transcript=SBOV2_63750.1 gene=SBOV2_63750
+SBOV2_63750.1        -            125 643380at33208        -             90      0.21   11.6   5.0   2   2   0.00019      0.97    9.5   1.5    42    88    75   121    63   122 0.87 transcript=SBOV2_63750.1 gene=SBOV2_63750
+SBOV2_31820.1        -            464 643380at33208        -             90         2    8.5   8.1   1   2   2.6e-05      0.13   12.3   1.7     4    58   282   337   280   351 0.79 transcript=SBOV2_31820.1 gene=SBOV2_31820
+SBOV2_31820.1        -            464 643380at33208        -             90         2    8.5   8.1   2   2       2.2   1.1e+04   -3.5   0.6    34    49   407   422   404   431 0.48 transcript=SBOV2_31820.1 gene=SBOV2_31820
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/643380at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_bovis.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_bovis_busco/run_metazoa_odb10/hmmer_output/initial_run_results/643380at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/643380at33208.hmm /users/40483456/protein/schistosoma_bovis.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:46:34 2026
+# [ok]

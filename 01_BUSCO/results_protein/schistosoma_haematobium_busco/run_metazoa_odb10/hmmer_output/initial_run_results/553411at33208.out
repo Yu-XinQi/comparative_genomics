@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SHAE2_43160.1        -            248 553411at33208        -            163   3.9e-48  163.5  19.5   1   2   8.5e-49   3.7e-45  153.9   9.7     1   125     1   144     1   174 0.87 transcript=SHAE2_43160.1 gene=SHAE2_43160
+SHAE2_43160.1        -            248 553411at33208        -            163   3.9e-48  163.5  19.5   2   2   3.9e-06     0.017   15.1   2.3   135   161   206   232   178   234 0.86 transcript=SHAE2_43160.1 gene=SHAE2_43160
+SHAE2_64080.1        -           2765 553411at33208        -            163     0.013   15.6   0.1   1   2         3   1.3e+04   -4.0   0.5   144   162  1723  1741  1716  1754 0.54 transcript=SHAE2_64080.1 gene=SHAE2_64080
+SHAE2_64080.1        -           2765 553411at33208        -            163     0.013   15.6   0.1   2   2   2.9e-06     0.013   15.6   0.1   102   132  1782  1812  1763  1821 0.85 transcript=SHAE2_64080.1 gene=SHAE2_64080
+SHAE2_77650.1        -            359 553411at33208        -            163     0.029   14.4   0.2   1   1   1.1e-05     0.048   13.7   0.2    98   118    82   102    30   125 0.83 transcript=SHAE2_77650.1 gene=SHAE2_77650
+SHAE2_26020.1        -            115 553411at33208        -            163     0.062   13.3   1.0   1   1   1.6e-05     0.072   13.1   1.0    99   117    35    53     8    85 0.85 transcript=SHAE2_26020.1 gene=SHAE2_26020
+SHAE2_69030.1        -            204 553411at33208        -            163      0.22   11.5   1.4   1   1    0.0001      0.45   10.5   1.4    99   116    35    52    11    78 0.87 transcript=SHAE2_69030.1 gene=SHAE2_69030
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/553411at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_haematobium.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_haematobium_busco/run_metazoa_odb10/hmmer_output/initial_run_results/553411at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/553411at33208.hmm /users/40483456/protein/schistosoma_haematobium.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:50:47 2026
+# [ok]

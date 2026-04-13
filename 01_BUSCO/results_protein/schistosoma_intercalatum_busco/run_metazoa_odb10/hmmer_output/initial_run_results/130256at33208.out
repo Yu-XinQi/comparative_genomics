@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   1   6   1.9e-09   1.1e-05   24.1   4.4     1    82     6    83     6   103 0.83 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   2   6   8.2e-09   4.9e-05   22.0   0.0    85   187   116   233   105   267 0.73 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   3   6     0.033     2e+02    0.2   0.0   216   258   308   352   300   381 0.69 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   4   6   7.6e-15   4.5e-11   41.9   0.1   248   364   386   506   363   514 0.82 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   5   6   4.7e-06     0.028   12.9   0.0   377   402   570   595   568   609 0.84 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.1        -            919 130256at33208        -            570   3.1e-95  319.8  13.9   6   6   1.7e-68     1e-64  219.0   0.1   401   570   677   866   670   866 0.89 transcript=SINT1_16220.1 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   1   6   1.6e-09   9.6e-06   24.3   4.4     1    82     6    83     6   103 0.83 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   2   6   7.1e-09   4.2e-05   22.2   0.0    85   187   116   233   105   267 0.73 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   3   6     0.032   1.9e+02    0.2   0.0   216   255   308   349   298   370 0.67 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   4   6   6.5e-15   3.8e-11   42.1   0.1   248   364   386   506   364   515 0.82 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   5   6   4.2e-06     0.025   13.1   0.0   377   402   570   595   568   609 0.84 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.3        -            828 130256at33208        -            570   2.6e-63  214.4  14.8   6   6   1.7e-36     1e-32  113.4   0.1   401   516   677   812   670   824 0.84 transcript=SINT1_16220.3 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   1   6   1.4e-09     8e-06   24.6   4.2     1    82     6    83     6   100 0.83 transcript=SINT1_16220.2 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   2   6   6.5e-09   3.9e-05   22.3   0.0    85   187   116   233   109   267 0.73 transcript=SINT1_16220.2 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   3   6      0.03   1.8e+02    0.3   0.0   216   254   308   348   298   369 0.67 transcript=SINT1_16220.2 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   4   6   5.7e-15   3.4e-11   42.3   0.1   248   364   386   506   364   514 0.82 transcript=SINT1_16220.2 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   5   6   3.8e-06     0.022   13.2   0.0   377   402   570   595   568   609 0.84 transcript=SINT1_16220.2 gene=SINT1_16220
+SINT1_16220.2        -            755 130256at33208        -            570     8e-43  146.7  14.4   6   6   1.2e-15   6.9e-12   44.6   0.1   401   460   677   743   670   749 0.88 transcript=SINT1_16220.2 gene=SINT1_16220
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/130256at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_intercalatum.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_intercalatum_busco/run_metazoa_odb10/hmmer_output/initial_run_results/130256at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/130256at33208.hmm /users/40483456/protein/schistosoma_intercalatum.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:51:51 2026
+# [ok]

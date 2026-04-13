@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SMTH1_50050.1        -            446 301572at33208        -            397  5.6e-164  545.7   0.1   1   2  3.2e-152  9.2e-149  495.5   0.0    22   357    14   373     1   383 0.92 transcript=SMTH1_50050.1 gene=SMTH1_50050
+SMTH1_50050.1        -            446 301572at33208        -            397  5.6e-164  545.7   0.1   2   2   2.1e-16   5.9e-13   48.4   0.1   352   397   394   438   388   438 0.89 transcript=SMTH1_50050.1 gene=SMTH1_50050
+SMTH1_50050.2        -            446 301572at33208        -            397  5.6e-164  545.7   0.1   1   2  3.2e-152  9.2e-149  495.5   0.0    22   357    14   373     1   383 0.92 transcript=SMTH1_50050.2 gene=SMTH1_50050
+SMTH1_50050.2        -            446 301572at33208        -            397  5.6e-164  545.7   0.1   2   2   2.1e-16   5.9e-13   48.4   0.1   352   397   394   438   388   438 0.89 transcript=SMTH1_50050.2 gene=SMTH1_50050
+SMTH1_79020.1        -            432 301572at33208        -            397   1.4e-32  112.9   0.2   1   2      0.69     2e+03   -2.8   0.1   252   268    67    83    40   105 0.54 transcript=SMTH1_79020.1 gene=SMTH1_79020
+SMTH1_79020.1        -            432 301572at33208        -            397   1.4e-32  112.9   0.2   2   2   5.1e-36   1.4e-32  112.9   0.2    35   289   162   429   126   431 0.84 transcript=SMTH1_79020.1 gene=SMTH1_79020
+SMTH1_360.1          -            563 301572at33208        -            397   4.9e-31  107.9   0.2   1   1     3e-34   8.5e-31  107.1   0.2    35   295   128   403   109   416 0.75 transcript=SMTH1_360.1 gene=SMTH1_360
+SMTH1_360.2          -            610 301572at33208        -            397   5.9e-31  107.6   0.2   1   1   3.6e-34     1e-30  106.8   0.2    35   294   175   449   156   463 0.75 transcript=SMTH1_360.2 gene=SMTH1_360
+SMTH1_8320.1         -            496 301572at33208        -            397     0.025   13.4  13.6   1   5      0.95   2.7e+03   -3.2   0.0    39    68    51    80    42    99 0.65 transcript=SMTH1_8320.1 gene=SMTH1_8320
+SMTH1_8320.1         -            496 301572at33208        -            397     0.025   13.4  13.6   2   5      0.47   1.3e+03   -2.2   0.0   108   154   137   187   124   191 0.72 transcript=SMTH1_8320.1 gene=SMTH1_8320
+SMTH1_8320.1         -            496 301572at33208        -            397     0.025   13.4  13.6   3   5     4e-05      0.11   11.2   0.3   157   205   213   261   205   296 0.85 transcript=SMTH1_8320.1 gene=SMTH1_8320
+SMTH1_8320.1         -            496 301572at33208        -            397     0.025   13.4  13.6   4   5    0.0018       5.1    5.8   0.2   215   241   302   328   293   338 0.86 transcript=SMTH1_8320.1 gene=SMTH1_8320
+SMTH1_8320.1         -            496 301572at33208        -            397     0.025   13.4  13.6   5   5     0.015        43    2.7   1.7   241   295   352   406   337   430 0.82 transcript=SMTH1_8320.1 gene=SMTH1_8320
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/301572at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_mattheei.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_mattheei_busco/run_metazoa_odb10/hmmer_output/initial_run_results/301572at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/301572at33208.hmm /users/40483456/protein/schistosoma_mattheei.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:56:11 2026
+# [ok]

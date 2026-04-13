@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FGIG_00915           -           1459 124302at33208        -            798  1.1e-115  387.1   9.5   1   5     1e-80   1.3e-76  257.9   0.1     1   193     6   199     6   207 0.97 transcript=FGIG_00915 gene=FGIG_00915
+FGIG_00915           -           1459 124302at33208        -            798  1.1e-115  387.1   9.5   2   5   1.6e-09   2.1e-05   22.4   0.2   213   238   252   277   245   279 0.93 transcript=FGIG_00915 gene=FGIG_00915
+FGIG_00915           -           1459 124302at33208        -            798  1.1e-115  387.1   9.5   3   5   7.2e-17   9.2e-13   46.7   0.1   311   354   275   318   274   319 0.95 transcript=FGIG_00915 gene=FGIG_00915
+FGIG_00915           -           1459 124302at33208        -            798  1.1e-115  387.1   9.5   4   5     2e-14   2.5e-10   38.7   0.1   422   476   438   492   425   497 0.92 transcript=FGIG_00915 gene=FGIG_00915
+FGIG_00915           -           1459 124302at33208        -            798  1.1e-115  387.1   9.5   5   5   2.2e-10   2.8e-06   25.3   0.0   720   779  1345  1405  1287  1418 0.83 transcript=FGIG_00915 gene=FGIG_00915
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/124302at33208.hmm
+# Target file:     /users/40483456/protein/fasciola_gigantica.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/fasciola_gigantica_busco/run_metazoa_odb10/hmmer_output/initial_run_results/124302at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/124302at33208.hmm /users/40483456/protein/fasciola_gigantica.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:40:58 2026
+# [ok]

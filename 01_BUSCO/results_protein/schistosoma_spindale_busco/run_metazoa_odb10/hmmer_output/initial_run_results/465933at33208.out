@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SSPN1_61660.2        -            309 465933at33208        -            247     5e-82  274.7   0.0   1   2   2.8e-69   1.6e-65  220.7   0.0     1   171    38   222    38   235 0.91 transcript=SSPN1_61660.2 gene=SSPN1_61660
+SSPN1_61660.2        -            309 465933at33208        -            247     5e-82  274.7   0.0   2   2   7.1e-18     4e-14   52.3   0.0   169   223   239   293   222   299 0.92 transcript=SSPN1_61660.2 gene=SSPN1_61660
+SSPN1_61660.1        -            390 465933at33208        -            247   8.4e-82  274.0   0.0   1   3   5.6e-69   3.2e-65  219.7   0.0     1   171    38   222    38   231 0.91 transcript=SSPN1_61660.1 gene=SSPN1_61660
+SSPN1_61660.1        -            390 465933at33208        -            247   8.4e-82  274.0   0.0   2   3   1.1e-17     6e-14   51.8   0.0   169   223   239   293   227   303 0.93 transcript=SSPN1_61660.1 gene=SSPN1_61660
+SSPN1_61660.1        -            390 465933at33208        -            247   8.4e-82  274.0   0.0   3   3      0.76   4.3e+03   -3.4   0.0   225   241   336   352   331   357 0.81 transcript=SSPN1_61660.1 gene=SSPN1_61660
+SSPN1_61800.1        -            350 465933at33208        -            247       5.7    6.0   5.6   1   3     0.012        67    2.5   0.4    16    40    10    34     5    46 0.89 transcript=SSPN1_61800.1 gene=SSPN1_61800
+SSPN1_61800.1        -            350 465933at33208        -            247       5.7    6.0   5.6   2   3    0.0063        36    3.4   0.2    91   130    57    96    36   138 0.78 transcript=SSPN1_61800.1 gene=SSPN1_61800
+SSPN1_61800.1        -            350 465933at33208        -            247       5.7    6.0   5.6   3   3     0.032   1.8e+02    1.1   0.0   174   220   236   284   223   290 0.78 transcript=SSPN1_61800.1 gene=SSPN1_61800
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/465933at33208.hmm
+# Target file:     /users/40483456/protein/schistosoma_spindale.fa
+# Option settings: hmmsearch --domtblout /users/40483456/busco/results_pro/schistosoma_spindale_busco/run_metazoa_odb10/hmmer_output/initial_run_results/465933at33208.out --cpu 1 /users/40483456/busco_datasets/busco_downloads/lineages/metazoa_odb10/hmms/465933at33208.hmm /users/40483456/protein/schistosoma_spindale.fa 
+# Current dir:     /users/40483456
+# Date:            Thu Jan 15 17:59:28 2026
+# [ok]
