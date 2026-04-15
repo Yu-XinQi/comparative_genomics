@@ -1,0 +1,42 @@
+# 分类
+install.packages('tidyverse')
+install.packages('ggpubr')
+install.packages("ggplot2")
+# 合并
+library(tidyverse)
+df <- read.csv('Orthogroups.GeneCount.tsv', sep='\t',row.names = 1)
+df 
+
+df_uniq <- read.csv('Orthogroups_UnassignedGenes.tsv',sep = '\t', row.names = 1)
+df <- df[,1:(ncol(df)-1)]
+df_uniq[df_uniq != ''] <- 1
+df_uniq[df_uniq == ''] <- 0
+df <- rbind(df, df_uniq)
+# df是合并好的
+# 导出1，0表
+install.packages("openxlsx")
+library(openxlsx)
+write.xlsx(dat, file = "1.xlsx")
+write.xlsx(df_uniq, file = "2.xlsx")
+# 分类
+df_summary <- data.frame(gene=rownames(df))
+df_summary$type <- apply(df, 1, function(x) if (length(x[x!=0]) == 1) colnames(df)[which(x != 0)] else NA)
+df_summary$type[apply(df, 1, function(x) all(x != 0))] <- 'core'
+df_summary[is.na(df_summary)] <- 'accessory'
+
+st_u <- data.frame(t(table(df_summary$type))) %>% rename(strain=Var2) %>%select(strain, Freq) %>%
+  merge(., data.frame(strain = colnames(df)), all.y=T)
+st_u[is.na(st_u)] <- 0
+# 饼图
+library(ggplot2)
+library(ggpubr) 
+library(tidyverse)
+pdata1 <- data.frame(group = factor(c('core','unique','accessory'), levels = c('core','unique','accessory')), 
+                     freq = c(nrow(df_summary %>% filter(type=='core')),sum(st_u$Freq), nrow(df_summary %>% filter(type=='accessory'))))
+piedata1 <- pdata1%>% 
+  mutate(labs=paste0(freq,'\n(',100*round(freq/sum(freq),4),'%)')) 
+ggpie(piedata1, 'freq', #绘图，只用写频数就行，切记不用再写分组 
+      fill = 'group', palette = 'jco',#颜色板为jco. 
+      label = 'labs', lab.pos = 'in', lab.font = c(4, 'white'))+ #设置标签，标签的位置在图的内部，标签的大小为4， 颜色为白色. 
+  theme(legend.position = "top")+ labs(fill="")
+ggsave('result/pie.png')

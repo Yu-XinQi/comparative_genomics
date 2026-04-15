@@ -1,0 +1,18 @@
+# 画图
+df <- read.delim("Orthogroups.GeneCount.tsv", header = TRUE, row.names = 1, sep = "\t")
+df <- df[, -ncol(df)]
+dat <- as.data.frame((df > 0) * 1)
+library(UpSetR)
+upset(as.data.frame(dat), order.by = "freq")
+upset(dat,
+      nsets = 18, # 可视化数据集数量
+      nintersects= 40, # 显示前多少个交集
+      order.by = "freq",      # 按照交集频次（从大到小）排序
+      keep.order = TRUE,
+      main.bar.color = "#4C72B0", # 柱状图颜色
+      matrix.color="black", # 集合点的颜色
+      sets.bar.color= "#9DB7E0", # 条形图条形的颜色
+      set_size.show = F, # 是否在条形图上显示集合大小
+      mb.ratio = c(0.5, 0.5),  # 矩阵图与主柱图之比
+      sets = c("schistosoma_guineensis", "schistosoma_bovis", "schistosoma_curassoni", "schistosoma_intercalatum", "schistosoma_haematobium", "schistosoma_mattheei", "schistosoma_margrebowiei", "schistosoma_spindale", "schistosoma_rodhaini", "schistosoma_mansoni", "schistosoma_turkestanicum", "s.mekongi", "schistosoma_japonicum", "trichobilharzia_regenti", "fasciola_gigantica", "fasciola_hepatica", "opisthorchis_viverrini", "schmidtea_mediterranea")
+)
